@@ -6,18 +6,19 @@ Data visualisations and insights on the Covid-19 transmissions to include:
  - [ ] Exploration and evaluation of models in use 
 
 Datasets:
-South Africa Provincial:
-  - tests
-  - positive cases
-  - deaths
-  - recovered, Google mobility]
-South Africa National:
-  - tests
-  - hospital beds
-  - ICU capacity
-Africa:
-  - tests
-  - positive cases
-  - deaths
-  - recovered
-  - Google mobility
+1. South Africa Provincial:
+   - tests
+   - positive cases
+   - deaths
+   - recovered
+   - Google mobility
+2. South Africa National:
+   - tests
+   - hospital beds
+   - ICU capacity
+3. Africa:
+   - tests
+   - positive cases
+   - deaths
+   - recovered
+   - Google mobility
