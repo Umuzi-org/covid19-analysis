@@ -33,6 +33,10 @@ df4= pd.json_normalize(df4,record_path ='snapshots')
 #---------Provincial cumulative timeline confirmed ---------------------
 df_day = pd.read_csv('https://raw.githubusercontent.com/dsfsi/covid19za/master/data/covid19za_provincial_cumulative_timeline_confirmed.csv')
 
+#------Provincial Cummulative death -----
+
+df_pr_death = pd.read_csv('https://raw.githubusercontent.com/dsfsi/covid19za/master/data/covid19za_provincial_cumulative_timeline_deaths.csv')
+
 #--------- API to CSV -----
 
 df.to_csv('data/external/global_data.csv')
@@ -42,3 +46,4 @@ df3.to_csv('data/external/Sa_live.csv')
 df4.to_csv('data/external/SA_hourly_update.csv')
 df5.to_csv('data/external/Covid_data.csv')
 df_day.to_csv('data/external/provincial_cumulative.csv')
+df_pr_death.to_csv('data/external/provincial_death.csv')
