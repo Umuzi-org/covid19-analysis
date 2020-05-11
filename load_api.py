@@ -35,10 +35,10 @@ df_day = pd.read_csv('https://raw.githubusercontent.com/dsfsi/covid19za/master/d
 
 #--------- API to CSV -----
 
-df.to_csv('datasets/global_data.csv')
-df1.to_csv('datasets/SA_last20days.csv')
-df2.to_csv('datasets/SA_from_day1.csv')
-df3.to_csv('datasets/Sa_live.csv')
-df4.to_csv('datasets/SA_3_daily_update.csv')
-df5.to_csv('datasets/Covid_data.csv')
-df_day.to_csv('datasets/provincial_cumulative.csv')
+df.to_csv('data/external/global_data.csv')
+df1.to_csv('data/external/SA_last20days.csv')
+df2.to_csv('data/external/SA_from_day1.csv')
+df3.to_csv('data/external/Sa_live.csv')
+df4.to_csv('data/external/SA_hourly_update.csv')
+df5.to_csv('data/external/Covid_data.csv')
+df_day.to_csv('data/external/provincial_cumulative.csv')
