@@ -39,6 +39,7 @@ df_pr_death = pd.read_csv('https://raw.githubusercontent.com/dsfsi/covid19za/mas
 
 #--------- API to CSV -----
 
+
 df.to_csv('data/external/global_data.csv')
 df1.to_csv('data/external/SA_last20days.csv')
 df2.to_csv('data/external/SA_from_day1.csv')
