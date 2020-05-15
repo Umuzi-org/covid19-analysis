@@ -37,7 +37,11 @@ df_day = pd.read_csv('https://raw.githubusercontent.com/dsfsi/covid19za/master/d
 
 df_pr_death = pd.read_csv('https://raw.githubusercontent.com/dsfsi/covid19za/master/data/covid19za_provincial_cumulative_timeline_deaths.csv')
 
+#----- Provincial testing timeline ----
+df_testing = pd.read_csv('https://raw.githubusercontent.com/dsfsi/covid19za/master/data/covid19za_provincial_cumulative_timeline_testing.csv',error_bad_lines=False)
+
 #--------- API to CSV -----
+
 
 
 df.to_csv('data/external/global_data.csv')
@@ -48,3 +52,4 @@ df4.to_csv('data/external/SA_hourly_update.csv')
 df5.to_csv('data/external/Covid_data.csv')
 df_day.to_csv('data/external/provincial_cumulative.csv')
 df_pr_death.to_csv('data/external/provincial_death.csv')
+df_testing.to_csv('data/external/provincial_testing.csv')
