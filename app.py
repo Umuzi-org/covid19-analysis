@@ -33,10 +33,12 @@ df_death = df_death.fillna(method='ffill')
 #Update for the most recent  hours: SA Cases
 # df.tail()
 
+
+
 fig0 = go.Figure(data=[
     go.Bar( name='GP',x=df_day.index, y=df_day.GP),
     go.Bar( name='WC',x=df_day.index, y=df_day.WC),
-    go.Bar( name='KZ',x=df_day.index, y=df_day.KZN),
+    go.Bar( name='KZN',x=df_day.index, y=df_day.KZN),
     go.Bar( name='EC',x=df_day.index, y=df_day.EC),
     go.Bar( name='NW',x=df_day.index, y=df_day.NW),
     go.Bar( name='NC',x=df_day.index, y=df_day.NC),
@@ -54,52 +56,47 @@ fig0.update_layout(
                      args=[{"visible": [True,True,True,True,True,True,True,True,True,]},
                            {"title": "Cumulative Confirmed Cases: Eastern Cape",
                             }]),
-                dict(label="EC",
+                dict(label="GP",
                      method="update",
-                     args=[{"visible":  [False, False, False,False, False, False,False, False, False]},
+                     args=[{"visible":  [True, False, False,False, False, False,False, False, False]},
                            {"title": "Cumulative Confirmed Cases: Eastern Cape",
                             }]),
                 dict(label="WC",
                      method="update",
-                     args=[{"visible": [True,False,False,False,False,False,False,False,False]},
-                           {"title": "Cumulative Confirmed Cases: Western Cape",
-                          }]),
-                dict(label="FS",
-                     method="update",
                      args=[{"visible": [False,True,False,False,False,False,False,False,False]},
-                           {"title": "Cumulative Confirmed Cases: Free State",
-                          }]),
-                dict(label="GP",
-                     method="update",
-                     args=[{"visible": [False,False,True,False,False,False,False,False,False]},
-                           {"title": "Cumulative Confirmed Cases: Gauteng",
+                           {"title": "Cumulative Confirmed Cases: Western Cape",
                           }]),
                 dict(label="KZN",
                      method="update",
-                     args=[{"visible": [False,False,False,True, False,False,False, False, False]},
-                           {"title": "Cumulative Confirmed  Cases: Kwa Zulu Natal",
+                     args=[{"visible": [False,False,True,False,False,False,False,False,False]},
+                           {"title": "Cumulative Confirmed Cases: Free State",
+                          }]),
+                dict(label="EC",
+                     method="update",
+                     args=[{"visible": [False,False,False,True,False,False,False,False,False]},
+                           {"title": "Cumulative Confirmed Cases: Gauteng",
                           }]),
                 dict(label="NW",
                      method="update",
-                     args=[{"visible": [False,False,False,False,True,False,False, False, False]},
-                           {"title": "Cumulative Confirmed Cases: North West",
-                          }]),
-                dict(label="LP",
-                     method="update",
-                     args=[{"visible": [ False,False,False,False, False,True, False, False, False]},
-                           {"title": "Cumulative Confirmed Cases: Limpopo",
-                          }]),
-                dict(label="MP",
-                     method="update",
-                     args=[{"visible": [ False,False,False,False, False,False,True,  False, False]},
-                           {"title": "Cumulative Confirmed Cases: Mpumalanga",
+                     args=[{"visible": [False,False,False,False,True, False,False, False, False]},
+                           {"title": "Cumulative Confirmed Cases: Kwa Zulu Natal",
                           }]),
                 dict(label="NC",
                      method="update",
-                     args=[{"visible": [ False,False,False,False, False,False,  False,True, False]},
-                           {"title": "Cumulative Confirmed Cases: Northern Cape",
+                     args=[{"visible": [False,False,False,False,False,True,False, False, False]},
+                           {"title": "Cumulative Confirmed Cases: North West",
                           }]),
-                 dict(label="UNKWNOWN",
+                dict(label="MP",
+                     method="update",
+                     args=[{"visible": [ False,False,False,False, False,False, True, False, False]},
+                           {"title": "Cumulative Confirmed Cases: Limpopo",
+                          }]),
+                dict(label="LP",
+                     method="update",
+                     args=[{"visible": [ False,False,False,False, False,False,False,True,   False]},
+                           {"title": "Cumulative Confirmed Cases: Mpumalanga",
+                          }]),
+                 dict(label="FS",
                      method="update",
                      args=[{"visible": [ False,False,False,False, False,False,False, False,True]},
                            {"title": "Cumulative Confirmed Cases: Unlocated",
@@ -114,6 +111,7 @@ fig0.update_layout(barmode='stack',xaxis=dict(
 fig0.update_layout(height=600, width=800, title_text="Confirmed Cases by provinces",
                  xaxis_title="Days since the first confirmed case",
                   yaxis_title="Linear")
+                            
 
 # Initialize figure
 fig1 = go.Figure()
@@ -224,7 +222,7 @@ fig1.add_trace(
         x=df_day.index,
         name= 'NC'
     ))
-# fig.add_trace(
+# fig1.add_trace(
 #     go.Scatter(
 #         y=df_day['UNKNOWN'],
 #         x=df_day.index,
@@ -240,8 +238,8 @@ fig1.update_layout(
             buttons=list([
                 dict(label="ALL",
                      method="update",
-                     args=[{"visible": [True,True,True,True,True,True,True,True,True,True,True,True,True,]},
-                           {"title": "Cumulative Confirmed Fatalities Cases: Eastern Cape",
+                     args=[{"visible": [True,True,True,True,True,True,True,True,True,True,True,True,False,]},
+                           {"title": "Cumulative Confirmed Cases: Eastern Cape",
                             }]),
                 dict(label="EC",
                      method="update",
@@ -290,7 +288,7 @@ fig1.update_layout(
                           }]),
                  dict(label="Cumulative Confirmed Cases: UNKWNOWN",
                      method="update",
-                     args=[{"visible": [True,True,True,False, False,False,False,False, False,False,False, False,True]},
+                     args=[{"visible": [True,True,True,False, False,False,False,False, False,False,False, False,False]},
                            {"title": "Unlocated",
                           }]),
             ]),
@@ -303,11 +301,7 @@ fig1.update_layout(title_text="Confirmed Cases by Province",
                  yaxis_title="Log",
                  yaxis_type="log")
 
-
-                            
-    
-
-
+#Display on dash and flask
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
