@@ -320,11 +320,11 @@ App.layout = html.Div(children=[
     ),
 
     dcc.Graph(
-        id='example-graph-2',
+        id='linear_bar',
         figure=fig0
     ),
     dcc.Graph(
-        id='example-graph-',
+        id='log_commulative',
         figure=fig1
     )
 ])
