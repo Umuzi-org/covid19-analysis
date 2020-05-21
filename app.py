@@ -374,7 +374,7 @@ fig_prov_stacked.update_layout(barmode='stack',xaxis=dict(
         visible = True)))
 fig_prov_stacked.update_layout(height=600, width=800, title_text="Confirmed Cases by provinces",
                  xaxis_title="Days since the first confirmed case",
-                  yaxis_title="Linear")
+                  yaxis_title="Confirmed cases")
                             
 #-----------------Provinces commulative log graph-------------------------
 
