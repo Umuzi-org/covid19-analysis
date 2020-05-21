@@ -188,16 +188,16 @@ data = [ dict(
  locationmode = 'country names',
  marker = dict(
  line = dict (
- color = 'rgb(155,155,155)',
- width = 4,
+ color = 'rgb(255,255,255)',
+ width = 2,
  )  ),
  colorbar = dict(
  title = 'Number of cases'
  )
  ) ]
 layout = dict(
- autosize=True,
-margin={"r":0,"t":0,"l":0,"b":0}
+ autosize=False,
+
     
 )
 fig = go.Figure(data = data, layout = layout)
@@ -213,15 +213,15 @@ data1 = [ dict(
  marker = dict(
  line = dict (
  color = 'rgb(255,255,255)',
- width = 10,
+ width = 2,
  )  ),
  colorbar = dict(
  title = 'Active cases'
  )
  ) ]
 layout = dict(
- autosize=True,
- margin={"r":0,"t":0,"l":0,"b":0}   
+ autosize=False,
+    
 )
 
 
@@ -238,16 +238,16 @@ data2 = [ dict(
  locationmode = 'country names',
  marker = dict(
  line = dict (
- color = 'rgb(245, 197, 66)',
- width = 10,
+ color = 'rgb(255, 255, 255)',
+ width = 2,
  )  ),
  colorbar = dict(
  title = 'Closed Cases'
  )
  ) ]
 layout = dict(
- autosize=True,
- margin={"r":0,"t":0,"l":0,"b":0}   
+ autosize=False,
+    
 )
 fig2_ = go.Figure(data = data2, layout = layout)
 
@@ -261,16 +261,16 @@ data3 = [ dict(
  locationmode = 'country names',
  marker = dict(
  line = dict (
- color = 'rgb(455,455,455)',
- width = 10,
+ color = 'rgb(255,255,255)',
+ width = 2,
  )  ),
  colorbar = dict(
  title = 'Recovery Rate (%)'
  )
  ) ]
 layout = dict(
- autosize=True,
- margin={"r":0,"t":0,"l":0,"b":0}   
+ autosize=False,
+    
 )
 fig3_ = go.Figure(data = data3, layout = layout)
 
@@ -285,16 +285,16 @@ data4 = [ dict(
  locationmode = 'country names',
  marker = dict(
  line = dict (
- color = 'rgb(555,555,555)',
- width = 10,
+ color = 'rgb(255,255,255)',
+ width = 2,
  )  ),
  colorbar = dict(
  title = 'Case Fatality Rate (%)'
  )
  ) ]
 layout = dict(
-    autosize=True,
-    margin={"r":0,"t":0,"l":0,"b":0}
+    autosize=False,
+    
 )
 fig4_ = go.Figure(data = data4, layout = layout)
 
