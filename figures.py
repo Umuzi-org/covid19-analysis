@@ -172,7 +172,6 @@ df['Closed Cases'] = df['TotalRecovered'] + df['TotalDeaths']
 df['Recovery Rate'] = (df['TotalRecovered'] / df['TotalConfirmed'])*100
 df['Case Fatality Rate'] = (df['TotalDeaths'] / df['TotalConfirmed']) * 100
 
-
 #SA commulative data graph
 df_rsa = df6[df6.countriesAndTerritories == 'South_Africa'].reset_index()
 fig_line = go.Figure()
@@ -197,8 +196,6 @@ data = [ dict(
  ) ]
 layout = dict(
  autosize=False,
-
-    
 )
 fig = go.Figure(data = data, layout = layout)
 
@@ -220,13 +217,8 @@ data1 = [ dict(
  )
  ) ]
 layout = dict(
- autosize=False,
-    
+ autosize=False,   
 )
-
-
-
-
 fig1_ = go.Figure(data = data1, layout = layout)
 
 #Closed cases world map
@@ -269,11 +261,9 @@ data3 = [ dict(
  )
  ) ]
 layout = dict(
- autosize=False,
-    
+ autosize=False,    
 )
 fig3_ = go.Figure(data = data3, layout = layout)
-
 
 #Case fatality rate world map
 
@@ -297,7 +287,6 @@ layout = dict(
     
 )
 fig4_ = go.Figure(data = data4, layout = layout)
-
 
 fig_prov_stacked = go.Figure(data=[
     go.Bar( name='GP',x=df_day.index, y=df_day.GP),
@@ -377,7 +366,6 @@ fig_prov_stacked.update_layout(title_text="Confirmed Cases by provinces",
                   yaxis_title="Confirmed cases")
                             
 #-----------------Provinces commulative log graph-------------------------
-
 # Initialize figure
 fig_prov_log = go.Figure()
 
@@ -390,7 +378,6 @@ fig_prov_log.add_trace(
         line=dict(color='grey',
                   width=4, dash='dot'),
         name = '1st Day'
-     
     ))
 fig_prov_log.add_trace(
     go.Scatter(
@@ -399,7 +386,6 @@ fig_prov_log.add_trace(
         line=dict(color='grey',
                   width=4, dash='dot'),
         name = '2nd Day'
-     
     ))
 fig_prov_log.add_trace(
     go.Scatter(
@@ -408,30 +394,23 @@ fig_prov_log.add_trace(
         line=dict(color='grey',
                   width=4, dash='dot'),
         name = '3rd Day'
-     
     ))
-
-
 fig_prov_log.add_annotation(
             x=10,
             y=2.5,
             text="Cases Doubles every day",
-          
 )
 fig_prov_log.add_annotation(
             x=21,
             y=.8,
-            text="Doubles every 2nd day",
-          
+            text="Doubles every 2nd day",         
 )
-
 fig_prov_log.add_annotation(
             x=40,
             y=1.1,
             text="3rd day",
           
 )
-
 
 fig_prov_log.add_trace(
     go.Scatter(
@@ -493,8 +472,6 @@ fig_prov_log.add_trace(
 #         x=df_day.index,
 #         name='Unlocated'
 #     ))
-
-
 
 fig_prov_log.update_layout(
     updatemenus=[
@@ -559,13 +536,11 @@ fig_prov_log.update_layout(
             ]),
         )
     ])
-
 # Set title
 fig_prov_log.update_layout(title_text="Confirmed Cases by Province",
                  xaxis_title="Days since the first confirmed case",
                  yaxis_title="Log",
                  yaxis_type="log")
-
 a = df_day.set_index('date')
 a = a.diff()
 a = a.dropna()
@@ -584,7 +559,6 @@ fig_flat.add_trace(
         line=dict(color='grey',
                   width=4, dash='dot'),
         name = 'lockdown'
-     
     ))
 fig_flat.add_trace(
     go.Scatter(
@@ -593,10 +567,7 @@ fig_flat.add_trace(
         line=dict(color='grey',
                   width=4, dash='dot'),
         name = 'level_4'
-     
     ))
-
-
 fig_flat.add_annotation(
             x=18,
             y=400,
@@ -609,11 +580,6 @@ fig_flat.add_annotation(
             text="Level 4",
           
 )
-
-
-          
-
-
 fig_flat.add_trace(
     go.Scatter(
         y=df_day['EC'],
@@ -747,9 +713,6 @@ fig_flat.update_layout(title_text="Is South Africa flattening the curve",
                  yaxis_title="Daily New Cases",
                  )
 
-
-
-
 # Initialize figure
 fig1 = go.Figure()
 
@@ -761,8 +724,7 @@ fig1.add_trace(
         x=[2,10],
         line=dict(color='grey',
                   width=4, dash='dot'),
-        name = '1st Day'
-     
+        name = '1st Day'  
     ))
 fig1.add_trace(
     go.Scatter(
@@ -866,8 +828,6 @@ fig1.add_trace(
 #         name='Unlocated'
 #     ))
 
-
-
 fig1.update_layout(
     updatemenus=[
         dict(
@@ -950,7 +910,6 @@ app = dash.Dash(__name__,server=server,
                 external_stylesheets=external_stylesheets,
                 url_base_pathname='/cum_province/')
 
-
 #Style sheet
 
 app.config['suppress_callback_exceptions'] = True
@@ -968,16 +927,13 @@ app.layout = html.Div(children=[
                                 'fontFamily': 'Open Sans',
                                 'textAlign': 'center',
                             }),
-             
         ], className="four columns"),
         
         html.Div([
             html.H3('#StayAtHome', style={
                                 'fontFamily': 'Open Sans',
                                 'textAlign': 'right',
-                            }),
-            
-            
+                            }),           
         ], className="four columns")
     ], className="row"),
     

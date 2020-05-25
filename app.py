@@ -52,13 +52,14 @@ import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import flask
+#import plotly figures.py as mod 
 import figures as mod
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 server = flask.Flask(__name__)
 app = dash.Dash(__name__,server=server, 
                 external_stylesheets=external_stylesheets,
-                url_base_pathname='/cum_province/')
+                url_base_pathname='/provincial_covid19-analysis/')
 
 
 #Style sheet
@@ -130,8 +131,7 @@ def render_content(tab):
                             style_cell_conditional=style_cell_conditional,
                             filter_action="native"
                         )
-                ])
-                    
+                ])          
             ], className="row"),
 
                 ], className="three columns"),
@@ -218,7 +218,6 @@ def render_content(tabs):
     
     if tabs == 'tab-1.':
         return dcc.Graph(
-
             id='figure',
             figure=
               go.Figure(mod.fig)
@@ -229,11 +228,9 @@ def render_content(tabs):
             id='figure',
             figure=
               go.Figure(mod.fig1_)
-            )
-           
+            )     
     elif tabs == 'tab-3.':   
         return dcc.Graph(
-
             id='figure',
             figure=
               go.Figure(mod.fig2_)
@@ -245,7 +242,6 @@ def render_content(tabs):
             )
     else:
         return dcc.Graph(
-
             id='figure',
             figure=
               go.Figure(mod.fig4_)
