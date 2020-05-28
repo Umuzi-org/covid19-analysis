@@ -53,7 +53,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 import flask
 #import plotly figures.py as mod 
-from visualisations import figures as mod
+from visualization import figures as mod
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 server = flask.Flask(__name__)
