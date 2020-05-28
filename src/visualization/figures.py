@@ -51,26 +51,26 @@ style_table = {
 #------------------------Read in data ---------------------------
 #SA Cummulative
 #---------------- Load datasets -----------
-df = pd.read_csv('data/external/global_data.csv')
+df = pd.read_csv('./../data/external/global_data.csv')
 
-df2 = pd.read_csv('data/external/SA_from_day1.csv')
-df4 = pd.read_csv('data/external/SA_3_daily_update.csv')
-df5 = pd.read_csv('data/external/Covid_data.csv')
-df6 = pd.read_csv('data/external/covid.csv',delimiter=',')
-df3 = pd.read_csv('data/external/Sa_live.csv')
-df_day =pd.read_csv('data/external/provincial_cumulative.csv')
+df2 = pd.read_csv('./../data/external/SA_from_day1.csv')
+df4 = pd.read_csv('./../data/external/SA_3_daily_update.csv')
+df5 = pd.read_csv('./../data/external/Covid_data.csv')
+df6 = pd.read_csv('./../data/external/covid.csv',delimiter=',')
+df3 = pd.read_csv('./../data/external/Sa_live.csv')
+df_day =pd.read_csv('./../data/external/provincial_cumulative.csv')
 # Commulative death per province 
-df_death = pd.read_csv('data/external/provincial_death.csv')
+df_death = pd.read_csv('./../data/external/provincial_death.csv')
 
-df1 = pd.read_csv('data/external/global_data.csv')
+df1 = pd.read_csv('./../data/external/global_data.csv')
 df1 = df1[df1.Country=='South Africa']
 
 #Provincial cummulative
-df_day=pd.read_csv('data/external/provincial_cumulative.csv')
+df_day=pd.read_csv('./../data/external/provincial_cumulative.csv')
 
 # Commulative death per province 
 
-df_death = pd.read_csv('data/external/provincial_death.csv')
+df_death = pd.read_csv('./../data/external/provincial_death.csv')
 
 #Drop unwanted columns
 # Provincial cases dataset
