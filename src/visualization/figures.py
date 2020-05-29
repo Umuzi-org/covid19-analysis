@@ -51,27 +51,26 @@ style_table = {
 #------------------------Read in data ---------------------------
 #SA Cummulative
 #---------------- Load datasets -----------
-df = pd.read_csv('./../data/external/global_data.csv')
+df = pd.read_csv('././../data/external/global_data.csv')
 
-df2 = pd.read_csv('./../data/external/SA_from_day1.csv')
-df4 = pd.read_csv('./../data/external/SA_3_daily_update.csv')
-df5 = pd.read_csv('./../data/external/Covid_data.csv')
-df6 = pd.read_csv('./../data/external/covid.csv',delimiter=',')
-df3 = pd.read_csv('./../data/external/Sa_live.csv')
-df_day =pd.read_csv('./../data/external/provincial_cumulative.csv')
+df2 = pd.read_csv('././../data/external/SA_from_day1.csv')
+df4 = pd.read_csv('././../data/external/SA_3_daily_update.csv')
+df5 = pd.read_csv('././../data/external/Covid_data.csv')
+df6 = pd.read_csv('././../data/external/covid.csv',delimiter=',')
+df3 = pd.read_csv('././../data/external/Sa_live.csv')
+df_day =pd.read_csv('././../data/external/provincial_cumulative.csv')
 # Commulative death per province 
-df_death = pd.read_csv('./../data/external/provincial_death.csv')
+df_death = pd.read_csv('././../data/external/provincial_death.csv')
 
-df1 = pd.read_csv('./../data/external/global_data.csv')
+df1 = pd.read_csv('././../data/external/global_data.csv')
 df1 = df1[df1.Country=='South Africa']
 
 #Provincial cummulative
-df_day=pd.read_csv('./../data/external/provincial_cumulative.csv')
+df_day=pd.read_csv('././../data/external/provincial_cumulative.csv')
 
 # Commulative death per province 
 
-df_death = pd.read_csv('./../data/external/provincial_death.csv')
-
+df_death = pd.read_csv('././../data/external/provincial_death.csv')
 #Drop unwanted columns
 # Provincial cases dataset
 df_day = df_day.drop(['source','Unnamed: 0','YYYYMMDD'],axis = 1)
@@ -898,205 +897,3 @@ fig1.update_layout(title_text="Confirmed Cases by Province",
                  yaxis_title="Log",
                  yaxis_type="log")
 
-#Display on dash and flask
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
-import flask
-
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-server = flask.Flask(__name__)
-app = dash.Dash(__name__,server=server, 
-                external_stylesheets=external_stylesheets,
-                url_base_pathname='/cum_province/')
-
-#Style sheet
-
-app.config['suppress_callback_exceptions'] = True
-app.layout = html.Div(children=[
-        #header
-    
-    html.Div([
-        html.Div([
-           
-        ], className="four columns"),
-        
-
-        html.Div([
-            html.H3('Latest Covid 19 Update', style={
-                                'fontFamily': 'Open Sans',
-                                'textAlign': 'center',
-                            }),
-        ], className="four columns"),
-        
-        html.Div([
-            html.H3('#StayAtHome', style={
-                                'fontFamily': 'Open Sans',
-                                'textAlign': 'right',
-                            }),           
-        ], className="four columns")
-    ], className="row"),
-    
-    dcc.Tabs(id='tabs-global', value='tab', children=[
-        dcc.Tab(label='Global Map', value='tab-1'),
-        dcc.Tab(label='South African cases', value='tab-2'),
-        dcc.Tab(label='African cases', value='tab-3'),
-    ]),
-    html.Div(id='tabs-global-content')
-])
-
-
-#----------- Main tab call back ----
-@app.callback(Output('tabs-global-content', 'children'),
-              [Input('tabs-global', 'value')])
-def render_content(tab):
-
-    if tab == 'tab-1':
-        return html.Div([
-            html.Div([
-
-                # VISUALISATIONS
-
-                html.Div([
-                      dcc.Graph(
-                          id='tot_cases',
-                            figure=go.Figure(fig_ind)
-                          
-                        ),
-                html.Div([
-                    dash_table.DataTable(
-                            id='country_cases',
-                            data=df_tot_cases.to_dict("rows"),
-                            columns=[{"name": i, "id": i}
-                                     for i in df_tot_cases.columns],
-                            style_table=style_table,
-                            style_cell=style_cell,
-                            style_data_conditional=style_data_conditional,
-                            style_header=style_header,
-                            style_cell_conditional=style_cell_conditional,
-                            filter_action="native"
-                        )
-                ])
-                    
-            ], className="row"),
-
-                ], className="three columns"),
-            
-            html.Div([
-                    dcc.Graph(
-                          id='sa_cases',
-                            figure=go.Figure(fig2)
-                        ),
-                    html.Div([
-                        dcc.Tabs(id='tabs-globals', value='tabs', children=[
-                            dcc.Tab(label='Total Cases', value='tab-1.'),
-                            dcc.Tab(label='Active Cases', value='tab-2.'),
-                            dcc.Tab(label='Solved Cases', value='tab-3.'),
-                            dcc.Tab(label='Recovery Rate', value='tab-4.'),
-                            dcc.Tab(label='Case Fatality Rate', value='tab-5.')
-                        ], colors={
-                                "border": "white",
-                                "primary": "gold",
-                                "background": "cornsilk"
-                            }),
-                     html.Div(id='tabs-globals-contents'),
-            ], className="row"),
-                ], className="six columns"),
-
-                html.Div([
-                     dcc.Graph(
-                          id='indicator_tot_death',
-                            figure=go.Figure(fig3)
-                        ),
-
-
-                    html.Div([
-                        dcc.Graph(
-                          id='sa_active',
-                            figure=go.Figure(fig_line)
-                        ),
-                            
-                       
-            ], className="row")
-
-                ], className="three columns"),
-            ], className="row")
-
-            # fOOTER
-        html.Div([
-                html.Div([
-                    html.H3('Footer'),
-
-                ], className="six columns"),
-
-                html.Div([
-                    html.H3('Footer'),
-
-                ], className="six columns"),
-            ], className="row")
-  
-
-    elif tab == 'tab-2':
-        return html.Div([
-            
-            dcc.Graph(
-                id='figure',
-                figure=go.Figure(fig_prov_stacked)
-            ),html.Div([
-                dcc.Graph(
-                    id='figure',
-                    figure=go.Figure(fig_prov_log)
-                ),html.Div([
-                dcc.Graph(
-                    id='figure',
-                    figure=go.Figure(fig_flat)
-                ),            
-            ], className="row"),
-                ], className="twelve columns")])
-    else:
-        return html.H1('African cases!!!')
-    
-#---- Small tab call back -----
-
-@app.callback(Output('tabs-globals-contents', 'children'),
-              [Input('tabs-globals', 'value')])
-def render_content(tabs):
-    
-    if tabs == 'tab-1.':
-        return dcc.Graph(
-
-            id='figure',
-            figure=
-              go.Figure(fig)
-            )
-    elif tabs == 'tab-2.':   
-        return dcc.Graph(
-
-            id='figure',
-            figure=
-              go.Figure(fig1_)
-            )
-           
-    elif tabs == 'tab-3.':   
-        return dcc.Graph(
-
-            id='figure',
-            figure=
-              go.Figure(fig2_)
-            )
-    elif tabs == 'tab-4.':
-         return dcc.Graph(
-             id='figure',
-             figure=go.Figure(fig3_)
-            )
-    else:
-        return dcc.Graph(
-
-            id='figure',
-            figure=
-              go.Figure(fig4_)
-            )
-
-
-if __name__ == '__main__':
-    app.run_server(debug=True)
