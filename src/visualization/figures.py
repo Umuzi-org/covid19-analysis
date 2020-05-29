@@ -896,4 +896,3 @@ fig1.update_layout(title_text="Confirmed Cases by Province",
                  xaxis_title="Days since the first confirmed case",
                  yaxis_title="Log",
                  yaxis_type="log")
-
