@@ -4,6 +4,9 @@ __pycache__/
 *$py.class
 .vscode/
 
+#cache
+.vscode
+Covid-19/git
 # C extensions
 *.so
 
@@ -128,3 +131,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+

@@ -1,6 +1,13 @@
 import requests
 from pandas.io.json import json_normalize
+<<<<<<< HEAD
 import dash_table
+=======
+import dash
+import dash_table
+import dash_core_components as dcc
+import dash_html_components as html
+>>>>>>> master
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -13,6 +20,7 @@ import plotly as py
 import plotly.graph_objs as go
 init_notebook_mode(connected=True)
 
+<<<<<<< HEAD
 # Display on dash and flask
 import dash
 import dash_core_components as dcc
@@ -23,6 +31,9 @@ import flask
 from visualization import figures as mod
 
 # ----------- Table styling ------------------
+=======
+#----------- Table styling ------------------
+>>>>>>> master
 style_cell = {
     'fontFamily': 'Open Sans',
     'textAlign': 'center',
@@ -53,7 +64,17 @@ style_table = {
     'overflowY': 'scroll',
     'width': '100%',
     'minWidth': '100%',}
+<<<<<<< HEAD
 
+=======
+#Display on dash and flask
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+import flask
+#import plotly figures.py as mod 
+from visualization import figures as mod
+>>>>>>> master
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 server = flask.Flask(__name__)
