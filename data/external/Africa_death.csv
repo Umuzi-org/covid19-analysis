@@ -1,0 +1,6947 @@
+,country,date,number_deaths
+0,Algeria,2020-01-22,0
+1,Algeria,2020-01-23,0
+2,Algeria,2020-01-24,0
+3,Algeria,2020-01-25,0
+4,Algeria,2020-01-26,0
+5,Algeria,2020-01-27,0
+6,Algeria,2020-01-28,0
+7,Algeria,2020-01-29,0
+8,Algeria,2020-01-30,0
+9,Algeria,2020-01-31,0
+10,Algeria,2020-02-01,0
+11,Algeria,2020-02-02,0
+12,Algeria,2020-02-03,0
+13,Algeria,2020-02-04,0
+14,Algeria,2020-02-05,0
+15,Algeria,2020-02-06,0
+16,Algeria,2020-02-07,0
+17,Algeria,2020-02-08,0
+18,Algeria,2020-02-09,0
+19,Algeria,2020-02-10,0
+20,Algeria,2020-02-11,0
+21,Algeria,2020-02-12,0
+22,Algeria,2020-02-13,0
+23,Algeria,2020-02-14,0
+24,Algeria,2020-02-15,0
+25,Algeria,2020-02-16,0
+26,Algeria,2020-02-17,0
+27,Algeria,2020-02-18,0
+28,Algeria,2020-02-19,0
+29,Algeria,2020-02-20,0
+30,Algeria,2020-02-21,0
+31,Algeria,2020-02-22,0
+32,Algeria,2020-02-23,0
+33,Algeria,2020-02-24,0
+34,Algeria,2020-02-25,0
+35,Algeria,2020-02-26,0
+36,Algeria,2020-02-27,0
+37,Algeria,2020-02-28,0
+38,Algeria,2020-02-29,0
+39,Algeria,2020-03-01,0
+40,Algeria,2020-03-02,0
+41,Algeria,2020-03-03,0
+42,Algeria,2020-03-04,0
+43,Algeria,2020-03-05,0
+44,Algeria,2020-03-06,0
+45,Algeria,2020-03-07,0
+46,Algeria,2020-03-08,0
+47,Algeria,2020-03-09,0
+48,Algeria,2020-03-10,0
+49,Algeria,2020-03-11,0
+50,Algeria,2020-03-12,1
+51,Algeria,2020-03-13,2
+52,Algeria,2020-03-14,3
+53,Algeria,2020-03-15,4
+54,Algeria,2020-03-16,4
+55,Algeria,2020-03-17,4
+56,Algeria,2020-03-18,7
+57,Algeria,2020-03-19,9
+58,Algeria,2020-03-20,11
+59,Algeria,2020-03-21,15
+60,Algeria,2020-03-22,17
+61,Algeria,2020-03-23,17
+62,Algeria,2020-03-24,19
+63,Algeria,2020-03-25,21
+64,Algeria,2020-03-26,25
+65,Algeria,2020-03-27,26
+66,Algeria,2020-03-28,29
+67,Algeria,2020-03-29,31
+68,Algeria,2020-03-30,35
+69,Algeria,2020-03-31,44
+70,Algeria,2020-04-01,58
+71,Algeria,2020-04-02,86
+72,Algeria,2020-04-03,105
+73,Algeria,2020-04-04,130
+74,Algeria,2020-04-05,152
+75,Algeria,2020-04-06,173
+76,Algeria,2020-04-07,193
+77,Algeria,2020-04-08,205
+78,Algeria,2020-04-09,235
+79,Algeria,2020-04-10,256
+80,Algeria,2020-04-11,275
+81,Algeria,2020-04-12,293
+82,Algeria,2020-04-13,313
+83,Algeria,2020-04-14,326
+84,Algeria,2020-04-15,336
+85,Algeria,2020-04-16,348
+86,Algeria,2020-04-17,364
+87,Algeria,2020-04-18,367
+88,Algeria,2020-04-19,375
+89,Algeria,2020-04-20,384
+90,Algeria,2020-04-21,392
+91,Algeria,2020-04-22,402
+92,Algeria,2020-04-23,407
+93,Algeria,2020-04-24,415
+94,Algeria,2020-04-25,419
+95,Algeria,2020-04-26,425
+96,Algeria,2020-04-27,432
+97,Algeria,2020-04-28,437
+98,Algeria,2020-04-29,444
+99,Algeria,2020-04-30,450
+100,Algeria,2020-05-01,453
+101,Algeria,2020-05-02,459
+102,Algeria,2020-05-03,463
+103,Algeria,2020-05-04,465
+104,Algeria,2020-05-05,470
+105,Algeria,2020-05-06,476
+106,Algeria,2020-05-07,483
+107,Algeria,2020-05-08,488
+108,Algeria,2020-05-09,494
+109,Algeria,2020-05-10,502
+110,Algeria,2020-05-11,507
+111,Algeria,2020-05-12,515
+112,Algeria,2020-05-13,522
+113,Algeria,2020-05-14,529
+114,Algeria,2020-05-15,536
+115,Algeria,2020-05-16,542
+116,Algeria,2020-05-17,548
+117,Algeria,2020-05-18,555
+118,Algeria,2020-05-19,561
+119,Algeria,2020-05-20,568
+120,Algeria,2020-05-21,575
+121,Algeria,2020-05-22,582
+122,Algeria,2020-05-23,592
+123,Algeria,2020-05-24,600
+124,Algeria,2020-05-25,609
+125,Algeria,2020-05-26,617
+126,Algeria,2020-05-27,623
+127,Algeria,2020-05-28,630
+128,Algeria,2020-05-29,638
+129,Algeria,2020-05-30,646
+130,Algeria,2020-05-31,653
+131,Algeria,2020-06-01,661
+132,Algeria,2020-06-02,667
+133,Algeria,2020-06-03,673
+134,Algeria,2020-06-04,681
+135,Algeria,2020-06-05,690
+136,Algeria,2020-06-06,698
+137,Algeria,2020-06-07,707
+138,Algeria,2020-06-08,715
+139,Algeria,2020-06-09,724
+140,Algeria,2020-06-10,732
+141,Algeria,2020-06-11,741
+142,Algeria,2020-06-12,751
+143,Algeria,2020-06-13,760
+144,Algeria,2020-06-14,767
+145,Algeria,2020-06-15,777
+146,Algeria,2020-06-16,788
+147,Algeria,2020-06-17,799
+148,Algeria,2020-06-18,811
+149,Algeria,2020-06-19,825
+150,Algeria,2020-06-20,837
+0,Angola,2020-01-22,0
+1,Angola,2020-01-23,0
+2,Angola,2020-01-24,0
+3,Angola,2020-01-25,0
+4,Angola,2020-01-26,0
+5,Angola,2020-01-27,0
+6,Angola,2020-01-28,0
+7,Angola,2020-01-29,0
+8,Angola,2020-01-30,0
+9,Angola,2020-01-31,0
+10,Angola,2020-02-01,0
+11,Angola,2020-02-02,0
+12,Angola,2020-02-03,0
+13,Angola,2020-02-04,0
+14,Angola,2020-02-05,0
+15,Angola,2020-02-06,0
+16,Angola,2020-02-07,0
+17,Angola,2020-02-08,0
+18,Angola,2020-02-09,0
+19,Angola,2020-02-10,0
+20,Angola,2020-02-11,0
+21,Angola,2020-02-12,0
+22,Angola,2020-02-13,0
+23,Angola,2020-02-14,0
+24,Angola,2020-02-15,0
+25,Angola,2020-02-16,0
+26,Angola,2020-02-17,0
+27,Angola,2020-02-18,0
+28,Angola,2020-02-19,0
+29,Angola,2020-02-20,0
+30,Angola,2020-02-21,0
+31,Angola,2020-02-22,0
+32,Angola,2020-02-23,0
+33,Angola,2020-02-24,0
+34,Angola,2020-02-25,0
+35,Angola,2020-02-26,0
+36,Angola,2020-02-27,0
+37,Angola,2020-02-28,0
+38,Angola,2020-02-29,0
+39,Angola,2020-03-01,0
+40,Angola,2020-03-02,0
+41,Angola,2020-03-03,0
+42,Angola,2020-03-04,0
+43,Angola,2020-03-05,0
+44,Angola,2020-03-06,0
+45,Angola,2020-03-07,0
+46,Angola,2020-03-08,0
+47,Angola,2020-03-09,0
+48,Angola,2020-03-10,0
+49,Angola,2020-03-11,0
+50,Angola,2020-03-12,0
+51,Angola,2020-03-13,0
+52,Angola,2020-03-14,0
+53,Angola,2020-03-15,0
+54,Angola,2020-03-16,0
+55,Angola,2020-03-17,0
+56,Angola,2020-03-18,0
+57,Angola,2020-03-19,0
+58,Angola,2020-03-20,0
+59,Angola,2020-03-21,0
+60,Angola,2020-03-22,0
+61,Angola,2020-03-23,0
+62,Angola,2020-03-24,0
+63,Angola,2020-03-25,0
+64,Angola,2020-03-26,0
+65,Angola,2020-03-27,0
+66,Angola,2020-03-28,0
+67,Angola,2020-03-29,2
+68,Angola,2020-03-30,2
+69,Angola,2020-03-31,2
+70,Angola,2020-04-01,2
+71,Angola,2020-04-02,2
+72,Angola,2020-04-03,2
+73,Angola,2020-04-04,2
+74,Angola,2020-04-05,2
+75,Angola,2020-04-06,2
+76,Angola,2020-04-07,2
+77,Angola,2020-04-08,2
+78,Angola,2020-04-09,2
+79,Angola,2020-04-10,2
+80,Angola,2020-04-11,2
+81,Angola,2020-04-12,2
+82,Angola,2020-04-13,2
+83,Angola,2020-04-14,2
+84,Angola,2020-04-15,2
+85,Angola,2020-04-16,2
+86,Angola,2020-04-17,2
+87,Angola,2020-04-18,2
+88,Angola,2020-04-19,2
+89,Angola,2020-04-20,2
+90,Angola,2020-04-21,2
+91,Angola,2020-04-22,2
+92,Angola,2020-04-23,2
+93,Angola,2020-04-24,2
+94,Angola,2020-04-25,2
+95,Angola,2020-04-26,2
+96,Angola,2020-04-27,2
+97,Angola,2020-04-28,2
+98,Angola,2020-04-29,2
+99,Angola,2020-04-30,2
+100,Angola,2020-05-01,2
+101,Angola,2020-05-02,2
+102,Angola,2020-05-03,2
+103,Angola,2020-05-04,2
+104,Angola,2020-05-05,2
+105,Angola,2020-05-06,2
+106,Angola,2020-05-07,2
+107,Angola,2020-05-08,2
+108,Angola,2020-05-09,2
+109,Angola,2020-05-10,2
+110,Angola,2020-05-11,2
+111,Angola,2020-05-12,2
+112,Angola,2020-05-13,2
+113,Angola,2020-05-14,2
+114,Angola,2020-05-15,2
+115,Angola,2020-05-16,2
+116,Angola,2020-05-17,2
+117,Angola,2020-05-18,3
+118,Angola,2020-05-19,3
+119,Angola,2020-05-20,3
+120,Angola,2020-05-21,3
+121,Angola,2020-05-22,3
+122,Angola,2020-05-23,4
+123,Angola,2020-05-24,4
+124,Angola,2020-05-25,4
+125,Angola,2020-05-26,4
+126,Angola,2020-05-27,4
+127,Angola,2020-05-28,4
+128,Angola,2020-05-29,4
+129,Angola,2020-05-30,4
+130,Angola,2020-05-31,4
+131,Angola,2020-06-01,4
+132,Angola,2020-06-02,4
+133,Angola,2020-06-03,4
+134,Angola,2020-06-04,4
+135,Angola,2020-06-05,4
+136,Angola,2020-06-06,4
+137,Angola,2020-06-07,4
+138,Angola,2020-06-08,4
+139,Angola,2020-06-09,4
+140,Angola,2020-06-10,4
+141,Angola,2020-06-11,5
+142,Angola,2020-06-12,5
+143,Angola,2020-06-13,6
+144,Angola,2020-06-14,6
+145,Angola,2020-06-15,6
+146,Angola,2020-06-16,6
+147,Angola,2020-06-17,7
+148,Angola,2020-06-18,8
+149,Angola,2020-06-19,8
+150,Angola,2020-06-20,9
+0,Benin,2020-01-22,0
+1,Benin,2020-01-23,0
+2,Benin,2020-01-24,0
+3,Benin,2020-01-25,0
+4,Benin,2020-01-26,0
+5,Benin,2020-01-27,0
+6,Benin,2020-01-28,0
+7,Benin,2020-01-29,0
+8,Benin,2020-01-30,0
+9,Benin,2020-01-31,0
+10,Benin,2020-02-01,0
+11,Benin,2020-02-02,0
+12,Benin,2020-02-03,0
+13,Benin,2020-02-04,0
+14,Benin,2020-02-05,0
+15,Benin,2020-02-06,0
+16,Benin,2020-02-07,0
+17,Benin,2020-02-08,0
+18,Benin,2020-02-09,0
+19,Benin,2020-02-10,0
+20,Benin,2020-02-11,0
+21,Benin,2020-02-12,0
+22,Benin,2020-02-13,0
+23,Benin,2020-02-14,0
+24,Benin,2020-02-15,0
+25,Benin,2020-02-16,0
+26,Benin,2020-02-17,0
+27,Benin,2020-02-18,0
+28,Benin,2020-02-19,0
+29,Benin,2020-02-20,0
+30,Benin,2020-02-21,0
+31,Benin,2020-02-22,0
+32,Benin,2020-02-23,0
+33,Benin,2020-02-24,0
+34,Benin,2020-02-25,0
+35,Benin,2020-02-26,0
+36,Benin,2020-02-27,0
+37,Benin,2020-02-28,0
+38,Benin,2020-02-29,0
+39,Benin,2020-03-01,0
+40,Benin,2020-03-02,0
+41,Benin,2020-03-03,0
+42,Benin,2020-03-04,0
+43,Benin,2020-03-05,0
+44,Benin,2020-03-06,0
+45,Benin,2020-03-07,0
+46,Benin,2020-03-08,0
+47,Benin,2020-03-09,0
+48,Benin,2020-03-10,0
+49,Benin,2020-03-11,0
+50,Benin,2020-03-12,0
+51,Benin,2020-03-13,0
+52,Benin,2020-03-14,0
+53,Benin,2020-03-15,0
+54,Benin,2020-03-16,0
+55,Benin,2020-03-17,0
+56,Benin,2020-03-18,0
+57,Benin,2020-03-19,0
+58,Benin,2020-03-20,0
+59,Benin,2020-03-21,0
+60,Benin,2020-03-22,0
+61,Benin,2020-03-23,0
+62,Benin,2020-03-24,0
+63,Benin,2020-03-25,0
+64,Benin,2020-03-26,0
+65,Benin,2020-03-27,0
+66,Benin,2020-03-28,0
+67,Benin,2020-03-29,0
+68,Benin,2020-03-30,0
+69,Benin,2020-03-31,0
+70,Benin,2020-04-01,0
+71,Benin,2020-04-02,0
+72,Benin,2020-04-03,0
+73,Benin,2020-04-04,0
+74,Benin,2020-04-05,0
+75,Benin,2020-04-06,1
+76,Benin,2020-04-07,1
+77,Benin,2020-04-08,1
+78,Benin,2020-04-09,1
+79,Benin,2020-04-10,1
+80,Benin,2020-04-11,1
+81,Benin,2020-04-12,1
+82,Benin,2020-04-13,1
+83,Benin,2020-04-14,1
+84,Benin,2020-04-15,1
+85,Benin,2020-04-16,1
+86,Benin,2020-04-17,1
+87,Benin,2020-04-18,1
+88,Benin,2020-04-19,1
+89,Benin,2020-04-20,1
+90,Benin,2020-04-21,1
+91,Benin,2020-04-22,1
+92,Benin,2020-04-23,1
+93,Benin,2020-04-24,1
+94,Benin,2020-04-25,1
+95,Benin,2020-04-26,1
+96,Benin,2020-04-27,1
+97,Benin,2020-04-28,1
+98,Benin,2020-04-29,1
+99,Benin,2020-04-30,1
+100,Benin,2020-05-01,2
+101,Benin,2020-05-02,2
+102,Benin,2020-05-03,2
+103,Benin,2020-05-04,2
+104,Benin,2020-05-05,2
+105,Benin,2020-05-06,2
+106,Benin,2020-05-07,2
+107,Benin,2020-05-08,2
+108,Benin,2020-05-09,2
+109,Benin,2020-05-10,2
+110,Benin,2020-05-11,2
+111,Benin,2020-05-12,2
+112,Benin,2020-05-13,2
+113,Benin,2020-05-14,2
+114,Benin,2020-05-15,2
+115,Benin,2020-05-16,2
+116,Benin,2020-05-17,2
+117,Benin,2020-05-18,2
+118,Benin,2020-05-19,2
+119,Benin,2020-05-20,2
+120,Benin,2020-05-21,3
+121,Benin,2020-05-22,3
+122,Benin,2020-05-23,3
+123,Benin,2020-05-24,3
+124,Benin,2020-05-25,3
+125,Benin,2020-05-26,3
+126,Benin,2020-05-27,3
+127,Benin,2020-05-28,3
+128,Benin,2020-05-29,3
+129,Benin,2020-05-30,3
+130,Benin,2020-05-31,3
+131,Benin,2020-06-01,3
+132,Benin,2020-06-02,3
+133,Benin,2020-06-03,3
+134,Benin,2020-06-04,3
+135,Benin,2020-06-05,3
+136,Benin,2020-06-06,3
+137,Benin,2020-06-07,3
+138,Benin,2020-06-08,4
+139,Benin,2020-06-09,4
+140,Benin,2020-06-10,4
+141,Benin,2020-06-11,4
+142,Benin,2020-06-12,5
+143,Benin,2020-06-13,6
+144,Benin,2020-06-14,6
+145,Benin,2020-06-15,9
+146,Benin,2020-06-16,9
+147,Benin,2020-06-17,9
+148,Benin,2020-06-18,11
+149,Benin,2020-06-19,11
+150,Benin,2020-06-20,11
+0,Botswana,2020-01-22,0
+1,Botswana,2020-01-23,0
+2,Botswana,2020-01-24,0
+3,Botswana,2020-01-25,0
+4,Botswana,2020-01-26,0
+5,Botswana,2020-01-27,0
+6,Botswana,2020-01-28,0
+7,Botswana,2020-01-29,0
+8,Botswana,2020-01-30,0
+9,Botswana,2020-01-31,0
+10,Botswana,2020-02-01,0
+11,Botswana,2020-02-02,0
+12,Botswana,2020-02-03,0
+13,Botswana,2020-02-04,0
+14,Botswana,2020-02-05,0
+15,Botswana,2020-02-06,0
+16,Botswana,2020-02-07,0
+17,Botswana,2020-02-08,0
+18,Botswana,2020-02-09,0
+19,Botswana,2020-02-10,0
+20,Botswana,2020-02-11,0
+21,Botswana,2020-02-12,0
+22,Botswana,2020-02-13,0
+23,Botswana,2020-02-14,0
+24,Botswana,2020-02-15,0
+25,Botswana,2020-02-16,0
+26,Botswana,2020-02-17,0
+27,Botswana,2020-02-18,0
+28,Botswana,2020-02-19,0
+29,Botswana,2020-02-20,0
+30,Botswana,2020-02-21,0
+31,Botswana,2020-02-22,0
+32,Botswana,2020-02-23,0
+33,Botswana,2020-02-24,0
+34,Botswana,2020-02-25,0
+35,Botswana,2020-02-26,0
+36,Botswana,2020-02-27,0
+37,Botswana,2020-02-28,0
+38,Botswana,2020-02-29,0
+39,Botswana,2020-03-01,0
+40,Botswana,2020-03-02,0
+41,Botswana,2020-03-03,0
+42,Botswana,2020-03-04,0
+43,Botswana,2020-03-05,0
+44,Botswana,2020-03-06,0
+45,Botswana,2020-03-07,0
+46,Botswana,2020-03-08,0
+47,Botswana,2020-03-09,0
+48,Botswana,2020-03-10,0
+49,Botswana,2020-03-11,0
+50,Botswana,2020-03-12,0
+51,Botswana,2020-03-13,0
+52,Botswana,2020-03-14,0
+53,Botswana,2020-03-15,0
+54,Botswana,2020-03-16,0
+55,Botswana,2020-03-17,0
+56,Botswana,2020-03-18,0
+57,Botswana,2020-03-19,0
+58,Botswana,2020-03-20,0
+59,Botswana,2020-03-21,0
+60,Botswana,2020-03-22,0
+61,Botswana,2020-03-23,0
+62,Botswana,2020-03-24,0
+63,Botswana,2020-03-25,0
+64,Botswana,2020-03-26,0
+65,Botswana,2020-03-27,0
+66,Botswana,2020-03-28,0
+67,Botswana,2020-03-29,0
+68,Botswana,2020-03-30,0
+69,Botswana,2020-03-31,1
+70,Botswana,2020-04-01,1
+71,Botswana,2020-04-02,1
+72,Botswana,2020-04-03,1
+73,Botswana,2020-04-04,1
+74,Botswana,2020-04-05,1
+75,Botswana,2020-04-06,1
+76,Botswana,2020-04-07,1
+77,Botswana,2020-04-08,1
+78,Botswana,2020-04-09,1
+79,Botswana,2020-04-10,1
+80,Botswana,2020-04-11,1
+81,Botswana,2020-04-12,1
+82,Botswana,2020-04-13,1
+83,Botswana,2020-04-14,1
+84,Botswana,2020-04-15,1
+85,Botswana,2020-04-16,1
+86,Botswana,2020-04-17,1
+87,Botswana,2020-04-18,1
+88,Botswana,2020-04-19,1
+89,Botswana,2020-04-20,1
+90,Botswana,2020-04-21,1
+91,Botswana,2020-04-22,1
+92,Botswana,2020-04-23,1
+93,Botswana,2020-04-24,1
+94,Botswana,2020-04-25,1
+95,Botswana,2020-04-26,1
+96,Botswana,2020-04-27,1
+97,Botswana,2020-04-28,1
+98,Botswana,2020-04-29,1
+99,Botswana,2020-04-30,1
+100,Botswana,2020-05-01,1
+101,Botswana,2020-05-02,1
+102,Botswana,2020-05-03,1
+103,Botswana,2020-05-04,1
+104,Botswana,2020-05-05,1
+105,Botswana,2020-05-06,1
+106,Botswana,2020-05-07,1
+107,Botswana,2020-05-08,1
+108,Botswana,2020-05-09,1
+109,Botswana,2020-05-10,1
+110,Botswana,2020-05-11,1
+111,Botswana,2020-05-12,1
+112,Botswana,2020-05-13,1
+113,Botswana,2020-05-14,1
+114,Botswana,2020-05-15,1
+115,Botswana,2020-05-16,1
+116,Botswana,2020-05-17,1
+117,Botswana,2020-05-18,1
+118,Botswana,2020-05-19,1
+119,Botswana,2020-05-20,1
+120,Botswana,2020-05-21,1
+121,Botswana,2020-05-22,1
+122,Botswana,2020-05-23,1
+123,Botswana,2020-05-24,1
+124,Botswana,2020-05-25,1
+125,Botswana,2020-05-26,1
+126,Botswana,2020-05-27,1
+127,Botswana,2020-05-28,1
+128,Botswana,2020-05-29,1
+129,Botswana,2020-05-30,1
+130,Botswana,2020-05-31,1
+131,Botswana,2020-06-01,1
+132,Botswana,2020-06-02,1
+133,Botswana,2020-06-03,1
+134,Botswana,2020-06-04,1
+135,Botswana,2020-06-05,1
+136,Botswana,2020-06-06,1
+137,Botswana,2020-06-07,1
+138,Botswana,2020-06-08,1
+139,Botswana,2020-06-09,1
+140,Botswana,2020-06-10,1
+141,Botswana,2020-06-11,1
+142,Botswana,2020-06-12,1
+143,Botswana,2020-06-13,1
+144,Botswana,2020-06-14,1
+145,Botswana,2020-06-15,1
+146,Botswana,2020-06-16,1
+147,Botswana,2020-06-17,1
+148,Botswana,2020-06-18,1
+149,Botswana,2020-06-19,1
+150,Botswana,2020-06-20,1
+0,Burkina Faso,2020-01-22,0
+1,Burkina Faso,2020-01-23,0
+2,Burkina Faso,2020-01-24,0
+3,Burkina Faso,2020-01-25,0
+4,Burkina Faso,2020-01-26,0
+5,Burkina Faso,2020-01-27,0
+6,Burkina Faso,2020-01-28,0
+7,Burkina Faso,2020-01-29,0
+8,Burkina Faso,2020-01-30,0
+9,Burkina Faso,2020-01-31,0
+10,Burkina Faso,2020-02-01,0
+11,Burkina Faso,2020-02-02,0
+12,Burkina Faso,2020-02-03,0
+13,Burkina Faso,2020-02-04,0
+14,Burkina Faso,2020-02-05,0
+15,Burkina Faso,2020-02-06,0
+16,Burkina Faso,2020-02-07,0
+17,Burkina Faso,2020-02-08,0
+18,Burkina Faso,2020-02-09,0
+19,Burkina Faso,2020-02-10,0
+20,Burkina Faso,2020-02-11,0
+21,Burkina Faso,2020-02-12,0
+22,Burkina Faso,2020-02-13,0
+23,Burkina Faso,2020-02-14,0
+24,Burkina Faso,2020-02-15,0
+25,Burkina Faso,2020-02-16,0
+26,Burkina Faso,2020-02-17,0
+27,Burkina Faso,2020-02-18,0
+28,Burkina Faso,2020-02-19,0
+29,Burkina Faso,2020-02-20,0
+30,Burkina Faso,2020-02-21,0
+31,Burkina Faso,2020-02-22,0
+32,Burkina Faso,2020-02-23,0
+33,Burkina Faso,2020-02-24,0
+34,Burkina Faso,2020-02-25,0
+35,Burkina Faso,2020-02-26,0
+36,Burkina Faso,2020-02-27,0
+37,Burkina Faso,2020-02-28,0
+38,Burkina Faso,2020-02-29,0
+39,Burkina Faso,2020-03-01,0
+40,Burkina Faso,2020-03-02,0
+41,Burkina Faso,2020-03-03,0
+42,Burkina Faso,2020-03-04,0
+43,Burkina Faso,2020-03-05,0
+44,Burkina Faso,2020-03-06,0
+45,Burkina Faso,2020-03-07,0
+46,Burkina Faso,2020-03-08,0
+47,Burkina Faso,2020-03-09,0
+48,Burkina Faso,2020-03-10,0
+49,Burkina Faso,2020-03-11,0
+50,Burkina Faso,2020-03-12,0
+51,Burkina Faso,2020-03-13,0
+52,Burkina Faso,2020-03-14,0
+53,Burkina Faso,2020-03-15,0
+54,Burkina Faso,2020-03-16,0
+55,Burkina Faso,2020-03-17,0
+56,Burkina Faso,2020-03-18,1
+57,Burkina Faso,2020-03-19,1
+58,Burkina Faso,2020-03-20,1
+59,Burkina Faso,2020-03-21,2
+60,Burkina Faso,2020-03-22,4
+61,Burkina Faso,2020-03-23,4
+62,Burkina Faso,2020-03-24,4
+63,Burkina Faso,2020-03-25,4
+64,Burkina Faso,2020-03-26,7
+65,Burkina Faso,2020-03-27,9
+66,Burkina Faso,2020-03-28,11
+67,Burkina Faso,2020-03-29,12
+68,Burkina Faso,2020-03-30,12
+69,Burkina Faso,2020-03-31,14
+70,Burkina Faso,2020-04-01,16
+71,Burkina Faso,2020-04-02,16
+72,Burkina Faso,2020-04-03,16
+73,Burkina Faso,2020-04-04,16
+74,Burkina Faso,2020-04-05,17
+75,Burkina Faso,2020-04-06,18
+76,Burkina Faso,2020-04-07,19
+77,Burkina Faso,2020-04-08,23
+78,Burkina Faso,2020-04-09,24
+79,Burkina Faso,2020-04-10,24
+80,Burkina Faso,2020-04-11,27
+81,Burkina Faso,2020-04-12,27
+82,Burkina Faso,2020-04-13,27
+83,Burkina Faso,2020-04-14,30
+84,Burkina Faso,2020-04-15,32
+85,Burkina Faso,2020-04-16,32
+86,Burkina Faso,2020-04-17,35
+87,Burkina Faso,2020-04-18,36
+88,Burkina Faso,2020-04-19,36
+89,Burkina Faso,2020-04-20,38
+90,Burkina Faso,2020-04-21,38
+91,Burkina Faso,2020-04-22,39
+92,Burkina Faso,2020-04-23,41
+93,Burkina Faso,2020-04-24,41
+94,Burkina Faso,2020-04-25,41
+95,Burkina Faso,2020-04-26,42
+96,Burkina Faso,2020-04-27,42
+97,Burkina Faso,2020-04-28,42
+98,Burkina Faso,2020-04-29,43
+99,Burkina Faso,2020-04-30,43
+100,Burkina Faso,2020-05-01,44
+101,Burkina Faso,2020-05-02,44
+102,Burkina Faso,2020-05-03,45
+103,Burkina Faso,2020-05-04,46
+104,Burkina Faso,2020-05-05,48
+105,Burkina Faso,2020-05-06,48
+106,Burkina Faso,2020-05-07,48
+107,Burkina Faso,2020-05-08,48
+108,Burkina Faso,2020-05-09,48
+109,Burkina Faso,2020-05-10,49
+110,Burkina Faso,2020-05-11,50
+111,Burkina Faso,2020-05-12,51
+112,Burkina Faso,2020-05-13,51
+113,Burkina Faso,2020-05-14,51
+114,Burkina Faso,2020-05-15,51
+115,Burkina Faso,2020-05-16,51
+116,Burkina Faso,2020-05-17,51
+117,Burkina Faso,2020-05-18,51
+118,Burkina Faso,2020-05-19,51
+119,Burkina Faso,2020-05-20,52
+120,Burkina Faso,2020-05-21,52
+121,Burkina Faso,2020-05-22,52
+122,Burkina Faso,2020-05-23,52
+123,Burkina Faso,2020-05-24,52
+124,Burkina Faso,2020-05-25,52
+125,Burkina Faso,2020-05-26,52
+126,Burkina Faso,2020-05-27,53
+127,Burkina Faso,2020-05-28,53
+128,Burkina Faso,2020-05-29,53
+129,Burkina Faso,2020-05-30,53
+130,Burkina Faso,2020-05-31,53
+131,Burkina Faso,2020-06-01,53
+132,Burkina Faso,2020-06-02,53
+133,Burkina Faso,2020-06-03,53
+134,Burkina Faso,2020-06-04,53
+135,Burkina Faso,2020-06-05,53
+136,Burkina Faso,2020-06-06,53
+137,Burkina Faso,2020-06-07,53
+138,Burkina Faso,2020-06-08,53
+139,Burkina Faso,2020-06-09,53
+140,Burkina Faso,2020-06-10,53
+141,Burkina Faso,2020-06-11,53
+142,Burkina Faso,2020-06-12,53
+143,Burkina Faso,2020-06-13,53
+144,Burkina Faso,2020-06-14,53
+145,Burkina Faso,2020-06-15,53
+146,Burkina Faso,2020-06-16,53
+147,Burkina Faso,2020-06-17,53
+148,Burkina Faso,2020-06-18,53
+149,Burkina Faso,2020-06-19,53
+150,Burkina Faso,2020-06-20,53
+0,Burundi,2020-01-22,0
+1,Burundi,2020-01-23,0
+2,Burundi,2020-01-24,0
+3,Burundi,2020-01-25,0
+4,Burundi,2020-01-26,0
+5,Burundi,2020-01-27,0
+6,Burundi,2020-01-28,0
+7,Burundi,2020-01-29,0
+8,Burundi,2020-01-30,0
+9,Burundi,2020-01-31,0
+10,Burundi,2020-02-01,0
+11,Burundi,2020-02-02,0
+12,Burundi,2020-02-03,0
+13,Burundi,2020-02-04,0
+14,Burundi,2020-02-05,0
+15,Burundi,2020-02-06,0
+16,Burundi,2020-02-07,0
+17,Burundi,2020-02-08,0
+18,Burundi,2020-02-09,0
+19,Burundi,2020-02-10,0
+20,Burundi,2020-02-11,0
+21,Burundi,2020-02-12,0
+22,Burundi,2020-02-13,0
+23,Burundi,2020-02-14,0
+24,Burundi,2020-02-15,0
+25,Burundi,2020-02-16,0
+26,Burundi,2020-02-17,0
+27,Burundi,2020-02-18,0
+28,Burundi,2020-02-19,0
+29,Burundi,2020-02-20,0
+30,Burundi,2020-02-21,0
+31,Burundi,2020-02-22,0
+32,Burundi,2020-02-23,0
+33,Burundi,2020-02-24,0
+34,Burundi,2020-02-25,0
+35,Burundi,2020-02-26,0
+36,Burundi,2020-02-27,0
+37,Burundi,2020-02-28,0
+38,Burundi,2020-02-29,0
+39,Burundi,2020-03-01,0
+40,Burundi,2020-03-02,0
+41,Burundi,2020-03-03,0
+42,Burundi,2020-03-04,0
+43,Burundi,2020-03-05,0
+44,Burundi,2020-03-06,0
+45,Burundi,2020-03-07,0
+46,Burundi,2020-03-08,0
+47,Burundi,2020-03-09,0
+48,Burundi,2020-03-10,0
+49,Burundi,2020-03-11,0
+50,Burundi,2020-03-12,0
+51,Burundi,2020-03-13,0
+52,Burundi,2020-03-14,0
+53,Burundi,2020-03-15,0
+54,Burundi,2020-03-16,0
+55,Burundi,2020-03-17,0
+56,Burundi,2020-03-18,0
+57,Burundi,2020-03-19,0
+58,Burundi,2020-03-20,0
+59,Burundi,2020-03-21,0
+60,Burundi,2020-03-22,0
+61,Burundi,2020-03-23,0
+62,Burundi,2020-03-24,0
+63,Burundi,2020-03-25,0
+64,Burundi,2020-03-26,0
+65,Burundi,2020-03-27,0
+66,Burundi,2020-03-28,0
+67,Burundi,2020-03-29,0
+68,Burundi,2020-03-30,0
+69,Burundi,2020-03-31,0
+70,Burundi,2020-04-01,0
+71,Burundi,2020-04-02,0
+72,Burundi,2020-04-03,0
+73,Burundi,2020-04-04,0
+74,Burundi,2020-04-05,0
+75,Burundi,2020-04-06,0
+76,Burundi,2020-04-07,0
+77,Burundi,2020-04-08,0
+78,Burundi,2020-04-09,0
+79,Burundi,2020-04-10,0
+80,Burundi,2020-04-11,0
+81,Burundi,2020-04-12,0
+82,Burundi,2020-04-13,1
+83,Burundi,2020-04-14,1
+84,Burundi,2020-04-15,1
+85,Burundi,2020-04-16,1
+86,Burundi,2020-04-17,1
+87,Burundi,2020-04-18,1
+88,Burundi,2020-04-19,1
+89,Burundi,2020-04-20,1
+90,Burundi,2020-04-21,1
+91,Burundi,2020-04-22,1
+92,Burundi,2020-04-23,1
+93,Burundi,2020-04-24,1
+94,Burundi,2020-04-25,1
+95,Burundi,2020-04-26,1
+96,Burundi,2020-04-27,1
+97,Burundi,2020-04-28,1
+98,Burundi,2020-04-29,1
+99,Burundi,2020-04-30,1
+100,Burundi,2020-05-01,1
+101,Burundi,2020-05-02,1
+102,Burundi,2020-05-03,1
+103,Burundi,2020-05-04,1
+104,Burundi,2020-05-05,1
+105,Burundi,2020-05-06,1
+106,Burundi,2020-05-07,1
+107,Burundi,2020-05-08,1
+108,Burundi,2020-05-09,1
+109,Burundi,2020-05-10,1
+110,Burundi,2020-05-11,1
+111,Burundi,2020-05-12,1
+112,Burundi,2020-05-13,1
+113,Burundi,2020-05-14,1
+114,Burundi,2020-05-15,1
+115,Burundi,2020-05-16,1
+116,Burundi,2020-05-17,1
+117,Burundi,2020-05-18,1
+118,Burundi,2020-05-19,1
+119,Burundi,2020-05-20,1
+120,Burundi,2020-05-21,1
+121,Burundi,2020-05-22,1
+122,Burundi,2020-05-23,1
+123,Burundi,2020-05-24,1
+124,Burundi,2020-05-25,1
+125,Burundi,2020-05-26,1
+126,Burundi,2020-05-27,1
+127,Burundi,2020-05-28,1
+128,Burundi,2020-05-29,1
+129,Burundi,2020-05-30,1
+130,Burundi,2020-05-31,1
+131,Burundi,2020-06-01,1
+132,Burundi,2020-06-02,1
+133,Burundi,2020-06-03,1
+134,Burundi,2020-06-04,1
+135,Burundi,2020-06-05,1
+136,Burundi,2020-06-06,1
+137,Burundi,2020-06-07,1
+138,Burundi,2020-06-08,1
+139,Burundi,2020-06-09,1
+140,Burundi,2020-06-10,1
+141,Burundi,2020-06-11,1
+142,Burundi,2020-06-12,1
+143,Burundi,2020-06-13,1
+144,Burundi,2020-06-14,1
+145,Burundi,2020-06-15,1
+146,Burundi,2020-06-16,1
+147,Burundi,2020-06-17,1
+148,Burundi,2020-06-18,1
+149,Burundi,2020-06-19,1
+150,Burundi,2020-06-20,1
+0,Cabo Verde,2020-01-22,0
+1,Cabo Verde,2020-01-23,0
+2,Cabo Verde,2020-01-24,0
+3,Cabo Verde,2020-01-25,0
+4,Cabo Verde,2020-01-26,0
+5,Cabo Verde,2020-01-27,0
+6,Cabo Verde,2020-01-28,0
+7,Cabo Verde,2020-01-29,0
+8,Cabo Verde,2020-01-30,0
+9,Cabo Verde,2020-01-31,0
+10,Cabo Verde,2020-02-01,0
+11,Cabo Verde,2020-02-02,0
+12,Cabo Verde,2020-02-03,0
+13,Cabo Verde,2020-02-04,0
+14,Cabo Verde,2020-02-05,0
+15,Cabo Verde,2020-02-06,0
+16,Cabo Verde,2020-02-07,0
+17,Cabo Verde,2020-02-08,0
+18,Cabo Verde,2020-02-09,0
+19,Cabo Verde,2020-02-10,0
+20,Cabo Verde,2020-02-11,0
+21,Cabo Verde,2020-02-12,0
+22,Cabo Verde,2020-02-13,0
+23,Cabo Verde,2020-02-14,0
+24,Cabo Verde,2020-02-15,0
+25,Cabo Verde,2020-02-16,0
+26,Cabo Verde,2020-02-17,0
+27,Cabo Verde,2020-02-18,0
+28,Cabo Verde,2020-02-19,0
+29,Cabo Verde,2020-02-20,0
+30,Cabo Verde,2020-02-21,0
+31,Cabo Verde,2020-02-22,0
+32,Cabo Verde,2020-02-23,0
+33,Cabo Verde,2020-02-24,0
+34,Cabo Verde,2020-02-25,0
+35,Cabo Verde,2020-02-26,0
+36,Cabo Verde,2020-02-27,0
+37,Cabo Verde,2020-02-28,0
+38,Cabo Verde,2020-02-29,0
+39,Cabo Verde,2020-03-01,0
+40,Cabo Verde,2020-03-02,0
+41,Cabo Verde,2020-03-03,0
+42,Cabo Verde,2020-03-04,0
+43,Cabo Verde,2020-03-05,0
+44,Cabo Verde,2020-03-06,0
+45,Cabo Verde,2020-03-07,0
+46,Cabo Verde,2020-03-08,0
+47,Cabo Verde,2020-03-09,0
+48,Cabo Verde,2020-03-10,0
+49,Cabo Verde,2020-03-11,0
+50,Cabo Verde,2020-03-12,0
+51,Cabo Verde,2020-03-13,0
+52,Cabo Verde,2020-03-14,0
+53,Cabo Verde,2020-03-15,0
+54,Cabo Verde,2020-03-16,0
+55,Cabo Verde,2020-03-17,0
+56,Cabo Verde,2020-03-18,0
+57,Cabo Verde,2020-03-19,0
+58,Cabo Verde,2020-03-20,0
+59,Cabo Verde,2020-03-21,0
+60,Cabo Verde,2020-03-22,0
+61,Cabo Verde,2020-03-23,0
+62,Cabo Verde,2020-03-24,1
+63,Cabo Verde,2020-03-25,1
+64,Cabo Verde,2020-03-26,1
+65,Cabo Verde,2020-03-27,1
+66,Cabo Verde,2020-03-28,1
+67,Cabo Verde,2020-03-29,1
+68,Cabo Verde,2020-03-30,1
+69,Cabo Verde,2020-03-31,1
+70,Cabo Verde,2020-04-01,1
+71,Cabo Verde,2020-04-02,1
+72,Cabo Verde,2020-04-03,1
+73,Cabo Verde,2020-04-04,1
+74,Cabo Verde,2020-04-05,1
+75,Cabo Verde,2020-04-06,1
+76,Cabo Verde,2020-04-07,1
+77,Cabo Verde,2020-04-08,1
+78,Cabo Verde,2020-04-09,1
+79,Cabo Verde,2020-04-10,1
+80,Cabo Verde,2020-04-11,1
+81,Cabo Verde,2020-04-12,1
+82,Cabo Verde,2020-04-13,1
+83,Cabo Verde,2020-04-14,1
+84,Cabo Verde,2020-04-15,1
+85,Cabo Verde,2020-04-16,1
+86,Cabo Verde,2020-04-17,1
+87,Cabo Verde,2020-04-18,1
+88,Cabo Verde,2020-04-19,1
+89,Cabo Verde,2020-04-20,1
+90,Cabo Verde,2020-04-21,1
+91,Cabo Verde,2020-04-22,1
+92,Cabo Verde,2020-04-23,1
+93,Cabo Verde,2020-04-24,1
+94,Cabo Verde,2020-04-25,1
+95,Cabo Verde,2020-04-26,1
+96,Cabo Verde,2020-04-27,1
+97,Cabo Verde,2020-04-28,1
+98,Cabo Verde,2020-04-29,1
+99,Cabo Verde,2020-04-30,1
+100,Cabo Verde,2020-05-01,1
+101,Cabo Verde,2020-05-02,2
+102,Cabo Verde,2020-05-03,2
+103,Cabo Verde,2020-05-04,2
+104,Cabo Verde,2020-05-05,2
+105,Cabo Verde,2020-05-06,2
+106,Cabo Verde,2020-05-07,2
+107,Cabo Verde,2020-05-08,2
+108,Cabo Verde,2020-05-09,2
+109,Cabo Verde,2020-05-10,2
+110,Cabo Verde,2020-05-11,2
+111,Cabo Verde,2020-05-12,2
+112,Cabo Verde,2020-05-13,2
+113,Cabo Verde,2020-05-14,2
+114,Cabo Verde,2020-05-15,2
+115,Cabo Verde,2020-05-16,3
+116,Cabo Verde,2020-05-17,3
+117,Cabo Verde,2020-05-18,3
+118,Cabo Verde,2020-05-19,3
+119,Cabo Verde,2020-05-20,3
+120,Cabo Verde,2020-05-21,3
+121,Cabo Verde,2020-05-22,3
+122,Cabo Verde,2020-05-23,3
+123,Cabo Verde,2020-05-24,3
+124,Cabo Verde,2020-05-25,3
+125,Cabo Verde,2020-05-26,4
+126,Cabo Verde,2020-05-27,4
+127,Cabo Verde,2020-05-28,4
+128,Cabo Verde,2020-05-29,4
+129,Cabo Verde,2020-05-30,4
+130,Cabo Verde,2020-05-31,4
+131,Cabo Verde,2020-06-01,4
+132,Cabo Verde,2020-06-02,5
+133,Cabo Verde,2020-06-03,5
+134,Cabo Verde,2020-06-04,5
+135,Cabo Verde,2020-06-05,5
+136,Cabo Verde,2020-06-06,5
+137,Cabo Verde,2020-06-07,5
+138,Cabo Verde,2020-06-08,5
+139,Cabo Verde,2020-06-09,5
+140,Cabo Verde,2020-06-10,5
+141,Cabo Verde,2020-06-11,6
+142,Cabo Verde,2020-06-12,6
+143,Cabo Verde,2020-06-13,6
+144,Cabo Verde,2020-06-14,6
+145,Cabo Verde,2020-06-15,7
+146,Cabo Verde,2020-06-16,7
+147,Cabo Verde,2020-06-17,7
+148,Cabo Verde,2020-06-18,7
+149,Cabo Verde,2020-06-19,8
+150,Cabo Verde,2020-06-20,8
+0,Cameroon,2020-01-22,0
+1,Cameroon,2020-01-23,0
+2,Cameroon,2020-01-24,0
+3,Cameroon,2020-01-25,0
+4,Cameroon,2020-01-26,0
+5,Cameroon,2020-01-27,0
+6,Cameroon,2020-01-28,0
+7,Cameroon,2020-01-29,0
+8,Cameroon,2020-01-30,0
+9,Cameroon,2020-01-31,0
+10,Cameroon,2020-02-01,0
+11,Cameroon,2020-02-02,0
+12,Cameroon,2020-02-03,0
+13,Cameroon,2020-02-04,0
+14,Cameroon,2020-02-05,0
+15,Cameroon,2020-02-06,0
+16,Cameroon,2020-02-07,0
+17,Cameroon,2020-02-08,0
+18,Cameroon,2020-02-09,0
+19,Cameroon,2020-02-10,0
+20,Cameroon,2020-02-11,0
+21,Cameroon,2020-02-12,0
+22,Cameroon,2020-02-13,0
+23,Cameroon,2020-02-14,0
+24,Cameroon,2020-02-15,0
+25,Cameroon,2020-02-16,0
+26,Cameroon,2020-02-17,0
+27,Cameroon,2020-02-18,0
+28,Cameroon,2020-02-19,0
+29,Cameroon,2020-02-20,0
+30,Cameroon,2020-02-21,0
+31,Cameroon,2020-02-22,0
+32,Cameroon,2020-02-23,0
+33,Cameroon,2020-02-24,0
+34,Cameroon,2020-02-25,0
+35,Cameroon,2020-02-26,0
+36,Cameroon,2020-02-27,0
+37,Cameroon,2020-02-28,0
+38,Cameroon,2020-02-29,0
+39,Cameroon,2020-03-01,0
+40,Cameroon,2020-03-02,0
+41,Cameroon,2020-03-03,0
+42,Cameroon,2020-03-04,0
+43,Cameroon,2020-03-05,0
+44,Cameroon,2020-03-06,0
+45,Cameroon,2020-03-07,0
+46,Cameroon,2020-03-08,0
+47,Cameroon,2020-03-09,0
+48,Cameroon,2020-03-10,0
+49,Cameroon,2020-03-11,0
+50,Cameroon,2020-03-12,0
+51,Cameroon,2020-03-13,0
+52,Cameroon,2020-03-14,0
+53,Cameroon,2020-03-15,0
+54,Cameroon,2020-03-16,0
+55,Cameroon,2020-03-17,0
+56,Cameroon,2020-03-18,0
+57,Cameroon,2020-03-19,0
+58,Cameroon,2020-03-20,0
+59,Cameroon,2020-03-21,0
+60,Cameroon,2020-03-22,0
+61,Cameroon,2020-03-23,0
+62,Cameroon,2020-03-24,0
+63,Cameroon,2020-03-25,1
+64,Cameroon,2020-03-26,1
+65,Cameroon,2020-03-27,2
+66,Cameroon,2020-03-28,2
+67,Cameroon,2020-03-29,6
+68,Cameroon,2020-03-30,6
+69,Cameroon,2020-03-31,6
+70,Cameroon,2020-04-01,6
+71,Cameroon,2020-04-02,7
+72,Cameroon,2020-04-03,8
+73,Cameroon,2020-04-04,9
+74,Cameroon,2020-04-05,9
+75,Cameroon,2020-04-06,9
+76,Cameroon,2020-04-07,9
+77,Cameroon,2020-04-08,10
+78,Cameroon,2020-04-09,10
+79,Cameroon,2020-04-10,12
+80,Cameroon,2020-04-11,12
+81,Cameroon,2020-04-12,12
+82,Cameroon,2020-04-13,12
+83,Cameroon,2020-04-14,14
+84,Cameroon,2020-04-15,17
+85,Cameroon,2020-04-16,22
+86,Cameroon,2020-04-17,22
+87,Cameroon,2020-04-18,22
+88,Cameroon,2020-04-19,42
+89,Cameroon,2020-04-20,42
+90,Cameroon,2020-04-21,43
+91,Cameroon,2020-04-22,43
+92,Cameroon,2020-04-23,43
+93,Cameroon,2020-04-24,43
+94,Cameroon,2020-04-25,53
+95,Cameroon,2020-04-26,56
+96,Cameroon,2020-04-27,58
+97,Cameroon,2020-04-28,58
+98,Cameroon,2020-04-29,61
+99,Cameroon,2020-04-30,61
+100,Cameroon,2020-05-01,61
+101,Cameroon,2020-05-02,64
+102,Cameroon,2020-05-03,64
+103,Cameroon,2020-05-04,64
+104,Cameroon,2020-05-05,64
+105,Cameroon,2020-05-06,108
+106,Cameroon,2020-05-07,108
+107,Cameroon,2020-05-08,108
+108,Cameroon,2020-05-09,108
+109,Cameroon,2020-05-10,114
+110,Cameroon,2020-05-11,125
+111,Cameroon,2020-05-12,125
+112,Cameroon,2020-05-13,136
+113,Cameroon,2020-05-14,139
+114,Cameroon,2020-05-15,140
+115,Cameroon,2020-05-16,140
+116,Cameroon,2020-05-17,140
+117,Cameroon,2020-05-18,140
+118,Cameroon,2020-05-19,140
+119,Cameroon,2020-05-20,146
+120,Cameroon,2020-05-21,156
+121,Cameroon,2020-05-22,159
+122,Cameroon,2020-05-23,159
+123,Cameroon,2020-05-24,165
+124,Cameroon,2020-05-25,165
+125,Cameroon,2020-05-26,175
+126,Cameroon,2020-05-27,175
+127,Cameroon,2020-05-28,175
+128,Cameroon,2020-05-29,177
+129,Cameroon,2020-05-30,191
+130,Cameroon,2020-05-31,191
+131,Cameroon,2020-06-01,199
+132,Cameroon,2020-06-02,200
+133,Cameroon,2020-06-03,200
+134,Cameroon,2020-06-04,203
+135,Cameroon,2020-06-05,205
+136,Cameroon,2020-06-06,212
+137,Cameroon,2020-06-07,212
+138,Cameroon,2020-06-08,212
+139,Cameroon,2020-06-09,212
+140,Cameroon,2020-06-10,212
+141,Cameroon,2020-06-11,212
+142,Cameroon,2020-06-12,212
+143,Cameroon,2020-06-13,212
+144,Cameroon,2020-06-14,212
+145,Cameroon,2020-06-15,276
+146,Cameroon,2020-06-16,276
+147,Cameroon,2020-06-17,276
+148,Cameroon,2020-06-18,276
+149,Cameroon,2020-06-19,282
+150,Cameroon,2020-06-20,301
+0,Chad,2020-01-22,0
+1,Chad,2020-01-23,0
+2,Chad,2020-01-24,0
+3,Chad,2020-01-25,0
+4,Chad,2020-01-26,0
+5,Chad,2020-01-27,0
+6,Chad,2020-01-28,0
+7,Chad,2020-01-29,0
+8,Chad,2020-01-30,0
+9,Chad,2020-01-31,0
+10,Chad,2020-02-01,0
+11,Chad,2020-02-02,0
+12,Chad,2020-02-03,0
+13,Chad,2020-02-04,0
+14,Chad,2020-02-05,0
+15,Chad,2020-02-06,0
+16,Chad,2020-02-07,0
+17,Chad,2020-02-08,0
+18,Chad,2020-02-09,0
+19,Chad,2020-02-10,0
+20,Chad,2020-02-11,0
+21,Chad,2020-02-12,0
+22,Chad,2020-02-13,0
+23,Chad,2020-02-14,0
+24,Chad,2020-02-15,0
+25,Chad,2020-02-16,0
+26,Chad,2020-02-17,0
+27,Chad,2020-02-18,0
+28,Chad,2020-02-19,0
+29,Chad,2020-02-20,0
+30,Chad,2020-02-21,0
+31,Chad,2020-02-22,0
+32,Chad,2020-02-23,0
+33,Chad,2020-02-24,0
+34,Chad,2020-02-25,0
+35,Chad,2020-02-26,0
+36,Chad,2020-02-27,0
+37,Chad,2020-02-28,0
+38,Chad,2020-02-29,0
+39,Chad,2020-03-01,0
+40,Chad,2020-03-02,0
+41,Chad,2020-03-03,0
+42,Chad,2020-03-04,0
+43,Chad,2020-03-05,0
+44,Chad,2020-03-06,0
+45,Chad,2020-03-07,0
+46,Chad,2020-03-08,0
+47,Chad,2020-03-09,0
+48,Chad,2020-03-10,0
+49,Chad,2020-03-11,0
+50,Chad,2020-03-12,0
+51,Chad,2020-03-13,0
+52,Chad,2020-03-14,0
+53,Chad,2020-03-15,0
+54,Chad,2020-03-16,0
+55,Chad,2020-03-17,0
+56,Chad,2020-03-18,0
+57,Chad,2020-03-19,0
+58,Chad,2020-03-20,0
+59,Chad,2020-03-21,0
+60,Chad,2020-03-22,0
+61,Chad,2020-03-23,0
+62,Chad,2020-03-24,0
+63,Chad,2020-03-25,0
+64,Chad,2020-03-26,0
+65,Chad,2020-03-27,0
+66,Chad,2020-03-28,0
+67,Chad,2020-03-29,0
+68,Chad,2020-03-30,0
+69,Chad,2020-03-31,0
+70,Chad,2020-04-01,0
+71,Chad,2020-04-02,0
+72,Chad,2020-04-03,0
+73,Chad,2020-04-04,0
+74,Chad,2020-04-05,0
+75,Chad,2020-04-06,0
+76,Chad,2020-04-07,0
+77,Chad,2020-04-08,0
+78,Chad,2020-04-09,0
+79,Chad,2020-04-10,0
+80,Chad,2020-04-11,0
+81,Chad,2020-04-12,0
+82,Chad,2020-04-13,0
+83,Chad,2020-04-14,0
+84,Chad,2020-04-15,0
+85,Chad,2020-04-16,0
+86,Chad,2020-04-17,0
+87,Chad,2020-04-18,0
+88,Chad,2020-04-19,0
+89,Chad,2020-04-20,0
+90,Chad,2020-04-21,0
+91,Chad,2020-04-22,0
+92,Chad,2020-04-23,0
+93,Chad,2020-04-24,0
+94,Chad,2020-04-25,0
+95,Chad,2020-04-26,0
+96,Chad,2020-04-27,0
+97,Chad,2020-04-28,2
+98,Chad,2020-04-29,2
+99,Chad,2020-04-30,5
+100,Chad,2020-05-01,5
+101,Chad,2020-05-02,10
+102,Chad,2020-05-03,10
+103,Chad,2020-05-04,10
+104,Chad,2020-05-05,17
+105,Chad,2020-05-06,17
+106,Chad,2020-05-07,27
+107,Chad,2020-05-08,28
+108,Chad,2020-05-09,31
+109,Chad,2020-05-10,31
+110,Chad,2020-05-11,31
+111,Chad,2020-05-12,40
+112,Chad,2020-05-13,42
+113,Chad,2020-05-14,46
+114,Chad,2020-05-15,48
+115,Chad,2020-05-16,50
+116,Chad,2020-05-17,53
+117,Chad,2020-05-18,53
+118,Chad,2020-05-19,56
+119,Chad,2020-05-20,57
+120,Chad,2020-05-21,58
+121,Chad,2020-05-22,58
+122,Chad,2020-05-23,60
+123,Chad,2020-05-24,60
+124,Chad,2020-05-25,61
+125,Chad,2020-05-26,62
+126,Chad,2020-05-27,64
+127,Chad,2020-05-28,65
+128,Chad,2020-05-29,65
+129,Chad,2020-05-30,65
+130,Chad,2020-05-31,65
+131,Chad,2020-06-01,66
+132,Chad,2020-06-02,66
+133,Chad,2020-06-03,66
+134,Chad,2020-06-04,66
+135,Chad,2020-06-05,68
+136,Chad,2020-06-06,69
+137,Chad,2020-06-07,69
+138,Chad,2020-06-08,70
+139,Chad,2020-06-09,71
+140,Chad,2020-06-10,72
+141,Chad,2020-06-11,72
+142,Chad,2020-06-12,72
+143,Chad,2020-06-13,72
+144,Chad,2020-06-14,73
+145,Chad,2020-06-15,73
+146,Chad,2020-06-16,74
+147,Chad,2020-06-17,74
+148,Chad,2020-06-18,74
+149,Chad,2020-06-19,74
+150,Chad,2020-06-20,74
+0,Congo (Brazzaville),2020-01-22,0
+1,Congo (Brazzaville),2020-01-23,0
+2,Congo (Brazzaville),2020-01-24,0
+3,Congo (Brazzaville),2020-01-25,0
+4,Congo (Brazzaville),2020-01-26,0
+5,Congo (Brazzaville),2020-01-27,0
+6,Congo (Brazzaville),2020-01-28,0
+7,Congo (Brazzaville),2020-01-29,0
+8,Congo (Brazzaville),2020-01-30,0
+9,Congo (Brazzaville),2020-01-31,0
+10,Congo (Brazzaville),2020-02-01,0
+11,Congo (Brazzaville),2020-02-02,0
+12,Congo (Brazzaville),2020-02-03,0
+13,Congo (Brazzaville),2020-02-04,0
+14,Congo (Brazzaville),2020-02-05,0
+15,Congo (Brazzaville),2020-02-06,0
+16,Congo (Brazzaville),2020-02-07,0
+17,Congo (Brazzaville),2020-02-08,0
+18,Congo (Brazzaville),2020-02-09,0
+19,Congo (Brazzaville),2020-02-10,0
+20,Congo (Brazzaville),2020-02-11,0
+21,Congo (Brazzaville),2020-02-12,0
+22,Congo (Brazzaville),2020-02-13,0
+23,Congo (Brazzaville),2020-02-14,0
+24,Congo (Brazzaville),2020-02-15,0
+25,Congo (Brazzaville),2020-02-16,0
+26,Congo (Brazzaville),2020-02-17,0
+27,Congo (Brazzaville),2020-02-18,0
+28,Congo (Brazzaville),2020-02-19,0
+29,Congo (Brazzaville),2020-02-20,0
+30,Congo (Brazzaville),2020-02-21,0
+31,Congo (Brazzaville),2020-02-22,0
+32,Congo (Brazzaville),2020-02-23,0
+33,Congo (Brazzaville),2020-02-24,0
+34,Congo (Brazzaville),2020-02-25,0
+35,Congo (Brazzaville),2020-02-26,0
+36,Congo (Brazzaville),2020-02-27,0
+37,Congo (Brazzaville),2020-02-28,0
+38,Congo (Brazzaville),2020-02-29,0
+39,Congo (Brazzaville),2020-03-01,0
+40,Congo (Brazzaville),2020-03-02,0
+41,Congo (Brazzaville),2020-03-03,0
+42,Congo (Brazzaville),2020-03-04,0
+43,Congo (Brazzaville),2020-03-05,0
+44,Congo (Brazzaville),2020-03-06,0
+45,Congo (Brazzaville),2020-03-07,0
+46,Congo (Brazzaville),2020-03-08,0
+47,Congo (Brazzaville),2020-03-09,0
+48,Congo (Brazzaville),2020-03-10,0
+49,Congo (Brazzaville),2020-03-11,0
+50,Congo (Brazzaville),2020-03-12,0
+51,Congo (Brazzaville),2020-03-13,0
+52,Congo (Brazzaville),2020-03-14,0
+53,Congo (Brazzaville),2020-03-15,0
+54,Congo (Brazzaville),2020-03-16,0
+55,Congo (Brazzaville),2020-03-17,0
+56,Congo (Brazzaville),2020-03-18,0
+57,Congo (Brazzaville),2020-03-19,0
+58,Congo (Brazzaville),2020-03-20,0
+59,Congo (Brazzaville),2020-03-21,0
+60,Congo (Brazzaville),2020-03-22,0
+61,Congo (Brazzaville),2020-03-23,0
+62,Congo (Brazzaville),2020-03-24,0
+63,Congo (Brazzaville),2020-03-25,0
+64,Congo (Brazzaville),2020-03-26,0
+65,Congo (Brazzaville),2020-03-27,0
+66,Congo (Brazzaville),2020-03-28,0
+67,Congo (Brazzaville),2020-03-29,0
+68,Congo (Brazzaville),2020-03-30,0
+69,Congo (Brazzaville),2020-03-31,0
+70,Congo (Brazzaville),2020-04-01,0
+71,Congo (Brazzaville),2020-04-02,2
+72,Congo (Brazzaville),2020-04-03,2
+73,Congo (Brazzaville),2020-04-04,2
+74,Congo (Brazzaville),2020-04-05,5
+75,Congo (Brazzaville),2020-04-06,5
+76,Congo (Brazzaville),2020-04-07,5
+77,Congo (Brazzaville),2020-04-08,5
+78,Congo (Brazzaville),2020-04-09,5
+79,Congo (Brazzaville),2020-04-10,5
+80,Congo (Brazzaville),2020-04-11,5
+81,Congo (Brazzaville),2020-04-12,5
+82,Congo (Brazzaville),2020-04-13,5
+83,Congo (Brazzaville),2020-04-14,5
+84,Congo (Brazzaville),2020-04-15,5
+85,Congo (Brazzaville),2020-04-16,5
+86,Congo (Brazzaville),2020-04-17,6
+87,Congo (Brazzaville),2020-04-18,6
+88,Congo (Brazzaville),2020-04-19,6
+89,Congo (Brazzaville),2020-04-20,6
+90,Congo (Brazzaville),2020-04-21,6
+91,Congo (Brazzaville),2020-04-22,6
+92,Congo (Brazzaville),2020-04-23,6
+93,Congo (Brazzaville),2020-04-24,6
+94,Congo (Brazzaville),2020-04-25,6
+95,Congo (Brazzaville),2020-04-26,6
+96,Congo (Brazzaville),2020-04-27,6
+97,Congo (Brazzaville),2020-04-28,8
+98,Congo (Brazzaville),2020-04-29,8
+99,Congo (Brazzaville),2020-04-30,9
+100,Congo (Brazzaville),2020-05-01,9
+101,Congo (Brazzaville),2020-05-02,9
+102,Congo (Brazzaville),2020-05-03,9
+103,Congo (Brazzaville),2020-05-04,10
+104,Congo (Brazzaville),2020-05-05,10
+105,Congo (Brazzaville),2020-05-06,10
+106,Congo (Brazzaville),2020-05-07,10
+107,Congo (Brazzaville),2020-05-08,10
+108,Congo (Brazzaville),2020-05-09,10
+109,Congo (Brazzaville),2020-05-10,10
+110,Congo (Brazzaville),2020-05-11,11
+111,Congo (Brazzaville),2020-05-12,11
+112,Congo (Brazzaville),2020-05-13,11
+113,Congo (Brazzaville),2020-05-14,15
+114,Congo (Brazzaville),2020-05-15,15
+115,Congo (Brazzaville),2020-05-16,15
+116,Congo (Brazzaville),2020-05-17,15
+117,Congo (Brazzaville),2020-05-18,15
+118,Congo (Brazzaville),2020-05-19,15
+119,Congo (Brazzaville),2020-05-20,15
+120,Congo (Brazzaville),2020-05-21,16
+121,Congo (Brazzaville),2020-05-22,16
+122,Congo (Brazzaville),2020-05-23,16
+123,Congo (Brazzaville),2020-05-24,16
+124,Congo (Brazzaville),2020-05-25,16
+125,Congo (Brazzaville),2020-05-26,16
+126,Congo (Brazzaville),2020-05-27,19
+127,Congo (Brazzaville),2020-05-28,19
+128,Congo (Brazzaville),2020-05-29,19
+129,Congo (Brazzaville),2020-05-30,19
+130,Congo (Brazzaville),2020-05-31,20
+131,Congo (Brazzaville),2020-06-01,20
+132,Congo (Brazzaville),2020-06-02,20
+133,Congo (Brazzaville),2020-06-03,20
+134,Congo (Brazzaville),2020-06-04,20
+135,Congo (Brazzaville),2020-06-05,20
+136,Congo (Brazzaville),2020-06-06,22
+137,Congo (Brazzaville),2020-06-07,22
+138,Congo (Brazzaville),2020-06-08,22
+139,Congo (Brazzaville),2020-06-09,24
+140,Congo (Brazzaville),2020-06-10,24
+141,Congo (Brazzaville),2020-06-11,24
+142,Congo (Brazzaville),2020-06-12,24
+143,Congo (Brazzaville),2020-06-13,24
+144,Congo (Brazzaville),2020-06-14,24
+145,Congo (Brazzaville),2020-06-15,27
+146,Congo (Brazzaville),2020-06-16,27
+147,Congo (Brazzaville),2020-06-17,27
+148,Congo (Brazzaville),2020-06-18,27
+149,Congo (Brazzaville),2020-06-19,27
+150,Congo (Brazzaville),2020-06-20,27
+0,Central African Republic,2020-01-22,0
+1,Central African Republic,2020-01-23,0
+2,Central African Republic,2020-01-24,0
+3,Central African Republic,2020-01-25,0
+4,Central African Republic,2020-01-26,0
+5,Central African Republic,2020-01-27,0
+6,Central African Republic,2020-01-28,0
+7,Central African Republic,2020-01-29,0
+8,Central African Republic,2020-01-30,0
+9,Central African Republic,2020-01-31,0
+10,Central African Republic,2020-02-01,0
+11,Central African Republic,2020-02-02,0
+12,Central African Republic,2020-02-03,0
+13,Central African Republic,2020-02-04,0
+14,Central African Republic,2020-02-05,0
+15,Central African Republic,2020-02-06,0
+16,Central African Republic,2020-02-07,0
+17,Central African Republic,2020-02-08,0
+18,Central African Republic,2020-02-09,0
+19,Central African Republic,2020-02-10,0
+20,Central African Republic,2020-02-11,0
+21,Central African Republic,2020-02-12,0
+22,Central African Republic,2020-02-13,0
+23,Central African Republic,2020-02-14,0
+24,Central African Republic,2020-02-15,0
+25,Central African Republic,2020-02-16,0
+26,Central African Republic,2020-02-17,0
+27,Central African Republic,2020-02-18,0
+28,Central African Republic,2020-02-19,0
+29,Central African Republic,2020-02-20,0
+30,Central African Republic,2020-02-21,0
+31,Central African Republic,2020-02-22,0
+32,Central African Republic,2020-02-23,0
+33,Central African Republic,2020-02-24,0
+34,Central African Republic,2020-02-25,0
+35,Central African Republic,2020-02-26,0
+36,Central African Republic,2020-02-27,0
+37,Central African Republic,2020-02-28,0
+38,Central African Republic,2020-02-29,0
+39,Central African Republic,2020-03-01,0
+40,Central African Republic,2020-03-02,0
+41,Central African Republic,2020-03-03,0
+42,Central African Republic,2020-03-04,0
+43,Central African Republic,2020-03-05,0
+44,Central African Republic,2020-03-06,0
+45,Central African Republic,2020-03-07,0
+46,Central African Republic,2020-03-08,0
+47,Central African Republic,2020-03-09,0
+48,Central African Republic,2020-03-10,0
+49,Central African Republic,2020-03-11,0
+50,Central African Republic,2020-03-12,0
+51,Central African Republic,2020-03-13,0
+52,Central African Republic,2020-03-14,0
+53,Central African Republic,2020-03-15,0
+54,Central African Republic,2020-03-16,0
+55,Central African Republic,2020-03-17,0
+56,Central African Republic,2020-03-18,0
+57,Central African Republic,2020-03-19,0
+58,Central African Republic,2020-03-20,0
+59,Central African Republic,2020-03-21,0
+60,Central African Republic,2020-03-22,0
+61,Central African Republic,2020-03-23,0
+62,Central African Republic,2020-03-24,0
+63,Central African Republic,2020-03-25,0
+64,Central African Republic,2020-03-26,0
+65,Central African Republic,2020-03-27,0
+66,Central African Republic,2020-03-28,0
+67,Central African Republic,2020-03-29,0
+68,Central African Republic,2020-03-30,0
+69,Central African Republic,2020-03-31,0
+70,Central African Republic,2020-04-01,0
+71,Central African Republic,2020-04-02,0
+72,Central African Republic,2020-04-03,0
+73,Central African Republic,2020-04-04,0
+74,Central African Republic,2020-04-05,0
+75,Central African Republic,2020-04-06,0
+76,Central African Republic,2020-04-07,0
+77,Central African Republic,2020-04-08,0
+78,Central African Republic,2020-04-09,0
+79,Central African Republic,2020-04-10,0
+80,Central African Republic,2020-04-11,0
+81,Central African Republic,2020-04-12,0
+82,Central African Republic,2020-04-13,0
+83,Central African Republic,2020-04-14,0
+84,Central African Republic,2020-04-15,0
+85,Central African Republic,2020-04-16,0
+86,Central African Republic,2020-04-17,0
+87,Central African Republic,2020-04-18,0
+88,Central African Republic,2020-04-19,0
+89,Central African Republic,2020-04-20,0
+90,Central African Republic,2020-04-21,0
+91,Central African Republic,2020-04-22,0
+92,Central African Republic,2020-04-23,0
+93,Central African Republic,2020-04-24,0
+94,Central African Republic,2020-04-25,0
+95,Central African Republic,2020-04-26,0
+96,Central African Republic,2020-04-27,0
+97,Central African Republic,2020-04-28,0
+98,Central African Republic,2020-04-29,0
+99,Central African Republic,2020-04-30,0
+100,Central African Republic,2020-05-01,0
+101,Central African Republic,2020-05-02,0
+102,Central African Republic,2020-05-03,0
+103,Central African Republic,2020-05-04,0
+104,Central African Republic,2020-05-05,0
+105,Central African Republic,2020-05-06,0
+106,Central African Republic,2020-05-07,0
+107,Central African Republic,2020-05-08,0
+108,Central African Republic,2020-05-09,0
+109,Central African Republic,2020-05-10,0
+110,Central African Republic,2020-05-11,0
+111,Central African Republic,2020-05-12,0
+112,Central African Republic,2020-05-13,0
+113,Central African Republic,2020-05-14,0
+114,Central African Republic,2020-05-15,0
+115,Central African Republic,2020-05-16,0
+116,Central African Republic,2020-05-17,0
+117,Central African Republic,2020-05-18,0
+118,Central African Republic,2020-05-19,0
+119,Central African Republic,2020-05-20,0
+120,Central African Republic,2020-05-21,0
+121,Central African Republic,2020-05-22,0
+122,Central African Republic,2020-05-23,1
+123,Central African Republic,2020-05-24,1
+124,Central African Republic,2020-05-25,1
+125,Central African Republic,2020-05-26,1
+126,Central African Republic,2020-05-27,1
+127,Central African Republic,2020-05-28,1
+128,Central African Republic,2020-05-29,1
+129,Central African Republic,2020-05-30,1
+130,Central African Republic,2020-05-31,2
+131,Central African Republic,2020-06-01,4
+132,Central African Republic,2020-06-02,4
+133,Central African Republic,2020-06-03,4
+134,Central African Republic,2020-06-04,4
+135,Central African Republic,2020-06-05,4
+136,Central African Republic,2020-06-06,5
+137,Central African Republic,2020-06-07,5
+138,Central African Republic,2020-06-08,5
+139,Central African Republic,2020-06-09,5
+140,Central African Republic,2020-06-10,5
+141,Central African Republic,2020-06-11,5
+142,Central African Republic,2020-06-12,7
+143,Central African Republic,2020-06-13,7
+144,Central African Republic,2020-06-14,7
+145,Central African Republic,2020-06-15,7
+146,Central African Republic,2020-06-16,14
+147,Central African Republic,2020-06-17,18
+148,Central African Republic,2020-06-18,19
+149,Central African Republic,2020-06-19,19
+150,Central African Republic,2020-06-20,19
+0,Cote d'Ivoire,2020-01-22,0
+1,Cote d'Ivoire,2020-01-23,0
+2,Cote d'Ivoire,2020-01-24,0
+3,Cote d'Ivoire,2020-01-25,0
+4,Cote d'Ivoire,2020-01-26,0
+5,Cote d'Ivoire,2020-01-27,0
+6,Cote d'Ivoire,2020-01-28,0
+7,Cote d'Ivoire,2020-01-29,0
+8,Cote d'Ivoire,2020-01-30,0
+9,Cote d'Ivoire,2020-01-31,0
+10,Cote d'Ivoire,2020-02-01,0
+11,Cote d'Ivoire,2020-02-02,0
+12,Cote d'Ivoire,2020-02-03,0
+13,Cote d'Ivoire,2020-02-04,0
+14,Cote d'Ivoire,2020-02-05,0
+15,Cote d'Ivoire,2020-02-06,0
+16,Cote d'Ivoire,2020-02-07,0
+17,Cote d'Ivoire,2020-02-08,0
+18,Cote d'Ivoire,2020-02-09,0
+19,Cote d'Ivoire,2020-02-10,0
+20,Cote d'Ivoire,2020-02-11,0
+21,Cote d'Ivoire,2020-02-12,0
+22,Cote d'Ivoire,2020-02-13,0
+23,Cote d'Ivoire,2020-02-14,0
+24,Cote d'Ivoire,2020-02-15,0
+25,Cote d'Ivoire,2020-02-16,0
+26,Cote d'Ivoire,2020-02-17,0
+27,Cote d'Ivoire,2020-02-18,0
+28,Cote d'Ivoire,2020-02-19,0
+29,Cote d'Ivoire,2020-02-20,0
+30,Cote d'Ivoire,2020-02-21,0
+31,Cote d'Ivoire,2020-02-22,0
+32,Cote d'Ivoire,2020-02-23,0
+33,Cote d'Ivoire,2020-02-24,0
+34,Cote d'Ivoire,2020-02-25,0
+35,Cote d'Ivoire,2020-02-26,0
+36,Cote d'Ivoire,2020-02-27,0
+37,Cote d'Ivoire,2020-02-28,0
+38,Cote d'Ivoire,2020-02-29,0
+39,Cote d'Ivoire,2020-03-01,0
+40,Cote d'Ivoire,2020-03-02,0
+41,Cote d'Ivoire,2020-03-03,0
+42,Cote d'Ivoire,2020-03-04,0
+43,Cote d'Ivoire,2020-03-05,0
+44,Cote d'Ivoire,2020-03-06,0
+45,Cote d'Ivoire,2020-03-07,0
+46,Cote d'Ivoire,2020-03-08,0
+47,Cote d'Ivoire,2020-03-09,0
+48,Cote d'Ivoire,2020-03-10,0
+49,Cote d'Ivoire,2020-03-11,0
+50,Cote d'Ivoire,2020-03-12,0
+51,Cote d'Ivoire,2020-03-13,0
+52,Cote d'Ivoire,2020-03-14,0
+53,Cote d'Ivoire,2020-03-15,0
+54,Cote d'Ivoire,2020-03-16,0
+55,Cote d'Ivoire,2020-03-17,0
+56,Cote d'Ivoire,2020-03-18,0
+57,Cote d'Ivoire,2020-03-19,0
+58,Cote d'Ivoire,2020-03-20,0
+59,Cote d'Ivoire,2020-03-21,0
+60,Cote d'Ivoire,2020-03-22,0
+61,Cote d'Ivoire,2020-03-23,0
+62,Cote d'Ivoire,2020-03-24,0
+63,Cote d'Ivoire,2020-03-25,0
+64,Cote d'Ivoire,2020-03-26,0
+65,Cote d'Ivoire,2020-03-27,0
+66,Cote d'Ivoire,2020-03-28,0
+67,Cote d'Ivoire,2020-03-29,1
+68,Cote d'Ivoire,2020-03-30,1
+69,Cote d'Ivoire,2020-03-31,1
+70,Cote d'Ivoire,2020-04-01,1
+71,Cote d'Ivoire,2020-04-02,1
+72,Cote d'Ivoire,2020-04-03,1
+73,Cote d'Ivoire,2020-04-04,1
+74,Cote d'Ivoire,2020-04-05,3
+75,Cote d'Ivoire,2020-04-06,3
+76,Cote d'Ivoire,2020-04-07,3
+77,Cote d'Ivoire,2020-04-08,3
+78,Cote d'Ivoire,2020-04-09,3
+79,Cote d'Ivoire,2020-04-10,3
+80,Cote d'Ivoire,2020-04-11,4
+81,Cote d'Ivoire,2020-04-12,5
+82,Cote d'Ivoire,2020-04-13,6
+83,Cote d'Ivoire,2020-04-14,6
+84,Cote d'Ivoire,2020-04-15,6
+85,Cote d'Ivoire,2020-04-16,6
+86,Cote d'Ivoire,2020-04-17,6
+87,Cote d'Ivoire,2020-04-18,8
+88,Cote d'Ivoire,2020-04-19,9
+89,Cote d'Ivoire,2020-04-20,9
+90,Cote d'Ivoire,2020-04-21,13
+91,Cote d'Ivoire,2020-04-22,14
+92,Cote d'Ivoire,2020-04-23,14
+93,Cote d'Ivoire,2020-04-24,14
+94,Cote d'Ivoire,2020-04-25,14
+95,Cote d'Ivoire,2020-04-26,14
+96,Cote d'Ivoire,2020-04-27,14
+97,Cote d'Ivoire,2020-04-28,14
+98,Cote d'Ivoire,2020-04-29,14
+99,Cote d'Ivoire,2020-04-30,14
+100,Cote d'Ivoire,2020-05-01,15
+101,Cote d'Ivoire,2020-05-02,15
+102,Cote d'Ivoire,2020-05-03,17
+103,Cote d'Ivoire,2020-05-04,17
+104,Cote d'Ivoire,2020-05-05,18
+105,Cote d'Ivoire,2020-05-06,18
+106,Cote d'Ivoire,2020-05-07,20
+107,Cote d'Ivoire,2020-05-08,20
+108,Cote d'Ivoire,2020-05-09,21
+109,Cote d'Ivoire,2020-05-10,21
+110,Cote d'Ivoire,2020-05-11,21
+111,Cote d'Ivoire,2020-05-12,21
+112,Cote d'Ivoire,2020-05-13,24
+113,Cote d'Ivoire,2020-05-14,24
+114,Cote d'Ivoire,2020-05-15,24
+115,Cote d'Ivoire,2020-05-16,25
+116,Cote d'Ivoire,2020-05-17,27
+117,Cote d'Ivoire,2020-05-18,28
+118,Cote d'Ivoire,2020-05-19,28
+119,Cote d'Ivoire,2020-05-20,29
+120,Cote d'Ivoire,2020-05-21,29
+121,Cote d'Ivoire,2020-05-22,29
+122,Cote d'Ivoire,2020-05-23,30
+123,Cote d'Ivoire,2020-05-24,30
+124,Cote d'Ivoire,2020-05-25,30
+125,Cote d'Ivoire,2020-05-26,30
+126,Cote d'Ivoire,2020-05-27,31
+127,Cote d'Ivoire,2020-05-28,32
+128,Cote d'Ivoire,2020-05-29,32
+129,Cote d'Ivoire,2020-05-30,33
+130,Cote d'Ivoire,2020-05-31,33
+131,Cote d'Ivoire,2020-06-01,33
+132,Cote d'Ivoire,2020-06-02,33
+133,Cote d'Ivoire,2020-06-03,35
+134,Cote d'Ivoire,2020-06-04,35
+135,Cote d'Ivoire,2020-06-05,36
+136,Cote d'Ivoire,2020-06-06,36
+137,Cote d'Ivoire,2020-06-07,36
+138,Cote d'Ivoire,2020-06-08,38
+139,Cote d'Ivoire,2020-06-09,38
+140,Cote d'Ivoire,2020-06-10,41
+141,Cote d'Ivoire,2020-06-11,41
+142,Cote d'Ivoire,2020-06-12,45
+143,Cote d'Ivoire,2020-06-13,45
+144,Cote d'Ivoire,2020-06-14,45
+145,Cote d'Ivoire,2020-06-15,46
+146,Cote d'Ivoire,2020-06-16,46
+147,Cote d'Ivoire,2020-06-17,48
+148,Cote d'Ivoire,2020-06-18,49
+149,Cote d'Ivoire,2020-06-19,49
+150,Cote d'Ivoire,2020-06-20,52
+0,Congo (Kinshasa),2020-01-22,0
+1,Congo (Kinshasa),2020-01-23,0
+2,Congo (Kinshasa),2020-01-24,0
+3,Congo (Kinshasa),2020-01-25,0
+4,Congo (Kinshasa),2020-01-26,0
+5,Congo (Kinshasa),2020-01-27,0
+6,Congo (Kinshasa),2020-01-28,0
+7,Congo (Kinshasa),2020-01-29,0
+8,Congo (Kinshasa),2020-01-30,0
+9,Congo (Kinshasa),2020-01-31,0
+10,Congo (Kinshasa),2020-02-01,0
+11,Congo (Kinshasa),2020-02-02,0
+12,Congo (Kinshasa),2020-02-03,0
+13,Congo (Kinshasa),2020-02-04,0
+14,Congo (Kinshasa),2020-02-05,0
+15,Congo (Kinshasa),2020-02-06,0
+16,Congo (Kinshasa),2020-02-07,0
+17,Congo (Kinshasa),2020-02-08,0
+18,Congo (Kinshasa),2020-02-09,0
+19,Congo (Kinshasa),2020-02-10,0
+20,Congo (Kinshasa),2020-02-11,0
+21,Congo (Kinshasa),2020-02-12,0
+22,Congo (Kinshasa),2020-02-13,0
+23,Congo (Kinshasa),2020-02-14,0
+24,Congo (Kinshasa),2020-02-15,0
+25,Congo (Kinshasa),2020-02-16,0
+26,Congo (Kinshasa),2020-02-17,0
+27,Congo (Kinshasa),2020-02-18,0
+28,Congo (Kinshasa),2020-02-19,0
+29,Congo (Kinshasa),2020-02-20,0
+30,Congo (Kinshasa),2020-02-21,0
+31,Congo (Kinshasa),2020-02-22,0
+32,Congo (Kinshasa),2020-02-23,0
+33,Congo (Kinshasa),2020-02-24,0
+34,Congo (Kinshasa),2020-02-25,0
+35,Congo (Kinshasa),2020-02-26,0
+36,Congo (Kinshasa),2020-02-27,0
+37,Congo (Kinshasa),2020-02-28,0
+38,Congo (Kinshasa),2020-02-29,0
+39,Congo (Kinshasa),2020-03-01,0
+40,Congo (Kinshasa),2020-03-02,0
+41,Congo (Kinshasa),2020-03-03,0
+42,Congo (Kinshasa),2020-03-04,0
+43,Congo (Kinshasa),2020-03-05,0
+44,Congo (Kinshasa),2020-03-06,0
+45,Congo (Kinshasa),2020-03-07,0
+46,Congo (Kinshasa),2020-03-08,0
+47,Congo (Kinshasa),2020-03-09,0
+48,Congo (Kinshasa),2020-03-10,0
+49,Congo (Kinshasa),2020-03-11,0
+50,Congo (Kinshasa),2020-03-12,0
+51,Congo (Kinshasa),2020-03-13,0
+52,Congo (Kinshasa),2020-03-14,0
+53,Congo (Kinshasa),2020-03-15,0
+54,Congo (Kinshasa),2020-03-16,0
+55,Congo (Kinshasa),2020-03-17,0
+56,Congo (Kinshasa),2020-03-18,0
+57,Congo (Kinshasa),2020-03-19,0
+58,Congo (Kinshasa),2020-03-20,0
+59,Congo (Kinshasa),2020-03-21,1
+60,Congo (Kinshasa),2020-03-22,1
+61,Congo (Kinshasa),2020-03-23,1
+62,Congo (Kinshasa),2020-03-24,2
+63,Congo (Kinshasa),2020-03-25,2
+64,Congo (Kinshasa),2020-03-26,3
+65,Congo (Kinshasa),2020-03-27,3
+66,Congo (Kinshasa),2020-03-28,6
+67,Congo (Kinshasa),2020-03-29,6
+68,Congo (Kinshasa),2020-03-30,8
+69,Congo (Kinshasa),2020-03-31,8
+70,Congo (Kinshasa),2020-04-01,9
+71,Congo (Kinshasa),2020-04-02,13
+72,Congo (Kinshasa),2020-04-03,13
+73,Congo (Kinshasa),2020-04-04,18
+74,Congo (Kinshasa),2020-04-05,18
+75,Congo (Kinshasa),2020-04-06,18
+76,Congo (Kinshasa),2020-04-07,18
+77,Congo (Kinshasa),2020-04-08,18
+78,Congo (Kinshasa),2020-04-09,18
+79,Congo (Kinshasa),2020-04-10,20
+80,Congo (Kinshasa),2020-04-11,20
+81,Congo (Kinshasa),2020-04-12,20
+82,Congo (Kinshasa),2020-04-13,20
+83,Congo (Kinshasa),2020-04-14,20
+84,Congo (Kinshasa),2020-04-15,21
+85,Congo (Kinshasa),2020-04-16,22
+86,Congo (Kinshasa),2020-04-17,23
+87,Congo (Kinshasa),2020-04-18,25
+88,Congo (Kinshasa),2020-04-19,25
+89,Congo (Kinshasa),2020-04-20,25
+90,Congo (Kinshasa),2020-04-21,25
+91,Congo (Kinshasa),2020-04-22,25
+92,Congo (Kinshasa),2020-04-23,25
+93,Congo (Kinshasa),2020-04-24,25
+94,Congo (Kinshasa),2020-04-25,28
+95,Congo (Kinshasa),2020-04-26,28
+96,Congo (Kinshasa),2020-04-27,28
+97,Congo (Kinshasa),2020-04-28,30
+98,Congo (Kinshasa),2020-04-29,30
+99,Congo (Kinshasa),2020-04-30,31
+100,Congo (Kinshasa),2020-05-01,32
+101,Congo (Kinshasa),2020-05-02,33
+102,Congo (Kinshasa),2020-05-03,33
+103,Congo (Kinshasa),2020-05-04,34
+104,Congo (Kinshasa),2020-05-05,34
+105,Congo (Kinshasa),2020-05-06,35
+106,Congo (Kinshasa),2020-05-07,36
+107,Congo (Kinshasa),2020-05-08,39
+108,Congo (Kinshasa),2020-05-09,39
+109,Congo (Kinshasa),2020-05-10,41
+110,Congo (Kinshasa),2020-05-11,41
+111,Congo (Kinshasa),2020-05-12,44
+112,Congo (Kinshasa),2020-05-13,50
+113,Congo (Kinshasa),2020-05-14,50
+114,Congo (Kinshasa),2020-05-15,50
+115,Congo (Kinshasa),2020-05-16,61
+116,Congo (Kinshasa),2020-05-17,61
+117,Congo (Kinshasa),2020-05-18,61
+118,Congo (Kinshasa),2020-05-19,61
+119,Congo (Kinshasa),2020-05-20,61
+120,Congo (Kinshasa),2020-05-21,61
+121,Congo (Kinshasa),2020-05-22,63
+122,Congo (Kinshasa),2020-05-23,63
+123,Congo (Kinshasa),2020-05-24,63
+124,Congo (Kinshasa),2020-05-25,67
+125,Congo (Kinshasa),2020-05-26,68
+126,Congo (Kinshasa),2020-05-27,68
+127,Congo (Kinshasa),2020-05-28,69
+128,Congo (Kinshasa),2020-05-29,69
+129,Congo (Kinshasa),2020-05-30,69
+130,Congo (Kinshasa),2020-05-31,72
+131,Congo (Kinshasa),2020-06-01,72
+132,Congo (Kinshasa),2020-06-02,72
+133,Congo (Kinshasa),2020-06-03,75
+134,Congo (Kinshasa),2020-06-04,78
+135,Congo (Kinshasa),2020-06-05,81
+136,Congo (Kinshasa),2020-06-06,82
+137,Congo (Kinshasa),2020-06-07,85
+138,Congo (Kinshasa),2020-06-08,88
+139,Congo (Kinshasa),2020-06-09,90
+140,Congo (Kinshasa),2020-06-10,96
+141,Congo (Kinshasa),2020-06-11,98
+142,Congo (Kinshasa),2020-06-12,101
+143,Congo (Kinshasa),2020-06-13,106
+144,Congo (Kinshasa),2020-06-14,107
+145,Congo (Kinshasa),2020-06-15,112
+146,Congo (Kinshasa),2020-06-16,112
+147,Congo (Kinshasa),2020-06-17,115
+148,Congo (Kinshasa),2020-06-18,117
+149,Congo (Kinshasa),2020-06-19,122
+150,Congo (Kinshasa),2020-06-20,125
+0,Egypt,2020-01-22,0
+1,Egypt,2020-01-23,0
+2,Egypt,2020-01-24,0
+3,Egypt,2020-01-25,0
+4,Egypt,2020-01-26,0
+5,Egypt,2020-01-27,0
+6,Egypt,2020-01-28,0
+7,Egypt,2020-01-29,0
+8,Egypt,2020-01-30,0
+9,Egypt,2020-01-31,0
+10,Egypt,2020-02-01,0
+11,Egypt,2020-02-02,0
+12,Egypt,2020-02-03,0
+13,Egypt,2020-02-04,0
+14,Egypt,2020-02-05,0
+15,Egypt,2020-02-06,0
+16,Egypt,2020-02-07,0
+17,Egypt,2020-02-08,0
+18,Egypt,2020-02-09,0
+19,Egypt,2020-02-10,0
+20,Egypt,2020-02-11,0
+21,Egypt,2020-02-12,0
+22,Egypt,2020-02-13,0
+23,Egypt,2020-02-14,0
+24,Egypt,2020-02-15,0
+25,Egypt,2020-02-16,0
+26,Egypt,2020-02-17,0
+27,Egypt,2020-02-18,0
+28,Egypt,2020-02-19,0
+29,Egypt,2020-02-20,0
+30,Egypt,2020-02-21,0
+31,Egypt,2020-02-22,0
+32,Egypt,2020-02-23,0
+33,Egypt,2020-02-24,0
+34,Egypt,2020-02-25,0
+35,Egypt,2020-02-26,0
+36,Egypt,2020-02-27,0
+37,Egypt,2020-02-28,0
+38,Egypt,2020-02-29,0
+39,Egypt,2020-03-01,0
+40,Egypt,2020-03-02,0
+41,Egypt,2020-03-03,0
+42,Egypt,2020-03-04,0
+43,Egypt,2020-03-05,0
+44,Egypt,2020-03-06,0
+45,Egypt,2020-03-07,0
+46,Egypt,2020-03-08,1
+47,Egypt,2020-03-09,1
+48,Egypt,2020-03-10,1
+49,Egypt,2020-03-11,1
+50,Egypt,2020-03-12,1
+51,Egypt,2020-03-13,2
+52,Egypt,2020-03-14,2
+53,Egypt,2020-03-15,2
+54,Egypt,2020-03-16,2
+55,Egypt,2020-03-17,4
+56,Egypt,2020-03-18,6
+57,Egypt,2020-03-19,6
+58,Egypt,2020-03-20,8
+59,Egypt,2020-03-21,10
+60,Egypt,2020-03-22,14
+61,Egypt,2020-03-23,19
+62,Egypt,2020-03-24,20
+63,Egypt,2020-03-25,21
+64,Egypt,2020-03-26,24
+65,Egypt,2020-03-27,30
+66,Egypt,2020-03-28,36
+67,Egypt,2020-03-29,40
+68,Egypt,2020-03-30,41
+69,Egypt,2020-03-31,46
+70,Egypt,2020-04-01,52
+71,Egypt,2020-04-02,58
+72,Egypt,2020-04-03,66
+73,Egypt,2020-04-04,71
+74,Egypt,2020-04-05,78
+75,Egypt,2020-04-06,85
+76,Egypt,2020-04-07,94
+77,Egypt,2020-04-08,103
+78,Egypt,2020-04-09,118
+79,Egypt,2020-04-10,135
+80,Egypt,2020-04-11,146
+81,Egypt,2020-04-12,159
+82,Egypt,2020-04-13,164
+83,Egypt,2020-04-14,178
+84,Egypt,2020-04-15,183
+85,Egypt,2020-04-16,196
+86,Egypt,2020-04-17,205
+87,Egypt,2020-04-18,224
+88,Egypt,2020-04-19,239
+89,Egypt,2020-04-20,250
+90,Egypt,2020-04-21,264
+91,Egypt,2020-04-22,276
+92,Egypt,2020-04-23,287
+93,Egypt,2020-04-24,294
+94,Egypt,2020-04-25,307
+95,Egypt,2020-04-26,317
+96,Egypt,2020-04-27,337
+97,Egypt,2020-04-28,359
+98,Egypt,2020-04-29,380
+99,Egypt,2020-04-30,392
+100,Egypt,2020-05-01,406
+101,Egypt,2020-05-02,415
+102,Egypt,2020-05-03,429
+103,Egypt,2020-05-04,436
+104,Egypt,2020-05-05,452
+105,Egypt,2020-05-06,469
+106,Egypt,2020-05-07,482
+107,Egypt,2020-05-08,503
+108,Egypt,2020-05-09,514
+109,Egypt,2020-05-10,525
+110,Egypt,2020-05-11,533
+111,Egypt,2020-05-12,544
+112,Egypt,2020-05-13,556
+113,Egypt,2020-05-14,571
+114,Egypt,2020-05-15,592
+115,Egypt,2020-05-16,612
+116,Egypt,2020-05-17,630
+117,Egypt,2020-05-18,645
+118,Egypt,2020-05-19,659
+119,Egypt,2020-05-20,680
+120,Egypt,2020-05-21,696
+121,Egypt,2020-05-22,707
+122,Egypt,2020-05-23,735
+123,Egypt,2020-05-24,764
+124,Egypt,2020-05-25,783
+125,Egypt,2020-05-26,797
+126,Egypt,2020-05-27,816
+127,Egypt,2020-05-28,845
+128,Egypt,2020-05-29,879
+129,Egypt,2020-05-30,913
+130,Egypt,2020-05-31,959
+131,Egypt,2020-06-01,1005
+132,Egypt,2020-06-02,1052
+133,Egypt,2020-06-03,1088
+134,Egypt,2020-06-04,1126
+135,Egypt,2020-06-05,1166
+136,Egypt,2020-06-06,1198
+137,Egypt,2020-06-07,1237
+138,Egypt,2020-06-08,1271
+139,Egypt,2020-06-09,1306
+140,Egypt,2020-06-10,1342
+141,Egypt,2020-06-11,1377
+142,Egypt,2020-06-12,1422
+143,Egypt,2020-06-13,1484
+144,Egypt,2020-06-14,1575
+145,Egypt,2020-06-15,1672
+146,Egypt,2020-06-16,1766
+147,Egypt,2020-06-17,1850
+148,Egypt,2020-06-18,1938
+149,Egypt,2020-06-19,2017
+150,Egypt,2020-06-20,2106
+0,Equatorial Guinea,2020-01-22,0
+1,Equatorial Guinea,2020-01-23,0
+2,Equatorial Guinea,2020-01-24,0
+3,Equatorial Guinea,2020-01-25,0
+4,Equatorial Guinea,2020-01-26,0
+5,Equatorial Guinea,2020-01-27,0
+6,Equatorial Guinea,2020-01-28,0
+7,Equatorial Guinea,2020-01-29,0
+8,Equatorial Guinea,2020-01-30,0
+9,Equatorial Guinea,2020-01-31,0
+10,Equatorial Guinea,2020-02-01,0
+11,Equatorial Guinea,2020-02-02,0
+12,Equatorial Guinea,2020-02-03,0
+13,Equatorial Guinea,2020-02-04,0
+14,Equatorial Guinea,2020-02-05,0
+15,Equatorial Guinea,2020-02-06,0
+16,Equatorial Guinea,2020-02-07,0
+17,Equatorial Guinea,2020-02-08,0
+18,Equatorial Guinea,2020-02-09,0
+19,Equatorial Guinea,2020-02-10,0
+20,Equatorial Guinea,2020-02-11,0
+21,Equatorial Guinea,2020-02-12,0
+22,Equatorial Guinea,2020-02-13,0
+23,Equatorial Guinea,2020-02-14,0
+24,Equatorial Guinea,2020-02-15,0
+25,Equatorial Guinea,2020-02-16,0
+26,Equatorial Guinea,2020-02-17,0
+27,Equatorial Guinea,2020-02-18,0
+28,Equatorial Guinea,2020-02-19,0
+29,Equatorial Guinea,2020-02-20,0
+30,Equatorial Guinea,2020-02-21,0
+31,Equatorial Guinea,2020-02-22,0
+32,Equatorial Guinea,2020-02-23,0
+33,Equatorial Guinea,2020-02-24,0
+34,Equatorial Guinea,2020-02-25,0
+35,Equatorial Guinea,2020-02-26,0
+36,Equatorial Guinea,2020-02-27,0
+37,Equatorial Guinea,2020-02-28,0
+38,Equatorial Guinea,2020-02-29,0
+39,Equatorial Guinea,2020-03-01,0
+40,Equatorial Guinea,2020-03-02,0
+41,Equatorial Guinea,2020-03-03,0
+42,Equatorial Guinea,2020-03-04,0
+43,Equatorial Guinea,2020-03-05,0
+44,Equatorial Guinea,2020-03-06,0
+45,Equatorial Guinea,2020-03-07,0
+46,Equatorial Guinea,2020-03-08,0
+47,Equatorial Guinea,2020-03-09,0
+48,Equatorial Guinea,2020-03-10,0
+49,Equatorial Guinea,2020-03-11,0
+50,Equatorial Guinea,2020-03-12,0
+51,Equatorial Guinea,2020-03-13,0
+52,Equatorial Guinea,2020-03-14,0
+53,Equatorial Guinea,2020-03-15,0
+54,Equatorial Guinea,2020-03-16,0
+55,Equatorial Guinea,2020-03-17,0
+56,Equatorial Guinea,2020-03-18,0
+57,Equatorial Guinea,2020-03-19,0
+58,Equatorial Guinea,2020-03-20,0
+59,Equatorial Guinea,2020-03-21,0
+60,Equatorial Guinea,2020-03-22,0
+61,Equatorial Guinea,2020-03-23,0
+62,Equatorial Guinea,2020-03-24,0
+63,Equatorial Guinea,2020-03-25,0
+64,Equatorial Guinea,2020-03-26,0
+65,Equatorial Guinea,2020-03-27,0
+66,Equatorial Guinea,2020-03-28,0
+67,Equatorial Guinea,2020-03-29,0
+68,Equatorial Guinea,2020-03-30,0
+69,Equatorial Guinea,2020-03-31,0
+70,Equatorial Guinea,2020-04-01,0
+71,Equatorial Guinea,2020-04-02,0
+72,Equatorial Guinea,2020-04-03,0
+73,Equatorial Guinea,2020-04-04,0
+74,Equatorial Guinea,2020-04-05,0
+75,Equatorial Guinea,2020-04-06,0
+76,Equatorial Guinea,2020-04-07,0
+77,Equatorial Guinea,2020-04-08,0
+78,Equatorial Guinea,2020-04-09,0
+79,Equatorial Guinea,2020-04-10,0
+80,Equatorial Guinea,2020-04-11,0
+81,Equatorial Guinea,2020-04-12,0
+82,Equatorial Guinea,2020-04-13,0
+83,Equatorial Guinea,2020-04-14,0
+84,Equatorial Guinea,2020-04-15,0
+85,Equatorial Guinea,2020-04-16,0
+86,Equatorial Guinea,2020-04-17,0
+87,Equatorial Guinea,2020-04-18,0
+88,Equatorial Guinea,2020-04-19,0
+89,Equatorial Guinea,2020-04-20,0
+90,Equatorial Guinea,2020-04-21,0
+91,Equatorial Guinea,2020-04-22,1
+92,Equatorial Guinea,2020-04-23,1
+93,Equatorial Guinea,2020-04-24,1
+94,Equatorial Guinea,2020-04-25,1
+95,Equatorial Guinea,2020-04-26,1
+96,Equatorial Guinea,2020-04-27,1
+97,Equatorial Guinea,2020-04-28,1
+98,Equatorial Guinea,2020-04-29,1
+99,Equatorial Guinea,2020-04-30,1
+100,Equatorial Guinea,2020-05-01,1
+101,Equatorial Guinea,2020-05-02,1
+102,Equatorial Guinea,2020-05-03,1
+103,Equatorial Guinea,2020-05-04,3
+104,Equatorial Guinea,2020-05-05,3
+105,Equatorial Guinea,2020-05-06,4
+106,Equatorial Guinea,2020-05-07,4
+107,Equatorial Guinea,2020-05-08,4
+108,Equatorial Guinea,2020-05-09,4
+109,Equatorial Guinea,2020-05-10,4
+110,Equatorial Guinea,2020-05-11,4
+111,Equatorial Guinea,2020-05-12,4
+112,Equatorial Guinea,2020-05-13,6
+113,Equatorial Guinea,2020-05-14,7
+114,Equatorial Guinea,2020-05-15,7
+115,Equatorial Guinea,2020-05-16,7
+116,Equatorial Guinea,2020-05-17,7
+117,Equatorial Guinea,2020-05-18,7
+118,Equatorial Guinea,2020-05-19,7
+119,Equatorial Guinea,2020-05-20,7
+120,Equatorial Guinea,2020-05-21,10
+121,Equatorial Guinea,2020-05-22,11
+122,Equatorial Guinea,2020-05-23,11
+123,Equatorial Guinea,2020-05-24,11
+124,Equatorial Guinea,2020-05-25,12
+125,Equatorial Guinea,2020-05-26,12
+126,Equatorial Guinea,2020-05-27,12
+127,Equatorial Guinea,2020-05-28,12
+128,Equatorial Guinea,2020-05-29,12
+129,Equatorial Guinea,2020-05-30,12
+130,Equatorial Guinea,2020-05-31,12
+131,Equatorial Guinea,2020-06-01,12
+132,Equatorial Guinea,2020-06-02,12
+133,Equatorial Guinea,2020-06-03,12
+134,Equatorial Guinea,2020-06-04,12
+135,Equatorial Guinea,2020-06-05,12
+136,Equatorial Guinea,2020-06-06,12
+137,Equatorial Guinea,2020-06-07,12
+138,Equatorial Guinea,2020-06-08,12
+139,Equatorial Guinea,2020-06-09,12
+140,Equatorial Guinea,2020-06-10,12
+141,Equatorial Guinea,2020-06-11,12
+142,Equatorial Guinea,2020-06-12,12
+143,Equatorial Guinea,2020-06-13,12
+144,Equatorial Guinea,2020-06-14,12
+145,Equatorial Guinea,2020-06-15,12
+146,Equatorial Guinea,2020-06-16,32
+147,Equatorial Guinea,2020-06-17,32
+148,Equatorial Guinea,2020-06-18,32
+149,Equatorial Guinea,2020-06-19,32
+150,Equatorial Guinea,2020-06-20,32
+0,Eritrea,2020-01-22,0
+1,Eritrea,2020-01-23,0
+2,Eritrea,2020-01-24,0
+3,Eritrea,2020-01-25,0
+4,Eritrea,2020-01-26,0
+5,Eritrea,2020-01-27,0
+6,Eritrea,2020-01-28,0
+7,Eritrea,2020-01-29,0
+8,Eritrea,2020-01-30,0
+9,Eritrea,2020-01-31,0
+10,Eritrea,2020-02-01,0
+11,Eritrea,2020-02-02,0
+12,Eritrea,2020-02-03,0
+13,Eritrea,2020-02-04,0
+14,Eritrea,2020-02-05,0
+15,Eritrea,2020-02-06,0
+16,Eritrea,2020-02-07,0
+17,Eritrea,2020-02-08,0
+18,Eritrea,2020-02-09,0
+19,Eritrea,2020-02-10,0
+20,Eritrea,2020-02-11,0
+21,Eritrea,2020-02-12,0
+22,Eritrea,2020-02-13,0
+23,Eritrea,2020-02-14,0
+24,Eritrea,2020-02-15,0
+25,Eritrea,2020-02-16,0
+26,Eritrea,2020-02-17,0
+27,Eritrea,2020-02-18,0
+28,Eritrea,2020-02-19,0
+29,Eritrea,2020-02-20,0
+30,Eritrea,2020-02-21,0
+31,Eritrea,2020-02-22,0
+32,Eritrea,2020-02-23,0
+33,Eritrea,2020-02-24,0
+34,Eritrea,2020-02-25,0
+35,Eritrea,2020-02-26,0
+36,Eritrea,2020-02-27,0
+37,Eritrea,2020-02-28,0
+38,Eritrea,2020-02-29,0
+39,Eritrea,2020-03-01,0
+40,Eritrea,2020-03-02,0
+41,Eritrea,2020-03-03,0
+42,Eritrea,2020-03-04,0
+43,Eritrea,2020-03-05,0
+44,Eritrea,2020-03-06,0
+45,Eritrea,2020-03-07,0
+46,Eritrea,2020-03-08,0
+47,Eritrea,2020-03-09,0
+48,Eritrea,2020-03-10,0
+49,Eritrea,2020-03-11,0
+50,Eritrea,2020-03-12,0
+51,Eritrea,2020-03-13,0
+52,Eritrea,2020-03-14,0
+53,Eritrea,2020-03-15,0
+54,Eritrea,2020-03-16,0
+55,Eritrea,2020-03-17,0
+56,Eritrea,2020-03-18,0
+57,Eritrea,2020-03-19,0
+58,Eritrea,2020-03-20,0
+59,Eritrea,2020-03-21,0
+60,Eritrea,2020-03-22,0
+61,Eritrea,2020-03-23,0
+62,Eritrea,2020-03-24,0
+63,Eritrea,2020-03-25,0
+64,Eritrea,2020-03-26,0
+65,Eritrea,2020-03-27,0
+66,Eritrea,2020-03-28,0
+67,Eritrea,2020-03-29,0
+68,Eritrea,2020-03-30,0
+69,Eritrea,2020-03-31,0
+70,Eritrea,2020-04-01,0
+71,Eritrea,2020-04-02,0
+72,Eritrea,2020-04-03,0
+73,Eritrea,2020-04-04,0
+74,Eritrea,2020-04-05,0
+75,Eritrea,2020-04-06,0
+76,Eritrea,2020-04-07,0
+77,Eritrea,2020-04-08,0
+78,Eritrea,2020-04-09,0
+79,Eritrea,2020-04-10,0
+80,Eritrea,2020-04-11,0
+81,Eritrea,2020-04-12,0
+82,Eritrea,2020-04-13,0
+83,Eritrea,2020-04-14,0
+84,Eritrea,2020-04-15,0
+85,Eritrea,2020-04-16,0
+86,Eritrea,2020-04-17,0
+87,Eritrea,2020-04-18,0
+88,Eritrea,2020-04-19,0
+89,Eritrea,2020-04-20,0
+90,Eritrea,2020-04-21,0
+91,Eritrea,2020-04-22,0
+92,Eritrea,2020-04-23,0
+93,Eritrea,2020-04-24,0
+94,Eritrea,2020-04-25,0
+95,Eritrea,2020-04-26,0
+96,Eritrea,2020-04-27,0
+97,Eritrea,2020-04-28,0
+98,Eritrea,2020-04-29,0
+99,Eritrea,2020-04-30,0
+100,Eritrea,2020-05-01,0
+101,Eritrea,2020-05-02,0
+102,Eritrea,2020-05-03,0
+103,Eritrea,2020-05-04,0
+104,Eritrea,2020-05-05,0
+105,Eritrea,2020-05-06,0
+106,Eritrea,2020-05-07,0
+107,Eritrea,2020-05-08,0
+108,Eritrea,2020-05-09,0
+109,Eritrea,2020-05-10,0
+110,Eritrea,2020-05-11,0
+111,Eritrea,2020-05-12,0
+112,Eritrea,2020-05-13,0
+113,Eritrea,2020-05-14,0
+114,Eritrea,2020-05-15,0
+115,Eritrea,2020-05-16,0
+116,Eritrea,2020-05-17,0
+117,Eritrea,2020-05-18,0
+118,Eritrea,2020-05-19,0
+119,Eritrea,2020-05-20,0
+120,Eritrea,2020-05-21,0
+121,Eritrea,2020-05-22,0
+122,Eritrea,2020-05-23,0
+123,Eritrea,2020-05-24,0
+124,Eritrea,2020-05-25,0
+125,Eritrea,2020-05-26,0
+126,Eritrea,2020-05-27,0
+127,Eritrea,2020-05-28,0
+128,Eritrea,2020-05-29,0
+129,Eritrea,2020-05-30,0
+130,Eritrea,2020-05-31,0
+131,Eritrea,2020-06-01,0
+132,Eritrea,2020-06-02,0
+133,Eritrea,2020-06-03,0
+134,Eritrea,2020-06-04,0
+135,Eritrea,2020-06-05,0
+136,Eritrea,2020-06-06,0
+137,Eritrea,2020-06-07,0
+138,Eritrea,2020-06-08,0
+139,Eritrea,2020-06-09,0
+140,Eritrea,2020-06-10,0
+141,Eritrea,2020-06-11,0
+142,Eritrea,2020-06-12,0
+143,Eritrea,2020-06-13,0
+144,Eritrea,2020-06-14,0
+145,Eritrea,2020-06-15,0
+146,Eritrea,2020-06-16,0
+147,Eritrea,2020-06-17,0
+148,Eritrea,2020-06-18,0
+149,Eritrea,2020-06-19,0
+150,Eritrea,2020-06-20,0
+0,Eswatini,2020-01-22,0
+1,Eswatini,2020-01-23,0
+2,Eswatini,2020-01-24,0
+3,Eswatini,2020-01-25,0
+4,Eswatini,2020-01-26,0
+5,Eswatini,2020-01-27,0
+6,Eswatini,2020-01-28,0
+7,Eswatini,2020-01-29,0
+8,Eswatini,2020-01-30,0
+9,Eswatini,2020-01-31,0
+10,Eswatini,2020-02-01,0
+11,Eswatini,2020-02-02,0
+12,Eswatini,2020-02-03,0
+13,Eswatini,2020-02-04,0
+14,Eswatini,2020-02-05,0
+15,Eswatini,2020-02-06,0
+16,Eswatini,2020-02-07,0
+17,Eswatini,2020-02-08,0
+18,Eswatini,2020-02-09,0
+19,Eswatini,2020-02-10,0
+20,Eswatini,2020-02-11,0
+21,Eswatini,2020-02-12,0
+22,Eswatini,2020-02-13,0
+23,Eswatini,2020-02-14,0
+24,Eswatini,2020-02-15,0
+25,Eswatini,2020-02-16,0
+26,Eswatini,2020-02-17,0
+27,Eswatini,2020-02-18,0
+28,Eswatini,2020-02-19,0
+29,Eswatini,2020-02-20,0
+30,Eswatini,2020-02-21,0
+31,Eswatini,2020-02-22,0
+32,Eswatini,2020-02-23,0
+33,Eswatini,2020-02-24,0
+34,Eswatini,2020-02-25,0
+35,Eswatini,2020-02-26,0
+36,Eswatini,2020-02-27,0
+37,Eswatini,2020-02-28,0
+38,Eswatini,2020-02-29,0
+39,Eswatini,2020-03-01,0
+40,Eswatini,2020-03-02,0
+41,Eswatini,2020-03-03,0
+42,Eswatini,2020-03-04,0
+43,Eswatini,2020-03-05,0
+44,Eswatini,2020-03-06,0
+45,Eswatini,2020-03-07,0
+46,Eswatini,2020-03-08,0
+47,Eswatini,2020-03-09,0
+48,Eswatini,2020-03-10,0
+49,Eswatini,2020-03-11,0
+50,Eswatini,2020-03-12,0
+51,Eswatini,2020-03-13,0
+52,Eswatini,2020-03-14,0
+53,Eswatini,2020-03-15,0
+54,Eswatini,2020-03-16,0
+55,Eswatini,2020-03-17,0
+56,Eswatini,2020-03-18,0
+57,Eswatini,2020-03-19,0
+58,Eswatini,2020-03-20,0
+59,Eswatini,2020-03-21,0
+60,Eswatini,2020-03-22,0
+61,Eswatini,2020-03-23,0
+62,Eswatini,2020-03-24,0
+63,Eswatini,2020-03-25,0
+64,Eswatini,2020-03-26,0
+65,Eswatini,2020-03-27,0
+66,Eswatini,2020-03-28,0
+67,Eswatini,2020-03-29,0
+68,Eswatini,2020-03-30,0
+69,Eswatini,2020-03-31,0
+70,Eswatini,2020-04-01,0
+71,Eswatini,2020-04-02,0
+72,Eswatini,2020-04-03,0
+73,Eswatini,2020-04-04,0
+74,Eswatini,2020-04-05,0
+75,Eswatini,2020-04-06,0
+76,Eswatini,2020-04-07,0
+77,Eswatini,2020-04-08,0
+78,Eswatini,2020-04-09,0
+79,Eswatini,2020-04-10,0
+80,Eswatini,2020-04-11,0
+81,Eswatini,2020-04-12,0
+82,Eswatini,2020-04-13,0
+83,Eswatini,2020-04-14,0
+84,Eswatini,2020-04-15,0
+85,Eswatini,2020-04-16,1
+86,Eswatini,2020-04-17,1
+87,Eswatini,2020-04-18,1
+88,Eswatini,2020-04-19,1
+89,Eswatini,2020-04-20,1
+90,Eswatini,2020-04-21,1
+91,Eswatini,2020-04-22,1
+92,Eswatini,2020-04-23,1
+93,Eswatini,2020-04-24,1
+94,Eswatini,2020-04-25,1
+95,Eswatini,2020-04-26,1
+96,Eswatini,2020-04-27,1
+97,Eswatini,2020-04-28,1
+98,Eswatini,2020-04-29,1
+99,Eswatini,2020-04-30,1
+100,Eswatini,2020-05-01,1
+101,Eswatini,2020-05-02,1
+102,Eswatini,2020-05-03,1
+103,Eswatini,2020-05-04,1
+104,Eswatini,2020-05-05,1
+105,Eswatini,2020-05-06,2
+106,Eswatini,2020-05-07,2
+107,Eswatini,2020-05-08,2
+108,Eswatini,2020-05-09,2
+109,Eswatini,2020-05-10,2
+110,Eswatini,2020-05-11,2
+111,Eswatini,2020-05-12,2
+112,Eswatini,2020-05-13,2
+113,Eswatini,2020-05-14,2
+114,Eswatini,2020-05-15,2
+115,Eswatini,2020-05-16,2
+116,Eswatini,2020-05-17,2
+117,Eswatini,2020-05-18,2
+118,Eswatini,2020-05-19,2
+119,Eswatini,2020-05-20,2
+120,Eswatini,2020-05-21,2
+121,Eswatini,2020-05-22,2
+122,Eswatini,2020-05-23,2
+123,Eswatini,2020-05-24,2
+124,Eswatini,2020-05-25,2
+125,Eswatini,2020-05-26,2
+126,Eswatini,2020-05-27,2
+127,Eswatini,2020-05-28,2
+128,Eswatini,2020-05-29,2
+129,Eswatini,2020-05-30,2
+130,Eswatini,2020-05-31,2
+131,Eswatini,2020-06-01,3
+132,Eswatini,2020-06-02,3
+133,Eswatini,2020-06-03,3
+134,Eswatini,2020-06-04,3
+135,Eswatini,2020-06-05,3
+136,Eswatini,2020-06-06,3
+137,Eswatini,2020-06-07,3
+138,Eswatini,2020-06-08,3
+139,Eswatini,2020-06-09,3
+140,Eswatini,2020-06-10,3
+141,Eswatini,2020-06-11,3
+142,Eswatini,2020-06-12,3
+143,Eswatini,2020-06-13,3
+144,Eswatini,2020-06-14,4
+145,Eswatini,2020-06-15,4
+146,Eswatini,2020-06-16,4
+147,Eswatini,2020-06-17,4
+148,Eswatini,2020-06-18,4
+149,Eswatini,2020-06-19,4
+150,Eswatini,2020-06-20,5
+0,Ethiopia,2020-01-22,0
+1,Ethiopia,2020-01-23,0
+2,Ethiopia,2020-01-24,0
+3,Ethiopia,2020-01-25,0
+4,Ethiopia,2020-01-26,0
+5,Ethiopia,2020-01-27,0
+6,Ethiopia,2020-01-28,0
+7,Ethiopia,2020-01-29,0
+8,Ethiopia,2020-01-30,0
+9,Ethiopia,2020-01-31,0
+10,Ethiopia,2020-02-01,0
+11,Ethiopia,2020-02-02,0
+12,Ethiopia,2020-02-03,0
+13,Ethiopia,2020-02-04,0
+14,Ethiopia,2020-02-05,0
+15,Ethiopia,2020-02-06,0
+16,Ethiopia,2020-02-07,0
+17,Ethiopia,2020-02-08,0
+18,Ethiopia,2020-02-09,0
+19,Ethiopia,2020-02-10,0
+20,Ethiopia,2020-02-11,0
+21,Ethiopia,2020-02-12,0
+22,Ethiopia,2020-02-13,0
+23,Ethiopia,2020-02-14,0
+24,Ethiopia,2020-02-15,0
+25,Ethiopia,2020-02-16,0
+26,Ethiopia,2020-02-17,0
+27,Ethiopia,2020-02-18,0
+28,Ethiopia,2020-02-19,0
+29,Ethiopia,2020-02-20,0
+30,Ethiopia,2020-02-21,0
+31,Ethiopia,2020-02-22,0
+32,Ethiopia,2020-02-23,0
+33,Ethiopia,2020-02-24,0
+34,Ethiopia,2020-02-25,0
+35,Ethiopia,2020-02-26,0
+36,Ethiopia,2020-02-27,0
+37,Ethiopia,2020-02-28,0
+38,Ethiopia,2020-02-29,0
+39,Ethiopia,2020-03-01,0
+40,Ethiopia,2020-03-02,0
+41,Ethiopia,2020-03-03,0
+42,Ethiopia,2020-03-04,0
+43,Ethiopia,2020-03-05,0
+44,Ethiopia,2020-03-06,0
+45,Ethiopia,2020-03-07,0
+46,Ethiopia,2020-03-08,0
+47,Ethiopia,2020-03-09,0
+48,Ethiopia,2020-03-10,0
+49,Ethiopia,2020-03-11,0
+50,Ethiopia,2020-03-12,0
+51,Ethiopia,2020-03-13,0
+52,Ethiopia,2020-03-14,0
+53,Ethiopia,2020-03-15,0
+54,Ethiopia,2020-03-16,0
+55,Ethiopia,2020-03-17,0
+56,Ethiopia,2020-03-18,0
+57,Ethiopia,2020-03-19,0
+58,Ethiopia,2020-03-20,0
+59,Ethiopia,2020-03-21,0
+60,Ethiopia,2020-03-22,0
+61,Ethiopia,2020-03-23,0
+62,Ethiopia,2020-03-24,0
+63,Ethiopia,2020-03-25,0
+64,Ethiopia,2020-03-26,0
+65,Ethiopia,2020-03-27,0
+66,Ethiopia,2020-03-28,0
+67,Ethiopia,2020-03-29,0
+68,Ethiopia,2020-03-30,0
+69,Ethiopia,2020-03-31,0
+70,Ethiopia,2020-04-01,0
+71,Ethiopia,2020-04-02,0
+72,Ethiopia,2020-04-03,0
+73,Ethiopia,2020-04-04,0
+74,Ethiopia,2020-04-05,2
+75,Ethiopia,2020-04-06,2
+76,Ethiopia,2020-04-07,2
+77,Ethiopia,2020-04-08,2
+78,Ethiopia,2020-04-09,2
+79,Ethiopia,2020-04-10,3
+80,Ethiopia,2020-04-11,3
+81,Ethiopia,2020-04-12,3
+82,Ethiopia,2020-04-13,3
+83,Ethiopia,2020-04-14,3
+84,Ethiopia,2020-04-15,3
+85,Ethiopia,2020-04-16,3
+86,Ethiopia,2020-04-17,3
+87,Ethiopia,2020-04-18,3
+88,Ethiopia,2020-04-19,3
+89,Ethiopia,2020-04-20,3
+90,Ethiopia,2020-04-21,3
+91,Ethiopia,2020-04-22,3
+92,Ethiopia,2020-04-23,3
+93,Ethiopia,2020-04-24,3
+94,Ethiopia,2020-04-25,3
+95,Ethiopia,2020-04-26,3
+96,Ethiopia,2020-04-27,3
+97,Ethiopia,2020-04-28,3
+98,Ethiopia,2020-04-29,3
+99,Ethiopia,2020-04-30,3
+100,Ethiopia,2020-05-01,3
+101,Ethiopia,2020-05-02,3
+102,Ethiopia,2020-05-03,3
+103,Ethiopia,2020-05-04,3
+104,Ethiopia,2020-05-05,4
+105,Ethiopia,2020-05-06,4
+106,Ethiopia,2020-05-07,4
+107,Ethiopia,2020-05-08,4
+108,Ethiopia,2020-05-09,5
+109,Ethiopia,2020-05-10,5
+110,Ethiopia,2020-05-11,5
+111,Ethiopia,2020-05-12,5
+112,Ethiopia,2020-05-13,5
+113,Ethiopia,2020-05-14,5
+114,Ethiopia,2020-05-15,5
+115,Ethiopia,2020-05-16,5
+116,Ethiopia,2020-05-17,5
+117,Ethiopia,2020-05-18,5
+118,Ethiopia,2020-05-19,5
+119,Ethiopia,2020-05-20,5
+120,Ethiopia,2020-05-21,5
+121,Ethiopia,2020-05-22,5
+122,Ethiopia,2020-05-23,5
+123,Ethiopia,2020-05-24,5
+124,Ethiopia,2020-05-25,5
+125,Ethiopia,2020-05-26,6
+126,Ethiopia,2020-05-27,6
+127,Ethiopia,2020-05-28,7
+128,Ethiopia,2020-05-29,8
+129,Ethiopia,2020-05-30,8
+130,Ethiopia,2020-05-31,11
+131,Ethiopia,2020-06-01,12
+132,Ethiopia,2020-06-02,14
+133,Ethiopia,2020-06-03,17
+134,Ethiopia,2020-06-04,18
+135,Ethiopia,2020-06-05,19
+136,Ethiopia,2020-06-06,20
+137,Ethiopia,2020-06-07,27
+138,Ethiopia,2020-06-08,27
+139,Ethiopia,2020-06-09,32
+140,Ethiopia,2020-06-10,35
+141,Ethiopia,2020-06-11,40
+142,Ethiopia,2020-06-12,47
+143,Ethiopia,2020-06-13,55
+144,Ethiopia,2020-06-14,57
+145,Ethiopia,2020-06-15,60
+146,Ethiopia,2020-06-16,61
+147,Ethiopia,2020-06-17,63
+148,Ethiopia,2020-06-18,65
+149,Ethiopia,2020-06-19,72
+150,Ethiopia,2020-06-20,72
+0,Ghana,2020-01-22,0
+1,Ghana,2020-01-23,0
+2,Ghana,2020-01-24,0
+3,Ghana,2020-01-25,0
+4,Ghana,2020-01-26,0
+5,Ghana,2020-01-27,0
+6,Ghana,2020-01-28,0
+7,Ghana,2020-01-29,0
+8,Ghana,2020-01-30,0
+9,Ghana,2020-01-31,0
+10,Ghana,2020-02-01,0
+11,Ghana,2020-02-02,0
+12,Ghana,2020-02-03,0
+13,Ghana,2020-02-04,0
+14,Ghana,2020-02-05,0
+15,Ghana,2020-02-06,0
+16,Ghana,2020-02-07,0
+17,Ghana,2020-02-08,0
+18,Ghana,2020-02-09,0
+19,Ghana,2020-02-10,0
+20,Ghana,2020-02-11,0
+21,Ghana,2020-02-12,0
+22,Ghana,2020-02-13,0
+23,Ghana,2020-02-14,0
+24,Ghana,2020-02-15,0
+25,Ghana,2020-02-16,0
+26,Ghana,2020-02-17,0
+27,Ghana,2020-02-18,0
+28,Ghana,2020-02-19,0
+29,Ghana,2020-02-20,0
+30,Ghana,2020-02-21,0
+31,Ghana,2020-02-22,0
+32,Ghana,2020-02-23,0
+33,Ghana,2020-02-24,0
+34,Ghana,2020-02-25,0
+35,Ghana,2020-02-26,0
+36,Ghana,2020-02-27,0
+37,Ghana,2020-02-28,0
+38,Ghana,2020-02-29,0
+39,Ghana,2020-03-01,0
+40,Ghana,2020-03-02,0
+41,Ghana,2020-03-03,0
+42,Ghana,2020-03-04,0
+43,Ghana,2020-03-05,0
+44,Ghana,2020-03-06,0
+45,Ghana,2020-03-07,0
+46,Ghana,2020-03-08,0
+47,Ghana,2020-03-09,0
+48,Ghana,2020-03-10,0
+49,Ghana,2020-03-11,0
+50,Ghana,2020-03-12,0
+51,Ghana,2020-03-13,0
+52,Ghana,2020-03-14,0
+53,Ghana,2020-03-15,0
+54,Ghana,2020-03-16,0
+55,Ghana,2020-03-17,0
+56,Ghana,2020-03-18,0
+57,Ghana,2020-03-19,0
+58,Ghana,2020-03-20,0
+59,Ghana,2020-03-21,1
+60,Ghana,2020-03-22,1
+61,Ghana,2020-03-23,2
+62,Ghana,2020-03-24,2
+63,Ghana,2020-03-25,4
+64,Ghana,2020-03-26,4
+65,Ghana,2020-03-27,4
+66,Ghana,2020-03-28,5
+67,Ghana,2020-03-29,5
+68,Ghana,2020-03-30,5
+69,Ghana,2020-03-31,5
+70,Ghana,2020-04-01,5
+71,Ghana,2020-04-02,5
+72,Ghana,2020-04-03,5
+73,Ghana,2020-04-04,5
+74,Ghana,2020-04-05,5
+75,Ghana,2020-04-06,5
+76,Ghana,2020-04-07,5
+77,Ghana,2020-04-08,6
+78,Ghana,2020-04-09,6
+79,Ghana,2020-04-10,6
+80,Ghana,2020-04-11,8
+81,Ghana,2020-04-12,8
+82,Ghana,2020-04-13,8
+83,Ghana,2020-04-14,8
+84,Ghana,2020-04-15,8
+85,Ghana,2020-04-16,8
+86,Ghana,2020-04-17,8
+87,Ghana,2020-04-18,9
+88,Ghana,2020-04-19,9
+89,Ghana,2020-04-20,9
+90,Ghana,2020-04-21,9
+91,Ghana,2020-04-22,9
+92,Ghana,2020-04-23,9
+93,Ghana,2020-04-24,10
+94,Ghana,2020-04-25,10
+95,Ghana,2020-04-26,11
+96,Ghana,2020-04-27,11
+97,Ghana,2020-04-28,16
+98,Ghana,2020-04-29,16
+99,Ghana,2020-04-30,17
+100,Ghana,2020-05-01,17
+101,Ghana,2020-05-02,18
+102,Ghana,2020-05-03,18
+103,Ghana,2020-05-04,18
+104,Ghana,2020-05-05,18
+105,Ghana,2020-05-06,18
+106,Ghana,2020-05-07,18
+107,Ghana,2020-05-08,18
+108,Ghana,2020-05-09,22
+109,Ghana,2020-05-10,22
+110,Ghana,2020-05-11,22
+111,Ghana,2020-05-12,22
+112,Ghana,2020-05-13,24
+113,Ghana,2020-05-14,24
+114,Ghana,2020-05-15,28
+115,Ghana,2020-05-16,29
+116,Ghana,2020-05-17,29
+117,Ghana,2020-05-18,29
+118,Ghana,2020-05-19,31
+119,Ghana,2020-05-20,31
+120,Ghana,2020-05-21,31
+121,Ghana,2020-05-22,31
+122,Ghana,2020-05-23,31
+123,Ghana,2020-05-24,32
+124,Ghana,2020-05-25,32
+125,Ghana,2020-05-26,34
+126,Ghana,2020-05-27,34
+127,Ghana,2020-05-28,34
+128,Ghana,2020-05-29,34
+129,Ghana,2020-05-30,35
+130,Ghana,2020-05-31,36
+131,Ghana,2020-06-01,36
+132,Ghana,2020-06-02,38
+133,Ghana,2020-06-03,38
+134,Ghana,2020-06-04,38
+135,Ghana,2020-06-05,42
+136,Ghana,2020-06-06,44
+137,Ghana,2020-06-07,44
+138,Ghana,2020-06-08,48
+139,Ghana,2020-06-09,48
+140,Ghana,2020-06-10,48
+141,Ghana,2020-06-11,48
+142,Ghana,2020-06-12,48
+143,Ghana,2020-06-13,48
+144,Ghana,2020-06-14,54
+145,Ghana,2020-06-15,54
+146,Ghana,2020-06-16,58
+147,Ghana,2020-06-17,66
+148,Ghana,2020-06-18,66
+149,Ghana,2020-06-19,70
+150,Ghana,2020-06-20,85
+0,Guinea,2020-01-22,0
+1,Guinea,2020-01-23,0
+2,Guinea,2020-01-24,0
+3,Guinea,2020-01-25,0
+4,Guinea,2020-01-26,0
+5,Guinea,2020-01-27,0
+6,Guinea,2020-01-28,0
+7,Guinea,2020-01-29,0
+8,Guinea,2020-01-30,0
+9,Guinea,2020-01-31,0
+10,Guinea,2020-02-01,0
+11,Guinea,2020-02-02,0
+12,Guinea,2020-02-03,0
+13,Guinea,2020-02-04,0
+14,Guinea,2020-02-05,0
+15,Guinea,2020-02-06,0
+16,Guinea,2020-02-07,0
+17,Guinea,2020-02-08,0
+18,Guinea,2020-02-09,0
+19,Guinea,2020-02-10,0
+20,Guinea,2020-02-11,0
+21,Guinea,2020-02-12,0
+22,Guinea,2020-02-13,0
+23,Guinea,2020-02-14,0
+24,Guinea,2020-02-15,0
+25,Guinea,2020-02-16,0
+26,Guinea,2020-02-17,0
+27,Guinea,2020-02-18,0
+28,Guinea,2020-02-19,0
+29,Guinea,2020-02-20,0
+30,Guinea,2020-02-21,0
+31,Guinea,2020-02-22,0
+32,Guinea,2020-02-23,0
+33,Guinea,2020-02-24,0
+34,Guinea,2020-02-25,0
+35,Guinea,2020-02-26,0
+36,Guinea,2020-02-27,0
+37,Guinea,2020-02-28,0
+38,Guinea,2020-02-29,0
+39,Guinea,2020-03-01,0
+40,Guinea,2020-03-02,0
+41,Guinea,2020-03-03,0
+42,Guinea,2020-03-04,0
+43,Guinea,2020-03-05,0
+44,Guinea,2020-03-06,0
+45,Guinea,2020-03-07,0
+46,Guinea,2020-03-08,0
+47,Guinea,2020-03-09,0
+48,Guinea,2020-03-10,0
+49,Guinea,2020-03-11,0
+50,Guinea,2020-03-12,0
+51,Guinea,2020-03-13,0
+52,Guinea,2020-03-14,0
+53,Guinea,2020-03-15,0
+54,Guinea,2020-03-16,0
+55,Guinea,2020-03-17,0
+56,Guinea,2020-03-18,0
+57,Guinea,2020-03-19,0
+58,Guinea,2020-03-20,0
+59,Guinea,2020-03-21,0
+60,Guinea,2020-03-22,0
+61,Guinea,2020-03-23,0
+62,Guinea,2020-03-24,0
+63,Guinea,2020-03-25,0
+64,Guinea,2020-03-26,0
+65,Guinea,2020-03-27,0
+66,Guinea,2020-03-28,0
+67,Guinea,2020-03-29,0
+68,Guinea,2020-03-30,0
+69,Guinea,2020-03-31,0
+70,Guinea,2020-04-01,0
+71,Guinea,2020-04-02,0
+72,Guinea,2020-04-03,0
+73,Guinea,2020-04-04,0
+74,Guinea,2020-04-05,0
+75,Guinea,2020-04-06,0
+76,Guinea,2020-04-07,0
+77,Guinea,2020-04-08,0
+78,Guinea,2020-04-09,0
+79,Guinea,2020-04-10,0
+80,Guinea,2020-04-11,0
+81,Guinea,2020-04-12,0
+82,Guinea,2020-04-13,0
+83,Guinea,2020-04-14,0
+84,Guinea,2020-04-15,1
+85,Guinea,2020-04-16,1
+86,Guinea,2020-04-17,3
+87,Guinea,2020-04-18,3
+88,Guinea,2020-04-19,5
+89,Guinea,2020-04-20,5
+90,Guinea,2020-04-21,6
+91,Guinea,2020-04-22,6
+92,Guinea,2020-04-23,6
+93,Guinea,2020-04-24,6
+94,Guinea,2020-04-25,7
+95,Guinea,2020-04-26,7
+96,Guinea,2020-04-27,7
+97,Guinea,2020-04-28,7
+98,Guinea,2020-04-29,7
+99,Guinea,2020-04-30,7
+100,Guinea,2020-05-01,7
+101,Guinea,2020-05-02,7
+102,Guinea,2020-05-03,7
+103,Guinea,2020-05-04,9
+104,Guinea,2020-05-05,10
+105,Guinea,2020-05-06,11
+106,Guinea,2020-05-07,11
+107,Guinea,2020-05-08,11
+108,Guinea,2020-05-09,11
+109,Guinea,2020-05-10,11
+110,Guinea,2020-05-11,11
+111,Guinea,2020-05-12,11
+112,Guinea,2020-05-13,14
+113,Guinea,2020-05-14,15
+114,Guinea,2020-05-15,15
+115,Guinea,2020-05-16,16
+116,Guinea,2020-05-17,16
+117,Guinea,2020-05-18,16
+118,Guinea,2020-05-19,18
+119,Guinea,2020-05-20,18
+120,Guinea,2020-05-21,18
+121,Guinea,2020-05-22,19
+122,Guinea,2020-05-23,20
+123,Guinea,2020-05-24,20
+124,Guinea,2020-05-25,20
+125,Guinea,2020-05-26,20
+126,Guinea,2020-05-27,20
+127,Guinea,2020-05-28,22
+128,Guinea,2020-05-29,22
+129,Guinea,2020-05-30,23
+130,Guinea,2020-05-31,23
+131,Guinea,2020-06-01,23
+132,Guinea,2020-06-02,23
+133,Guinea,2020-06-03,23
+134,Guinea,2020-06-04,23
+135,Guinea,2020-06-05,23
+136,Guinea,2020-06-06,23
+137,Guinea,2020-06-07,23
+138,Guinea,2020-06-08,23
+139,Guinea,2020-06-09,23
+140,Guinea,2020-06-10,23
+141,Guinea,2020-06-11,23
+142,Guinea,2020-06-12,24
+143,Guinea,2020-06-13,25
+144,Guinea,2020-06-14,25
+145,Guinea,2020-06-15,26
+146,Guinea,2020-06-16,26
+147,Guinea,2020-06-17,26
+148,Guinea,2020-06-18,26
+149,Guinea,2020-06-19,27
+150,Guinea,2020-06-20,27
+0,Guinea-Bissau,2020-01-22,0
+1,Guinea-Bissau,2020-01-23,0
+2,Guinea-Bissau,2020-01-24,0
+3,Guinea-Bissau,2020-01-25,0
+4,Guinea-Bissau,2020-01-26,0
+5,Guinea-Bissau,2020-01-27,0
+6,Guinea-Bissau,2020-01-28,0
+7,Guinea-Bissau,2020-01-29,0
+8,Guinea-Bissau,2020-01-30,0
+9,Guinea-Bissau,2020-01-31,0
+10,Guinea-Bissau,2020-02-01,0
+11,Guinea-Bissau,2020-02-02,0
+12,Guinea-Bissau,2020-02-03,0
+13,Guinea-Bissau,2020-02-04,0
+14,Guinea-Bissau,2020-02-05,0
+15,Guinea-Bissau,2020-02-06,0
+16,Guinea-Bissau,2020-02-07,0
+17,Guinea-Bissau,2020-02-08,0
+18,Guinea-Bissau,2020-02-09,0
+19,Guinea-Bissau,2020-02-10,0
+20,Guinea-Bissau,2020-02-11,0
+21,Guinea-Bissau,2020-02-12,0
+22,Guinea-Bissau,2020-02-13,0
+23,Guinea-Bissau,2020-02-14,0
+24,Guinea-Bissau,2020-02-15,0
+25,Guinea-Bissau,2020-02-16,0
+26,Guinea-Bissau,2020-02-17,0
+27,Guinea-Bissau,2020-02-18,0
+28,Guinea-Bissau,2020-02-19,0
+29,Guinea-Bissau,2020-02-20,0
+30,Guinea-Bissau,2020-02-21,0
+31,Guinea-Bissau,2020-02-22,0
+32,Guinea-Bissau,2020-02-23,0
+33,Guinea-Bissau,2020-02-24,0
+34,Guinea-Bissau,2020-02-25,0
+35,Guinea-Bissau,2020-02-26,0
+36,Guinea-Bissau,2020-02-27,0
+37,Guinea-Bissau,2020-02-28,0
+38,Guinea-Bissau,2020-02-29,0
+39,Guinea-Bissau,2020-03-01,0
+40,Guinea-Bissau,2020-03-02,0
+41,Guinea-Bissau,2020-03-03,0
+42,Guinea-Bissau,2020-03-04,0
+43,Guinea-Bissau,2020-03-05,0
+44,Guinea-Bissau,2020-03-06,0
+45,Guinea-Bissau,2020-03-07,0
+46,Guinea-Bissau,2020-03-08,0
+47,Guinea-Bissau,2020-03-09,0
+48,Guinea-Bissau,2020-03-10,0
+49,Guinea-Bissau,2020-03-11,0
+50,Guinea-Bissau,2020-03-12,0
+51,Guinea-Bissau,2020-03-13,0
+52,Guinea-Bissau,2020-03-14,0
+53,Guinea-Bissau,2020-03-15,0
+54,Guinea-Bissau,2020-03-16,0
+55,Guinea-Bissau,2020-03-17,0
+56,Guinea-Bissau,2020-03-18,0
+57,Guinea-Bissau,2020-03-19,0
+58,Guinea-Bissau,2020-03-20,0
+59,Guinea-Bissau,2020-03-21,0
+60,Guinea-Bissau,2020-03-22,0
+61,Guinea-Bissau,2020-03-23,0
+62,Guinea-Bissau,2020-03-24,0
+63,Guinea-Bissau,2020-03-25,0
+64,Guinea-Bissau,2020-03-26,0
+65,Guinea-Bissau,2020-03-27,0
+66,Guinea-Bissau,2020-03-28,0
+67,Guinea-Bissau,2020-03-29,0
+68,Guinea-Bissau,2020-03-30,0
+69,Guinea-Bissau,2020-03-31,0
+70,Guinea-Bissau,2020-04-01,0
+71,Guinea-Bissau,2020-04-02,0
+72,Guinea-Bissau,2020-04-03,0
+73,Guinea-Bissau,2020-04-04,0
+74,Guinea-Bissau,2020-04-05,0
+75,Guinea-Bissau,2020-04-06,0
+76,Guinea-Bissau,2020-04-07,0
+77,Guinea-Bissau,2020-04-08,0
+78,Guinea-Bissau,2020-04-09,0
+79,Guinea-Bissau,2020-04-10,0
+80,Guinea-Bissau,2020-04-11,0
+81,Guinea-Bissau,2020-04-12,0
+82,Guinea-Bissau,2020-04-13,0
+83,Guinea-Bissau,2020-04-14,0
+84,Guinea-Bissau,2020-04-15,0
+85,Guinea-Bissau,2020-04-16,0
+86,Guinea-Bissau,2020-04-17,0
+87,Guinea-Bissau,2020-04-18,0
+88,Guinea-Bissau,2020-04-19,0
+89,Guinea-Bissau,2020-04-20,0
+90,Guinea-Bissau,2020-04-21,0
+91,Guinea-Bissau,2020-04-22,0
+92,Guinea-Bissau,2020-04-23,0
+93,Guinea-Bissau,2020-04-24,0
+94,Guinea-Bissau,2020-04-25,0
+95,Guinea-Bissau,2020-04-26,1
+96,Guinea-Bissau,2020-04-27,1
+97,Guinea-Bissau,2020-04-28,1
+98,Guinea-Bissau,2020-04-29,1
+99,Guinea-Bissau,2020-04-30,1
+100,Guinea-Bissau,2020-05-01,1
+101,Guinea-Bissau,2020-05-02,1
+102,Guinea-Bissau,2020-05-03,1
+103,Guinea-Bissau,2020-05-04,1
+104,Guinea-Bissau,2020-05-05,1
+105,Guinea-Bissau,2020-05-06,2
+106,Guinea-Bissau,2020-05-07,2
+107,Guinea-Bissau,2020-05-08,2
+108,Guinea-Bissau,2020-05-09,3
+109,Guinea-Bissau,2020-05-10,3
+110,Guinea-Bissau,2020-05-11,3
+111,Guinea-Bissau,2020-05-12,3
+112,Guinea-Bissau,2020-05-13,3
+113,Guinea-Bissau,2020-05-14,3
+114,Guinea-Bissau,2020-05-15,3
+115,Guinea-Bissau,2020-05-16,4
+116,Guinea-Bissau,2020-05-17,4
+117,Guinea-Bissau,2020-05-18,4
+118,Guinea-Bissau,2020-05-19,6
+119,Guinea-Bissau,2020-05-20,6
+120,Guinea-Bissau,2020-05-21,6
+121,Guinea-Bissau,2020-05-22,6
+122,Guinea-Bissau,2020-05-23,6
+123,Guinea-Bissau,2020-05-24,6
+124,Guinea-Bissau,2020-05-25,7
+125,Guinea-Bissau,2020-05-26,7
+126,Guinea-Bissau,2020-05-27,7
+127,Guinea-Bissau,2020-05-28,8
+128,Guinea-Bissau,2020-05-29,8
+129,Guinea-Bissau,2020-05-30,8
+130,Guinea-Bissau,2020-05-31,8
+131,Guinea-Bissau,2020-06-01,8
+132,Guinea-Bissau,2020-06-02,8
+133,Guinea-Bissau,2020-06-03,8
+134,Guinea-Bissau,2020-06-04,8
+135,Guinea-Bissau,2020-06-05,12
+136,Guinea-Bissau,2020-06-06,12
+137,Guinea-Bissau,2020-06-07,12
+138,Guinea-Bissau,2020-06-08,12
+139,Guinea-Bissau,2020-06-09,12
+140,Guinea-Bissau,2020-06-10,12
+141,Guinea-Bissau,2020-06-11,12
+142,Guinea-Bissau,2020-06-12,15
+143,Guinea-Bissau,2020-06-13,15
+144,Guinea-Bissau,2020-06-14,15
+145,Guinea-Bissau,2020-06-15,15
+146,Guinea-Bissau,2020-06-16,15
+147,Guinea-Bissau,2020-06-17,15
+148,Guinea-Bissau,2020-06-18,15
+149,Guinea-Bissau,2020-06-19,17
+150,Guinea-Bissau,2020-06-20,17
+0,Kenya,2020-01-22,0
+1,Kenya,2020-01-23,0
+2,Kenya,2020-01-24,0
+3,Kenya,2020-01-25,0
+4,Kenya,2020-01-26,0
+5,Kenya,2020-01-27,0
+6,Kenya,2020-01-28,0
+7,Kenya,2020-01-29,0
+8,Kenya,2020-01-30,0
+9,Kenya,2020-01-31,0
+10,Kenya,2020-02-01,0
+11,Kenya,2020-02-02,0
+12,Kenya,2020-02-03,0
+13,Kenya,2020-02-04,0
+14,Kenya,2020-02-05,0
+15,Kenya,2020-02-06,0
+16,Kenya,2020-02-07,0
+17,Kenya,2020-02-08,0
+18,Kenya,2020-02-09,0
+19,Kenya,2020-02-10,0
+20,Kenya,2020-02-11,0
+21,Kenya,2020-02-12,0
+22,Kenya,2020-02-13,0
+23,Kenya,2020-02-14,0
+24,Kenya,2020-02-15,0
+25,Kenya,2020-02-16,0
+26,Kenya,2020-02-17,0
+27,Kenya,2020-02-18,0
+28,Kenya,2020-02-19,0
+29,Kenya,2020-02-20,0
+30,Kenya,2020-02-21,0
+31,Kenya,2020-02-22,0
+32,Kenya,2020-02-23,0
+33,Kenya,2020-02-24,0
+34,Kenya,2020-02-25,0
+35,Kenya,2020-02-26,0
+36,Kenya,2020-02-27,0
+37,Kenya,2020-02-28,0
+38,Kenya,2020-02-29,0
+39,Kenya,2020-03-01,0
+40,Kenya,2020-03-02,0
+41,Kenya,2020-03-03,0
+42,Kenya,2020-03-04,0
+43,Kenya,2020-03-05,0
+44,Kenya,2020-03-06,0
+45,Kenya,2020-03-07,0
+46,Kenya,2020-03-08,0
+47,Kenya,2020-03-09,0
+48,Kenya,2020-03-10,0
+49,Kenya,2020-03-11,0
+50,Kenya,2020-03-12,0
+51,Kenya,2020-03-13,0
+52,Kenya,2020-03-14,0
+53,Kenya,2020-03-15,0
+54,Kenya,2020-03-16,0
+55,Kenya,2020-03-17,0
+56,Kenya,2020-03-18,0
+57,Kenya,2020-03-19,0
+58,Kenya,2020-03-20,0
+59,Kenya,2020-03-21,0
+60,Kenya,2020-03-22,0
+61,Kenya,2020-03-23,0
+62,Kenya,2020-03-24,0
+63,Kenya,2020-03-25,0
+64,Kenya,2020-03-26,1
+65,Kenya,2020-03-27,1
+66,Kenya,2020-03-28,1
+67,Kenya,2020-03-29,1
+68,Kenya,2020-03-30,1
+69,Kenya,2020-03-31,1
+70,Kenya,2020-04-01,1
+71,Kenya,2020-04-02,3
+72,Kenya,2020-04-03,4
+73,Kenya,2020-04-04,4
+74,Kenya,2020-04-05,4
+75,Kenya,2020-04-06,6
+76,Kenya,2020-04-07,6
+77,Kenya,2020-04-08,6
+78,Kenya,2020-04-09,7
+79,Kenya,2020-04-10,7
+80,Kenya,2020-04-11,7
+81,Kenya,2020-04-12,8
+82,Kenya,2020-04-13,9
+83,Kenya,2020-04-14,9
+84,Kenya,2020-04-15,10
+85,Kenya,2020-04-16,11
+86,Kenya,2020-04-17,11
+87,Kenya,2020-04-18,12
+88,Kenya,2020-04-19,14
+89,Kenya,2020-04-20,14
+90,Kenya,2020-04-21,14
+91,Kenya,2020-04-22,14
+92,Kenya,2020-04-23,14
+93,Kenya,2020-04-24,14
+94,Kenya,2020-04-25,14
+95,Kenya,2020-04-26,14
+96,Kenya,2020-04-27,14
+97,Kenya,2020-04-28,14
+98,Kenya,2020-04-29,15
+99,Kenya,2020-04-30,17
+100,Kenya,2020-05-01,21
+101,Kenya,2020-05-02,22
+102,Kenya,2020-05-03,24
+103,Kenya,2020-05-04,24
+104,Kenya,2020-05-05,24
+105,Kenya,2020-05-06,26
+106,Kenya,2020-05-07,29
+107,Kenya,2020-05-08,29
+108,Kenya,2020-05-09,30
+109,Kenya,2020-05-10,32
+110,Kenya,2020-05-11,33
+111,Kenya,2020-05-12,36
+112,Kenya,2020-05-13,40
+113,Kenya,2020-05-14,42
+114,Kenya,2020-05-15,45
+115,Kenya,2020-05-16,50
+116,Kenya,2020-05-17,50
+117,Kenya,2020-05-18,50
+118,Kenya,2020-05-19,50
+119,Kenya,2020-05-20,50
+120,Kenya,2020-05-21,50
+121,Kenya,2020-05-22,50
+122,Kenya,2020-05-23,50
+123,Kenya,2020-05-24,51
+124,Kenya,2020-05-25,52
+125,Kenya,2020-05-26,52
+126,Kenya,2020-05-27,55
+127,Kenya,2020-05-28,58
+128,Kenya,2020-05-29,62
+129,Kenya,2020-05-30,63
+130,Kenya,2020-05-31,64
+131,Kenya,2020-06-01,69
+132,Kenya,2020-06-02,71
+133,Kenya,2020-06-03,74
+134,Kenya,2020-06-04,78
+135,Kenya,2020-06-05,79
+136,Kenya,2020-06-06,83
+137,Kenya,2020-06-07,84
+138,Kenya,2020-06-08,85
+139,Kenya,2020-06-09,88
+140,Kenya,2020-06-10,89
+141,Kenya,2020-06-11,92
+142,Kenya,2020-06-12,96
+143,Kenya,2020-06-13,100
+144,Kenya,2020-06-14,103
+145,Kenya,2020-06-15,104
+146,Kenya,2020-06-16,105
+147,Kenya,2020-06-17,107
+148,Kenya,2020-06-18,117
+149,Kenya,2020-06-19,119
+150,Kenya,2020-06-20,121
+0,Liberia,2020-01-22,0
+1,Liberia,2020-01-23,0
+2,Liberia,2020-01-24,0
+3,Liberia,2020-01-25,0
+4,Liberia,2020-01-26,0
+5,Liberia,2020-01-27,0
+6,Liberia,2020-01-28,0
+7,Liberia,2020-01-29,0
+8,Liberia,2020-01-30,0
+9,Liberia,2020-01-31,0
+10,Liberia,2020-02-01,0
+11,Liberia,2020-02-02,0
+12,Liberia,2020-02-03,0
+13,Liberia,2020-02-04,0
+14,Liberia,2020-02-05,0
+15,Liberia,2020-02-06,0
+16,Liberia,2020-02-07,0
+17,Liberia,2020-02-08,0
+18,Liberia,2020-02-09,0
+19,Liberia,2020-02-10,0
+20,Liberia,2020-02-11,0
+21,Liberia,2020-02-12,0
+22,Liberia,2020-02-13,0
+23,Liberia,2020-02-14,0
+24,Liberia,2020-02-15,0
+25,Liberia,2020-02-16,0
+26,Liberia,2020-02-17,0
+27,Liberia,2020-02-18,0
+28,Liberia,2020-02-19,0
+29,Liberia,2020-02-20,0
+30,Liberia,2020-02-21,0
+31,Liberia,2020-02-22,0
+32,Liberia,2020-02-23,0
+33,Liberia,2020-02-24,0
+34,Liberia,2020-02-25,0
+35,Liberia,2020-02-26,0
+36,Liberia,2020-02-27,0
+37,Liberia,2020-02-28,0
+38,Liberia,2020-02-29,0
+39,Liberia,2020-03-01,0
+40,Liberia,2020-03-02,0
+41,Liberia,2020-03-03,0
+42,Liberia,2020-03-04,0
+43,Liberia,2020-03-05,0
+44,Liberia,2020-03-06,0
+45,Liberia,2020-03-07,0
+46,Liberia,2020-03-08,0
+47,Liberia,2020-03-09,0
+48,Liberia,2020-03-10,0
+49,Liberia,2020-03-11,0
+50,Liberia,2020-03-12,0
+51,Liberia,2020-03-13,0
+52,Liberia,2020-03-14,0
+53,Liberia,2020-03-15,0
+54,Liberia,2020-03-16,0
+55,Liberia,2020-03-17,0
+56,Liberia,2020-03-18,0
+57,Liberia,2020-03-19,0
+58,Liberia,2020-03-20,0
+59,Liberia,2020-03-21,0
+60,Liberia,2020-03-22,0
+61,Liberia,2020-03-23,0
+62,Liberia,2020-03-24,0
+63,Liberia,2020-03-25,0
+64,Liberia,2020-03-26,0
+65,Liberia,2020-03-27,0
+66,Liberia,2020-03-28,0
+67,Liberia,2020-03-29,0
+68,Liberia,2020-03-30,0
+69,Liberia,2020-03-31,0
+70,Liberia,2020-04-01,0
+71,Liberia,2020-04-02,0
+72,Liberia,2020-04-03,0
+73,Liberia,2020-04-04,1
+74,Liberia,2020-04-05,3
+75,Liberia,2020-04-06,3
+76,Liberia,2020-04-07,3
+77,Liberia,2020-04-08,4
+78,Liberia,2020-04-09,4
+79,Liberia,2020-04-10,5
+80,Liberia,2020-04-11,5
+81,Liberia,2020-04-12,5
+82,Liberia,2020-04-13,6
+83,Liberia,2020-04-14,6
+84,Liberia,2020-04-15,6
+85,Liberia,2020-04-16,6
+86,Liberia,2020-04-17,7
+87,Liberia,2020-04-18,7
+88,Liberia,2020-04-19,8
+89,Liberia,2020-04-20,8
+90,Liberia,2020-04-21,8
+91,Liberia,2020-04-22,8
+92,Liberia,2020-04-23,8
+93,Liberia,2020-04-24,8
+94,Liberia,2020-04-25,11
+95,Liberia,2020-04-26,12
+96,Liberia,2020-04-27,12
+97,Liberia,2020-04-28,16
+98,Liberia,2020-04-29,16
+99,Liberia,2020-04-30,16
+100,Liberia,2020-05-01,18
+101,Liberia,2020-05-02,18
+102,Liberia,2020-05-03,18
+103,Liberia,2020-05-04,18
+104,Liberia,2020-05-05,20
+105,Liberia,2020-05-06,20
+106,Liberia,2020-05-07,20
+107,Liberia,2020-05-08,20
+108,Liberia,2020-05-09,20
+109,Liberia,2020-05-10,20
+110,Liberia,2020-05-11,20
+111,Liberia,2020-05-12,20
+112,Liberia,2020-05-13,20
+113,Liberia,2020-05-14,20
+114,Liberia,2020-05-15,20
+115,Liberia,2020-05-16,20
+116,Liberia,2020-05-17,21
+117,Liberia,2020-05-18,22
+118,Liberia,2020-05-19,23
+119,Liberia,2020-05-20,23
+120,Liberia,2020-05-21,23
+121,Liberia,2020-05-22,24
+122,Liberia,2020-05-23,26
+123,Liberia,2020-05-24,26
+124,Liberia,2020-05-25,26
+125,Liberia,2020-05-26,26
+126,Liberia,2020-05-27,27
+127,Liberia,2020-05-28,27
+128,Liberia,2020-05-29,27
+129,Liberia,2020-05-30,27
+130,Liberia,2020-05-31,27
+131,Liberia,2020-06-01,27
+132,Liberia,2020-06-02,28
+133,Liberia,2020-06-03,28
+134,Liberia,2020-06-04,28
+135,Liberia,2020-06-05,30
+136,Liberia,2020-06-06,30
+137,Liberia,2020-06-07,30
+138,Liberia,2020-06-08,30
+139,Liberia,2020-06-09,31
+140,Liberia,2020-06-10,31
+141,Liberia,2020-06-11,31
+142,Liberia,2020-06-12,32
+143,Liberia,2020-06-13,32
+144,Liberia,2020-06-14,32
+145,Liberia,2020-06-15,33
+146,Liberia,2020-06-16,33
+147,Liberia,2020-06-17,33
+148,Liberia,2020-06-18,33
+149,Liberia,2020-06-19,33
+150,Liberia,2020-06-20,33
+0,Rwanda,2020-01-22,0
+1,Rwanda,2020-01-23,0
+2,Rwanda,2020-01-24,0
+3,Rwanda,2020-01-25,0
+4,Rwanda,2020-01-26,0
+5,Rwanda,2020-01-27,0
+6,Rwanda,2020-01-28,0
+7,Rwanda,2020-01-29,0
+8,Rwanda,2020-01-30,0
+9,Rwanda,2020-01-31,0
+10,Rwanda,2020-02-01,0
+11,Rwanda,2020-02-02,0
+12,Rwanda,2020-02-03,0
+13,Rwanda,2020-02-04,0
+14,Rwanda,2020-02-05,0
+15,Rwanda,2020-02-06,0
+16,Rwanda,2020-02-07,0
+17,Rwanda,2020-02-08,0
+18,Rwanda,2020-02-09,0
+19,Rwanda,2020-02-10,0
+20,Rwanda,2020-02-11,0
+21,Rwanda,2020-02-12,0
+22,Rwanda,2020-02-13,0
+23,Rwanda,2020-02-14,0
+24,Rwanda,2020-02-15,0
+25,Rwanda,2020-02-16,0
+26,Rwanda,2020-02-17,0
+27,Rwanda,2020-02-18,0
+28,Rwanda,2020-02-19,0
+29,Rwanda,2020-02-20,0
+30,Rwanda,2020-02-21,0
+31,Rwanda,2020-02-22,0
+32,Rwanda,2020-02-23,0
+33,Rwanda,2020-02-24,0
+34,Rwanda,2020-02-25,0
+35,Rwanda,2020-02-26,0
+36,Rwanda,2020-02-27,0
+37,Rwanda,2020-02-28,0
+38,Rwanda,2020-02-29,0
+39,Rwanda,2020-03-01,0
+40,Rwanda,2020-03-02,0
+41,Rwanda,2020-03-03,0
+42,Rwanda,2020-03-04,0
+43,Rwanda,2020-03-05,0
+44,Rwanda,2020-03-06,0
+45,Rwanda,2020-03-07,0
+46,Rwanda,2020-03-08,0
+47,Rwanda,2020-03-09,0
+48,Rwanda,2020-03-10,0
+49,Rwanda,2020-03-11,0
+50,Rwanda,2020-03-12,0
+51,Rwanda,2020-03-13,0
+52,Rwanda,2020-03-14,0
+53,Rwanda,2020-03-15,0
+54,Rwanda,2020-03-16,0
+55,Rwanda,2020-03-17,0
+56,Rwanda,2020-03-18,0
+57,Rwanda,2020-03-19,0
+58,Rwanda,2020-03-20,0
+59,Rwanda,2020-03-21,0
+60,Rwanda,2020-03-22,0
+61,Rwanda,2020-03-23,0
+62,Rwanda,2020-03-24,0
+63,Rwanda,2020-03-25,0
+64,Rwanda,2020-03-26,0
+65,Rwanda,2020-03-27,0
+66,Rwanda,2020-03-28,0
+67,Rwanda,2020-03-29,0
+68,Rwanda,2020-03-30,0
+69,Rwanda,2020-03-31,0
+70,Rwanda,2020-04-01,0
+71,Rwanda,2020-04-02,0
+72,Rwanda,2020-04-03,0
+73,Rwanda,2020-04-04,0
+74,Rwanda,2020-04-05,0
+75,Rwanda,2020-04-06,0
+76,Rwanda,2020-04-07,0
+77,Rwanda,2020-04-08,0
+78,Rwanda,2020-04-09,0
+79,Rwanda,2020-04-10,0
+80,Rwanda,2020-04-11,0
+81,Rwanda,2020-04-12,0
+82,Rwanda,2020-04-13,0
+83,Rwanda,2020-04-14,0
+84,Rwanda,2020-04-15,0
+85,Rwanda,2020-04-16,0
+86,Rwanda,2020-04-17,0
+87,Rwanda,2020-04-18,0
+88,Rwanda,2020-04-19,0
+89,Rwanda,2020-04-20,0
+90,Rwanda,2020-04-21,0
+91,Rwanda,2020-04-22,0
+92,Rwanda,2020-04-23,0
+93,Rwanda,2020-04-24,0
+94,Rwanda,2020-04-25,0
+95,Rwanda,2020-04-26,0
+96,Rwanda,2020-04-27,0
+97,Rwanda,2020-04-28,0
+98,Rwanda,2020-04-29,0
+99,Rwanda,2020-04-30,0
+100,Rwanda,2020-05-01,0
+101,Rwanda,2020-05-02,0
+102,Rwanda,2020-05-03,0
+103,Rwanda,2020-05-04,0
+104,Rwanda,2020-05-05,0
+105,Rwanda,2020-05-06,0
+106,Rwanda,2020-05-07,0
+107,Rwanda,2020-05-08,0
+108,Rwanda,2020-05-09,0
+109,Rwanda,2020-05-10,0
+110,Rwanda,2020-05-11,0
+111,Rwanda,2020-05-12,0
+112,Rwanda,2020-05-13,0
+113,Rwanda,2020-05-14,0
+114,Rwanda,2020-05-15,0
+115,Rwanda,2020-05-16,0
+116,Rwanda,2020-05-17,0
+117,Rwanda,2020-05-18,0
+118,Rwanda,2020-05-19,0
+119,Rwanda,2020-05-20,0
+120,Rwanda,2020-05-21,0
+121,Rwanda,2020-05-22,0
+122,Rwanda,2020-05-23,0
+123,Rwanda,2020-05-24,0
+124,Rwanda,2020-05-25,0
+125,Rwanda,2020-05-26,0
+126,Rwanda,2020-05-27,0
+127,Rwanda,2020-05-28,0
+128,Rwanda,2020-05-29,0
+129,Rwanda,2020-05-30,1
+130,Rwanda,2020-05-31,1
+131,Rwanda,2020-06-01,1
+132,Rwanda,2020-06-02,2
+133,Rwanda,2020-06-03,2
+134,Rwanda,2020-06-04,2
+135,Rwanda,2020-06-05,2
+136,Rwanda,2020-06-06,2
+137,Rwanda,2020-06-07,2
+138,Rwanda,2020-06-08,2
+139,Rwanda,2020-06-09,2
+140,Rwanda,2020-06-10,2
+141,Rwanda,2020-06-11,2
+142,Rwanda,2020-06-12,2
+143,Rwanda,2020-06-13,2
+144,Rwanda,2020-06-14,2
+145,Rwanda,2020-06-15,2
+146,Rwanda,2020-06-16,2
+147,Rwanda,2020-06-17,2
+148,Rwanda,2020-06-18,2
+149,Rwanda,2020-06-19,2
+150,Rwanda,2020-06-20,2
+0,Libya,2020-01-22,0
+1,Libya,2020-01-23,0
+2,Libya,2020-01-24,0
+3,Libya,2020-01-25,0
+4,Libya,2020-01-26,0
+5,Libya,2020-01-27,0
+6,Libya,2020-01-28,0
+7,Libya,2020-01-29,0
+8,Libya,2020-01-30,0
+9,Libya,2020-01-31,0
+10,Libya,2020-02-01,0
+11,Libya,2020-02-02,0
+12,Libya,2020-02-03,0
+13,Libya,2020-02-04,0
+14,Libya,2020-02-05,0
+15,Libya,2020-02-06,0
+16,Libya,2020-02-07,0
+17,Libya,2020-02-08,0
+18,Libya,2020-02-09,0
+19,Libya,2020-02-10,0
+20,Libya,2020-02-11,0
+21,Libya,2020-02-12,0
+22,Libya,2020-02-13,0
+23,Libya,2020-02-14,0
+24,Libya,2020-02-15,0
+25,Libya,2020-02-16,0
+26,Libya,2020-02-17,0
+27,Libya,2020-02-18,0
+28,Libya,2020-02-19,0
+29,Libya,2020-02-20,0
+30,Libya,2020-02-21,0
+31,Libya,2020-02-22,0
+32,Libya,2020-02-23,0
+33,Libya,2020-02-24,0
+34,Libya,2020-02-25,0
+35,Libya,2020-02-26,0
+36,Libya,2020-02-27,0
+37,Libya,2020-02-28,0
+38,Libya,2020-02-29,0
+39,Libya,2020-03-01,0
+40,Libya,2020-03-02,0
+41,Libya,2020-03-03,0
+42,Libya,2020-03-04,0
+43,Libya,2020-03-05,0
+44,Libya,2020-03-06,0
+45,Libya,2020-03-07,0
+46,Libya,2020-03-08,0
+47,Libya,2020-03-09,0
+48,Libya,2020-03-10,0
+49,Libya,2020-03-11,0
+50,Libya,2020-03-12,0
+51,Libya,2020-03-13,0
+52,Libya,2020-03-14,0
+53,Libya,2020-03-15,0
+54,Libya,2020-03-16,0
+55,Libya,2020-03-17,0
+56,Libya,2020-03-18,0
+57,Libya,2020-03-19,0
+58,Libya,2020-03-20,0
+59,Libya,2020-03-21,0
+60,Libya,2020-03-22,0
+61,Libya,2020-03-23,0
+62,Libya,2020-03-24,0
+63,Libya,2020-03-25,0
+64,Libya,2020-03-26,0
+65,Libya,2020-03-27,0
+66,Libya,2020-03-28,0
+67,Libya,2020-03-29,0
+68,Libya,2020-03-30,0
+69,Libya,2020-03-31,0
+70,Libya,2020-04-01,0
+71,Libya,2020-04-02,1
+72,Libya,2020-04-03,1
+73,Libya,2020-04-04,1
+74,Libya,2020-04-05,1
+75,Libya,2020-04-06,1
+76,Libya,2020-04-07,1
+77,Libya,2020-04-08,1
+78,Libya,2020-04-09,1
+79,Libya,2020-04-10,1
+80,Libya,2020-04-11,1
+81,Libya,2020-04-12,1
+82,Libya,2020-04-13,1
+83,Libya,2020-04-14,1
+84,Libya,2020-04-15,1
+85,Libya,2020-04-16,1
+86,Libya,2020-04-17,1
+87,Libya,2020-04-18,1
+88,Libya,2020-04-19,1
+89,Libya,2020-04-20,1
+90,Libya,2020-04-21,1
+91,Libya,2020-04-22,1
+92,Libya,2020-04-23,2
+93,Libya,2020-04-24,2
+94,Libya,2020-04-25,2
+95,Libya,2020-04-26,2
+96,Libya,2020-04-27,2
+97,Libya,2020-04-28,2
+98,Libya,2020-04-29,2
+99,Libya,2020-04-30,3
+100,Libya,2020-05-01,3
+101,Libya,2020-05-02,3
+102,Libya,2020-05-03,3
+103,Libya,2020-05-04,3
+104,Libya,2020-05-05,3
+105,Libya,2020-05-06,3
+106,Libya,2020-05-07,3
+107,Libya,2020-05-08,3
+108,Libya,2020-05-09,3
+109,Libya,2020-05-10,3
+110,Libya,2020-05-11,3
+111,Libya,2020-05-12,3
+112,Libya,2020-05-13,3
+113,Libya,2020-05-14,3
+114,Libya,2020-05-15,3
+115,Libya,2020-05-16,3
+116,Libya,2020-05-17,3
+117,Libya,2020-05-18,3
+118,Libya,2020-05-19,3
+119,Libya,2020-05-20,3
+120,Libya,2020-05-21,3
+121,Libya,2020-05-22,3
+122,Libya,2020-05-23,3
+123,Libya,2020-05-24,3
+124,Libya,2020-05-25,3
+125,Libya,2020-05-26,3
+126,Libya,2020-05-27,4
+127,Libya,2020-05-28,5
+128,Libya,2020-05-29,5
+129,Libya,2020-05-30,5
+130,Libya,2020-05-31,5
+131,Libya,2020-06-01,5
+132,Libya,2020-06-02,5
+133,Libya,2020-06-03,5
+134,Libya,2020-06-04,5
+135,Libya,2020-06-05,5
+136,Libya,2020-06-06,5
+137,Libya,2020-06-07,5
+138,Libya,2020-06-08,5
+139,Libya,2020-06-09,5
+140,Libya,2020-06-10,5
+141,Libya,2020-06-11,5
+142,Libya,2020-06-12,6
+143,Libya,2020-06-13,8
+144,Libya,2020-06-14,10
+145,Libya,2020-06-15,10
+146,Libya,2020-06-16,10
+147,Libya,2020-06-17,10
+148,Libya,2020-06-18,10
+149,Libya,2020-06-19,10
+150,Libya,2020-06-20,10
+0,Madagascar,2020-01-22,0
+1,Madagascar,2020-01-23,0
+2,Madagascar,2020-01-24,0
+3,Madagascar,2020-01-25,0
+4,Madagascar,2020-01-26,0
+5,Madagascar,2020-01-27,0
+6,Madagascar,2020-01-28,0
+7,Madagascar,2020-01-29,0
+8,Madagascar,2020-01-30,0
+9,Madagascar,2020-01-31,0
+10,Madagascar,2020-02-01,0
+11,Madagascar,2020-02-02,0
+12,Madagascar,2020-02-03,0
+13,Madagascar,2020-02-04,0
+14,Madagascar,2020-02-05,0
+15,Madagascar,2020-02-06,0
+16,Madagascar,2020-02-07,0
+17,Madagascar,2020-02-08,0
+18,Madagascar,2020-02-09,0
+19,Madagascar,2020-02-10,0
+20,Madagascar,2020-02-11,0
+21,Madagascar,2020-02-12,0
+22,Madagascar,2020-02-13,0
+23,Madagascar,2020-02-14,0
+24,Madagascar,2020-02-15,0
+25,Madagascar,2020-02-16,0
+26,Madagascar,2020-02-17,0
+27,Madagascar,2020-02-18,0
+28,Madagascar,2020-02-19,0
+29,Madagascar,2020-02-20,0
+30,Madagascar,2020-02-21,0
+31,Madagascar,2020-02-22,0
+32,Madagascar,2020-02-23,0
+33,Madagascar,2020-02-24,0
+34,Madagascar,2020-02-25,0
+35,Madagascar,2020-02-26,0
+36,Madagascar,2020-02-27,0
+37,Madagascar,2020-02-28,0
+38,Madagascar,2020-02-29,0
+39,Madagascar,2020-03-01,0
+40,Madagascar,2020-03-02,0
+41,Madagascar,2020-03-03,0
+42,Madagascar,2020-03-04,0
+43,Madagascar,2020-03-05,0
+44,Madagascar,2020-03-06,0
+45,Madagascar,2020-03-07,0
+46,Madagascar,2020-03-08,0
+47,Madagascar,2020-03-09,0
+48,Madagascar,2020-03-10,0
+49,Madagascar,2020-03-11,0
+50,Madagascar,2020-03-12,0
+51,Madagascar,2020-03-13,0
+52,Madagascar,2020-03-14,0
+53,Madagascar,2020-03-15,0
+54,Madagascar,2020-03-16,0
+55,Madagascar,2020-03-17,0
+56,Madagascar,2020-03-18,0
+57,Madagascar,2020-03-19,0
+58,Madagascar,2020-03-20,0
+59,Madagascar,2020-03-21,0
+60,Madagascar,2020-03-22,0
+61,Madagascar,2020-03-23,0
+62,Madagascar,2020-03-24,0
+63,Madagascar,2020-03-25,0
+64,Madagascar,2020-03-26,0
+65,Madagascar,2020-03-27,0
+66,Madagascar,2020-03-28,0
+67,Madagascar,2020-03-29,0
+68,Madagascar,2020-03-30,0
+69,Madagascar,2020-03-31,0
+70,Madagascar,2020-04-01,0
+71,Madagascar,2020-04-02,0
+72,Madagascar,2020-04-03,0
+73,Madagascar,2020-04-04,0
+74,Madagascar,2020-04-05,0
+75,Madagascar,2020-04-06,0
+76,Madagascar,2020-04-07,0
+77,Madagascar,2020-04-08,0
+78,Madagascar,2020-04-09,0
+79,Madagascar,2020-04-10,0
+80,Madagascar,2020-04-11,0
+81,Madagascar,2020-04-12,0
+82,Madagascar,2020-04-13,0
+83,Madagascar,2020-04-14,0
+84,Madagascar,2020-04-15,0
+85,Madagascar,2020-04-16,0
+86,Madagascar,2020-04-17,0
+87,Madagascar,2020-04-18,0
+88,Madagascar,2020-04-19,0
+89,Madagascar,2020-04-20,0
+90,Madagascar,2020-04-21,0
+91,Madagascar,2020-04-22,0
+92,Madagascar,2020-04-23,0
+93,Madagascar,2020-04-24,0
+94,Madagascar,2020-04-25,0
+95,Madagascar,2020-04-26,0
+96,Madagascar,2020-04-27,0
+97,Madagascar,2020-04-28,0
+98,Madagascar,2020-04-29,0
+99,Madagascar,2020-04-30,0
+100,Madagascar,2020-05-01,0
+101,Madagascar,2020-05-02,0
+102,Madagascar,2020-05-03,0
+103,Madagascar,2020-05-04,0
+104,Madagascar,2020-05-05,0
+105,Madagascar,2020-05-06,0
+106,Madagascar,2020-05-07,0
+107,Madagascar,2020-05-08,0
+108,Madagascar,2020-05-09,0
+109,Madagascar,2020-05-10,0
+110,Madagascar,2020-05-11,0
+111,Madagascar,2020-05-12,0
+112,Madagascar,2020-05-13,0
+113,Madagascar,2020-05-14,0
+114,Madagascar,2020-05-15,0
+115,Madagascar,2020-05-16,0
+116,Madagascar,2020-05-17,1
+117,Madagascar,2020-05-18,1
+118,Madagascar,2020-05-19,2
+119,Madagascar,2020-05-20,2
+120,Madagascar,2020-05-21,2
+121,Madagascar,2020-05-22,2
+122,Madagascar,2020-05-23,2
+123,Madagascar,2020-05-24,2
+124,Madagascar,2020-05-25,2
+125,Madagascar,2020-05-26,2
+126,Madagascar,2020-05-27,2
+127,Madagascar,2020-05-28,2
+128,Madagascar,2020-05-29,5
+129,Madagascar,2020-05-30,6
+130,Madagascar,2020-05-31,6
+131,Madagascar,2020-06-01,6
+132,Madagascar,2020-06-02,6
+133,Madagascar,2020-06-03,6
+134,Madagascar,2020-06-04,7
+135,Madagascar,2020-06-05,7
+136,Madagascar,2020-06-06,8
+137,Madagascar,2020-06-07,9
+138,Madagascar,2020-06-08,9
+139,Madagascar,2020-06-09,9
+140,Madagascar,2020-06-10,10
+141,Madagascar,2020-06-11,10
+142,Madagascar,2020-06-12,10
+143,Madagascar,2020-06-13,10
+144,Madagascar,2020-06-14,10
+145,Madagascar,2020-06-15,10
+146,Madagascar,2020-06-16,12
+147,Madagascar,2020-06-17,12
+148,Madagascar,2020-06-18,13
+149,Madagascar,2020-06-19,13
+150,Madagascar,2020-06-20,13
+0,Mauritius,2020-01-22,0
+1,Mauritius,2020-01-23,0
+2,Mauritius,2020-01-24,0
+3,Mauritius,2020-01-25,0
+4,Mauritius,2020-01-26,0
+5,Mauritius,2020-01-27,0
+6,Mauritius,2020-01-28,0
+7,Mauritius,2020-01-29,0
+8,Mauritius,2020-01-30,0
+9,Mauritius,2020-01-31,0
+10,Mauritius,2020-02-01,0
+11,Mauritius,2020-02-02,0
+12,Mauritius,2020-02-03,0
+13,Mauritius,2020-02-04,0
+14,Mauritius,2020-02-05,0
+15,Mauritius,2020-02-06,0
+16,Mauritius,2020-02-07,0
+17,Mauritius,2020-02-08,0
+18,Mauritius,2020-02-09,0
+19,Mauritius,2020-02-10,0
+20,Mauritius,2020-02-11,0
+21,Mauritius,2020-02-12,0
+22,Mauritius,2020-02-13,0
+23,Mauritius,2020-02-14,0
+24,Mauritius,2020-02-15,0
+25,Mauritius,2020-02-16,0
+26,Mauritius,2020-02-17,0
+27,Mauritius,2020-02-18,0
+28,Mauritius,2020-02-19,0
+29,Mauritius,2020-02-20,0
+30,Mauritius,2020-02-21,0
+31,Mauritius,2020-02-22,0
+32,Mauritius,2020-02-23,0
+33,Mauritius,2020-02-24,0
+34,Mauritius,2020-02-25,0
+35,Mauritius,2020-02-26,0
+36,Mauritius,2020-02-27,0
+37,Mauritius,2020-02-28,0
+38,Mauritius,2020-02-29,0
+39,Mauritius,2020-03-01,0
+40,Mauritius,2020-03-02,0
+41,Mauritius,2020-03-03,0
+42,Mauritius,2020-03-04,0
+43,Mauritius,2020-03-05,0
+44,Mauritius,2020-03-06,0
+45,Mauritius,2020-03-07,0
+46,Mauritius,2020-03-08,0
+47,Mauritius,2020-03-09,0
+48,Mauritius,2020-03-10,0
+49,Mauritius,2020-03-11,0
+50,Mauritius,2020-03-12,0
+51,Mauritius,2020-03-13,0
+52,Mauritius,2020-03-14,0
+53,Mauritius,2020-03-15,0
+54,Mauritius,2020-03-16,0
+55,Mauritius,2020-03-17,0
+56,Mauritius,2020-03-18,0
+57,Mauritius,2020-03-19,0
+58,Mauritius,2020-03-20,0
+59,Mauritius,2020-03-21,1
+60,Mauritius,2020-03-22,2
+61,Mauritius,2020-03-23,2
+62,Mauritius,2020-03-24,2
+63,Mauritius,2020-03-25,2
+64,Mauritius,2020-03-26,2
+65,Mauritius,2020-03-27,2
+66,Mauritius,2020-03-28,2
+67,Mauritius,2020-03-29,3
+68,Mauritius,2020-03-30,3
+69,Mauritius,2020-03-31,5
+70,Mauritius,2020-04-01,6
+71,Mauritius,2020-04-02,7
+72,Mauritius,2020-04-03,7
+73,Mauritius,2020-04-04,7
+74,Mauritius,2020-04-05,7
+75,Mauritius,2020-04-06,7
+76,Mauritius,2020-04-07,7
+77,Mauritius,2020-04-08,7
+78,Mauritius,2020-04-09,7
+79,Mauritius,2020-04-10,9
+80,Mauritius,2020-04-11,9
+81,Mauritius,2020-04-12,9
+82,Mauritius,2020-04-13,9
+83,Mauritius,2020-04-14,9
+84,Mauritius,2020-04-15,9
+85,Mauritius,2020-04-16,9
+86,Mauritius,2020-04-17,9
+87,Mauritius,2020-04-18,9
+88,Mauritius,2020-04-19,9
+89,Mauritius,2020-04-20,9
+90,Mauritius,2020-04-21,9
+91,Mauritius,2020-04-22,9
+92,Mauritius,2020-04-23,9
+93,Mauritius,2020-04-24,9
+94,Mauritius,2020-04-25,9
+95,Mauritius,2020-04-26,9
+96,Mauritius,2020-04-27,10
+97,Mauritius,2020-04-28,10
+98,Mauritius,2020-04-29,10
+99,Mauritius,2020-04-30,10
+100,Mauritius,2020-05-01,10
+101,Mauritius,2020-05-02,10
+102,Mauritius,2020-05-03,10
+103,Mauritius,2020-05-04,10
+104,Mauritius,2020-05-05,10
+105,Mauritius,2020-05-06,10
+106,Mauritius,2020-05-07,10
+107,Mauritius,2020-05-08,10
+108,Mauritius,2020-05-09,10
+109,Mauritius,2020-05-10,10
+110,Mauritius,2020-05-11,10
+111,Mauritius,2020-05-12,10
+112,Mauritius,2020-05-13,10
+113,Mauritius,2020-05-14,10
+114,Mauritius,2020-05-15,10
+115,Mauritius,2020-05-16,10
+116,Mauritius,2020-05-17,10
+117,Mauritius,2020-05-18,10
+118,Mauritius,2020-05-19,10
+119,Mauritius,2020-05-20,10
+120,Mauritius,2020-05-21,10
+121,Mauritius,2020-05-22,10
+122,Mauritius,2020-05-23,10
+123,Mauritius,2020-05-24,10
+124,Mauritius,2020-05-25,10
+125,Mauritius,2020-05-26,10
+126,Mauritius,2020-05-27,10
+127,Mauritius,2020-05-28,10
+128,Mauritius,2020-05-29,10
+129,Mauritius,2020-05-30,10
+130,Mauritius,2020-05-31,10
+131,Mauritius,2020-06-01,10
+132,Mauritius,2020-06-02,10
+133,Mauritius,2020-06-03,10
+134,Mauritius,2020-06-04,10
+135,Mauritius,2020-06-05,10
+136,Mauritius,2020-06-06,10
+137,Mauritius,2020-06-07,10
+138,Mauritius,2020-06-08,10
+139,Mauritius,2020-06-09,10
+140,Mauritius,2020-06-10,10
+141,Mauritius,2020-06-11,10
+142,Mauritius,2020-06-12,10
+143,Mauritius,2020-06-13,10
+144,Mauritius,2020-06-14,10
+145,Mauritius,2020-06-15,10
+146,Mauritius,2020-06-16,10
+147,Mauritius,2020-06-17,10
+148,Mauritius,2020-06-18,10
+149,Mauritius,2020-06-19,10
+150,Mauritius,2020-06-20,10
+0,Morocco,2020-01-22,0
+1,Morocco,2020-01-23,0
+2,Morocco,2020-01-24,0
+3,Morocco,2020-01-25,0
+4,Morocco,2020-01-26,0
+5,Morocco,2020-01-27,0
+6,Morocco,2020-01-28,0
+7,Morocco,2020-01-29,0
+8,Morocco,2020-01-30,0
+9,Morocco,2020-01-31,0
+10,Morocco,2020-02-01,0
+11,Morocco,2020-02-02,0
+12,Morocco,2020-02-03,0
+13,Morocco,2020-02-04,0
+14,Morocco,2020-02-05,0
+15,Morocco,2020-02-06,0
+16,Morocco,2020-02-07,0
+17,Morocco,2020-02-08,0
+18,Morocco,2020-02-09,0
+19,Morocco,2020-02-10,0
+20,Morocco,2020-02-11,0
+21,Morocco,2020-02-12,0
+22,Morocco,2020-02-13,0
+23,Morocco,2020-02-14,0
+24,Morocco,2020-02-15,0
+25,Morocco,2020-02-16,0
+26,Morocco,2020-02-17,0
+27,Morocco,2020-02-18,0
+28,Morocco,2020-02-19,0
+29,Morocco,2020-02-20,0
+30,Morocco,2020-02-21,0
+31,Morocco,2020-02-22,0
+32,Morocco,2020-02-23,0
+33,Morocco,2020-02-24,0
+34,Morocco,2020-02-25,0
+35,Morocco,2020-02-26,0
+36,Morocco,2020-02-27,0
+37,Morocco,2020-02-28,0
+38,Morocco,2020-02-29,0
+39,Morocco,2020-03-01,0
+40,Morocco,2020-03-02,0
+41,Morocco,2020-03-03,0
+42,Morocco,2020-03-04,0
+43,Morocco,2020-03-05,0
+44,Morocco,2020-03-06,0
+45,Morocco,2020-03-07,0
+46,Morocco,2020-03-08,0
+47,Morocco,2020-03-09,0
+48,Morocco,2020-03-10,1
+49,Morocco,2020-03-11,1
+50,Morocco,2020-03-12,1
+51,Morocco,2020-03-13,1
+52,Morocco,2020-03-14,1
+53,Morocco,2020-03-15,1
+54,Morocco,2020-03-16,1
+55,Morocco,2020-03-17,2
+56,Morocco,2020-03-18,2
+57,Morocco,2020-03-19,2
+58,Morocco,2020-03-20,3
+59,Morocco,2020-03-21,3
+60,Morocco,2020-03-22,4
+61,Morocco,2020-03-23,4
+62,Morocco,2020-03-24,5
+63,Morocco,2020-03-25,6
+64,Morocco,2020-03-26,11
+65,Morocco,2020-03-27,23
+66,Morocco,2020-03-28,25
+67,Morocco,2020-03-29,26
+68,Morocco,2020-03-30,33
+69,Morocco,2020-03-31,36
+70,Morocco,2020-04-01,39
+71,Morocco,2020-04-02,44
+72,Morocco,2020-04-03,48
+73,Morocco,2020-04-04,59
+74,Morocco,2020-04-05,70
+75,Morocco,2020-04-06,80
+76,Morocco,2020-04-07,90
+77,Morocco,2020-04-08,93
+78,Morocco,2020-04-09,97
+79,Morocco,2020-04-10,107
+80,Morocco,2020-04-11,111
+81,Morocco,2020-04-12,118
+82,Morocco,2020-04-13,126
+83,Morocco,2020-04-14,126
+84,Morocco,2020-04-15,127
+85,Morocco,2020-04-16,130
+86,Morocco,2020-04-17,135
+87,Morocco,2020-04-18,137
+88,Morocco,2020-04-19,141
+89,Morocco,2020-04-20,143
+90,Morocco,2020-04-21,145
+91,Morocco,2020-04-22,149
+92,Morocco,2020-04-23,155
+93,Morocco,2020-04-24,158
+94,Morocco,2020-04-25,159
+95,Morocco,2020-04-26,161
+96,Morocco,2020-04-27,162
+97,Morocco,2020-04-28,165
+98,Morocco,2020-04-29,168
+99,Morocco,2020-04-30,170
+100,Morocco,2020-05-01,171
+101,Morocco,2020-05-02,173
+102,Morocco,2020-05-03,174
+103,Morocco,2020-05-04,179
+104,Morocco,2020-05-05,181
+105,Morocco,2020-05-06,183
+106,Morocco,2020-05-07,183
+107,Morocco,2020-05-08,186
+108,Morocco,2020-05-09,186
+109,Morocco,2020-05-10,188
+110,Morocco,2020-05-11,188
+111,Morocco,2020-05-12,188
+112,Morocco,2020-05-13,188
+113,Morocco,2020-05-14,190
+114,Morocco,2020-05-15,190
+115,Morocco,2020-05-16,192
+116,Morocco,2020-05-17,192
+117,Morocco,2020-05-18,192
+118,Morocco,2020-05-19,193
+119,Morocco,2020-05-20,194
+120,Morocco,2020-05-21,196
+121,Morocco,2020-05-22,197
+122,Morocco,2020-05-23,198
+123,Morocco,2020-05-24,199
+124,Morocco,2020-05-25,200
+125,Morocco,2020-05-26,202
+126,Morocco,2020-05-27,202
+127,Morocco,2020-05-28,202
+128,Morocco,2020-05-29,202
+129,Morocco,2020-05-30,204
+130,Morocco,2020-05-31,205
+131,Morocco,2020-06-01,205
+132,Morocco,2020-06-02,206
+133,Morocco,2020-06-03,206
+134,Morocco,2020-06-04,208
+135,Morocco,2020-06-05,208
+136,Morocco,2020-06-06,208
+137,Morocco,2020-06-07,208
+138,Morocco,2020-06-08,208
+139,Morocco,2020-06-09,210
+140,Morocco,2020-06-10,211
+141,Morocco,2020-06-11,211
+142,Morocco,2020-06-12,212
+143,Morocco,2020-06-13,212
+144,Morocco,2020-06-14,212
+145,Morocco,2020-06-15,212
+146,Morocco,2020-06-16,212
+147,Morocco,2020-06-17,213
+148,Morocco,2020-06-18,213
+149,Morocco,2020-06-19,213
+150,Morocco,2020-06-20,213
+0,Mozambique,2020-01-22,0
+1,Mozambique,2020-01-23,0
+2,Mozambique,2020-01-24,0
+3,Mozambique,2020-01-25,0
+4,Mozambique,2020-01-26,0
+5,Mozambique,2020-01-27,0
+6,Mozambique,2020-01-28,0
+7,Mozambique,2020-01-29,0
+8,Mozambique,2020-01-30,0
+9,Mozambique,2020-01-31,0
+10,Mozambique,2020-02-01,0
+11,Mozambique,2020-02-02,0
+12,Mozambique,2020-02-03,0
+13,Mozambique,2020-02-04,0
+14,Mozambique,2020-02-05,0
+15,Mozambique,2020-02-06,0
+16,Mozambique,2020-02-07,0
+17,Mozambique,2020-02-08,0
+18,Mozambique,2020-02-09,0
+19,Mozambique,2020-02-10,0
+20,Mozambique,2020-02-11,0
+21,Mozambique,2020-02-12,0
+22,Mozambique,2020-02-13,0
+23,Mozambique,2020-02-14,0
+24,Mozambique,2020-02-15,0
+25,Mozambique,2020-02-16,0
+26,Mozambique,2020-02-17,0
+27,Mozambique,2020-02-18,0
+28,Mozambique,2020-02-19,0
+29,Mozambique,2020-02-20,0
+30,Mozambique,2020-02-21,0
+31,Mozambique,2020-02-22,0
+32,Mozambique,2020-02-23,0
+33,Mozambique,2020-02-24,0
+34,Mozambique,2020-02-25,0
+35,Mozambique,2020-02-26,0
+36,Mozambique,2020-02-27,0
+37,Mozambique,2020-02-28,0
+38,Mozambique,2020-02-29,0
+39,Mozambique,2020-03-01,0
+40,Mozambique,2020-03-02,0
+41,Mozambique,2020-03-03,0
+42,Mozambique,2020-03-04,0
+43,Mozambique,2020-03-05,0
+44,Mozambique,2020-03-06,0
+45,Mozambique,2020-03-07,0
+46,Mozambique,2020-03-08,0
+47,Mozambique,2020-03-09,0
+48,Mozambique,2020-03-10,0
+49,Mozambique,2020-03-11,0
+50,Mozambique,2020-03-12,0
+51,Mozambique,2020-03-13,0
+52,Mozambique,2020-03-14,0
+53,Mozambique,2020-03-15,0
+54,Mozambique,2020-03-16,0
+55,Mozambique,2020-03-17,0
+56,Mozambique,2020-03-18,0
+57,Mozambique,2020-03-19,0
+58,Mozambique,2020-03-20,0
+59,Mozambique,2020-03-21,0
+60,Mozambique,2020-03-22,0
+61,Mozambique,2020-03-23,0
+62,Mozambique,2020-03-24,0
+63,Mozambique,2020-03-25,0
+64,Mozambique,2020-03-26,0
+65,Mozambique,2020-03-27,0
+66,Mozambique,2020-03-28,0
+67,Mozambique,2020-03-29,0
+68,Mozambique,2020-03-30,0
+69,Mozambique,2020-03-31,0
+70,Mozambique,2020-04-01,0
+71,Mozambique,2020-04-02,0
+72,Mozambique,2020-04-03,0
+73,Mozambique,2020-04-04,0
+74,Mozambique,2020-04-05,0
+75,Mozambique,2020-04-06,0
+76,Mozambique,2020-04-07,0
+77,Mozambique,2020-04-08,0
+78,Mozambique,2020-04-09,0
+79,Mozambique,2020-04-10,0
+80,Mozambique,2020-04-11,0
+81,Mozambique,2020-04-12,0
+82,Mozambique,2020-04-13,0
+83,Mozambique,2020-04-14,0
+84,Mozambique,2020-04-15,0
+85,Mozambique,2020-04-16,0
+86,Mozambique,2020-04-17,0
+87,Mozambique,2020-04-18,0
+88,Mozambique,2020-04-19,0
+89,Mozambique,2020-04-20,0
+90,Mozambique,2020-04-21,0
+91,Mozambique,2020-04-22,0
+92,Mozambique,2020-04-23,0
+93,Mozambique,2020-04-24,0
+94,Mozambique,2020-04-25,0
+95,Mozambique,2020-04-26,0
+96,Mozambique,2020-04-27,0
+97,Mozambique,2020-04-28,0
+98,Mozambique,2020-04-29,0
+99,Mozambique,2020-04-30,0
+100,Mozambique,2020-05-01,0
+101,Mozambique,2020-05-02,0
+102,Mozambique,2020-05-03,0
+103,Mozambique,2020-05-04,0
+104,Mozambique,2020-05-05,0
+105,Mozambique,2020-05-06,0
+106,Mozambique,2020-05-07,0
+107,Mozambique,2020-05-08,0
+108,Mozambique,2020-05-09,0
+109,Mozambique,2020-05-10,0
+110,Mozambique,2020-05-11,0
+111,Mozambique,2020-05-12,0
+112,Mozambique,2020-05-13,0
+113,Mozambique,2020-05-14,0
+114,Mozambique,2020-05-15,0
+115,Mozambique,2020-05-16,0
+116,Mozambique,2020-05-17,0
+117,Mozambique,2020-05-18,0
+118,Mozambique,2020-05-19,0
+119,Mozambique,2020-05-20,0
+120,Mozambique,2020-05-21,0
+121,Mozambique,2020-05-22,0
+122,Mozambique,2020-05-23,0
+123,Mozambique,2020-05-24,0
+124,Mozambique,2020-05-25,1
+125,Mozambique,2020-05-26,1
+126,Mozambique,2020-05-27,1
+127,Mozambique,2020-05-28,2
+128,Mozambique,2020-05-29,2
+129,Mozambique,2020-05-30,2
+130,Mozambique,2020-05-31,2
+131,Mozambique,2020-06-01,2
+132,Mozambique,2020-06-02,2
+133,Mozambique,2020-06-03,2
+134,Mozambique,2020-06-04,2
+135,Mozambique,2020-06-05,2
+136,Mozambique,2020-06-06,2
+137,Mozambique,2020-06-07,2
+138,Mozambique,2020-06-08,2
+139,Mozambique,2020-06-09,2
+140,Mozambique,2020-06-10,2
+141,Mozambique,2020-06-11,2
+142,Mozambique,2020-06-12,2
+143,Mozambique,2020-06-13,2
+144,Mozambique,2020-06-14,3
+145,Mozambique,2020-06-15,3
+146,Mozambique,2020-06-16,4
+147,Mozambique,2020-06-17,4
+148,Mozambique,2020-06-18,4
+149,Mozambique,2020-06-19,4
+150,Mozambique,2020-06-20,4
+0,Namibia,2020-01-22,0
+1,Namibia,2020-01-23,0
+2,Namibia,2020-01-24,0
+3,Namibia,2020-01-25,0
+4,Namibia,2020-01-26,0
+5,Namibia,2020-01-27,0
+6,Namibia,2020-01-28,0
+7,Namibia,2020-01-29,0
+8,Namibia,2020-01-30,0
+9,Namibia,2020-01-31,0
+10,Namibia,2020-02-01,0
+11,Namibia,2020-02-02,0
+12,Namibia,2020-02-03,0
+13,Namibia,2020-02-04,0
+14,Namibia,2020-02-05,0
+15,Namibia,2020-02-06,0
+16,Namibia,2020-02-07,0
+17,Namibia,2020-02-08,0
+18,Namibia,2020-02-09,0
+19,Namibia,2020-02-10,0
+20,Namibia,2020-02-11,0
+21,Namibia,2020-02-12,0
+22,Namibia,2020-02-13,0
+23,Namibia,2020-02-14,0
+24,Namibia,2020-02-15,0
+25,Namibia,2020-02-16,0
+26,Namibia,2020-02-17,0
+27,Namibia,2020-02-18,0
+28,Namibia,2020-02-19,0
+29,Namibia,2020-02-20,0
+30,Namibia,2020-02-21,0
+31,Namibia,2020-02-22,0
+32,Namibia,2020-02-23,0
+33,Namibia,2020-02-24,0
+34,Namibia,2020-02-25,0
+35,Namibia,2020-02-26,0
+36,Namibia,2020-02-27,0
+37,Namibia,2020-02-28,0
+38,Namibia,2020-02-29,0
+39,Namibia,2020-03-01,0
+40,Namibia,2020-03-02,0
+41,Namibia,2020-03-03,0
+42,Namibia,2020-03-04,0
+43,Namibia,2020-03-05,0
+44,Namibia,2020-03-06,0
+45,Namibia,2020-03-07,0
+46,Namibia,2020-03-08,0
+47,Namibia,2020-03-09,0
+48,Namibia,2020-03-10,0
+49,Namibia,2020-03-11,0
+50,Namibia,2020-03-12,0
+51,Namibia,2020-03-13,0
+52,Namibia,2020-03-14,0
+53,Namibia,2020-03-15,0
+54,Namibia,2020-03-16,0
+55,Namibia,2020-03-17,0
+56,Namibia,2020-03-18,0
+57,Namibia,2020-03-19,0
+58,Namibia,2020-03-20,0
+59,Namibia,2020-03-21,0
+60,Namibia,2020-03-22,0
+61,Namibia,2020-03-23,0
+62,Namibia,2020-03-24,0
+63,Namibia,2020-03-25,0
+64,Namibia,2020-03-26,0
+65,Namibia,2020-03-27,0
+66,Namibia,2020-03-28,0
+67,Namibia,2020-03-29,0
+68,Namibia,2020-03-30,0
+69,Namibia,2020-03-31,0
+70,Namibia,2020-04-01,0
+71,Namibia,2020-04-02,0
+72,Namibia,2020-04-03,0
+73,Namibia,2020-04-04,0
+74,Namibia,2020-04-05,0
+75,Namibia,2020-04-06,0
+76,Namibia,2020-04-07,0
+77,Namibia,2020-04-08,0
+78,Namibia,2020-04-09,0
+79,Namibia,2020-04-10,0
+80,Namibia,2020-04-11,0
+81,Namibia,2020-04-12,0
+82,Namibia,2020-04-13,0
+83,Namibia,2020-04-14,0
+84,Namibia,2020-04-15,0
+85,Namibia,2020-04-16,0
+86,Namibia,2020-04-17,0
+87,Namibia,2020-04-18,0
+88,Namibia,2020-04-19,0
+89,Namibia,2020-04-20,0
+90,Namibia,2020-04-21,0
+91,Namibia,2020-04-22,0
+92,Namibia,2020-04-23,0
+93,Namibia,2020-04-24,0
+94,Namibia,2020-04-25,0
+95,Namibia,2020-04-26,0
+96,Namibia,2020-04-27,0
+97,Namibia,2020-04-28,0
+98,Namibia,2020-04-29,0
+99,Namibia,2020-04-30,0
+100,Namibia,2020-05-01,0
+101,Namibia,2020-05-02,0
+102,Namibia,2020-05-03,0
+103,Namibia,2020-05-04,0
+104,Namibia,2020-05-05,0
+105,Namibia,2020-05-06,0
+106,Namibia,2020-05-07,0
+107,Namibia,2020-05-08,0
+108,Namibia,2020-05-09,0
+109,Namibia,2020-05-10,0
+110,Namibia,2020-05-11,0
+111,Namibia,2020-05-12,0
+112,Namibia,2020-05-13,0
+113,Namibia,2020-05-14,0
+114,Namibia,2020-05-15,0
+115,Namibia,2020-05-16,0
+116,Namibia,2020-05-17,0
+117,Namibia,2020-05-18,0
+118,Namibia,2020-05-19,0
+119,Namibia,2020-05-20,0
+120,Namibia,2020-05-21,0
+121,Namibia,2020-05-22,0
+122,Namibia,2020-05-23,0
+123,Namibia,2020-05-24,0
+124,Namibia,2020-05-25,0
+125,Namibia,2020-05-26,0
+126,Namibia,2020-05-27,0
+127,Namibia,2020-05-28,0
+128,Namibia,2020-05-29,0
+129,Namibia,2020-05-30,0
+130,Namibia,2020-05-31,0
+131,Namibia,2020-06-01,0
+132,Namibia,2020-06-02,0
+133,Namibia,2020-06-03,0
+134,Namibia,2020-06-04,0
+135,Namibia,2020-06-05,0
+136,Namibia,2020-06-06,0
+137,Namibia,2020-06-07,0
+138,Namibia,2020-06-08,0
+139,Namibia,2020-06-09,0
+140,Namibia,2020-06-10,0
+141,Namibia,2020-06-11,0
+142,Namibia,2020-06-12,0
+143,Namibia,2020-06-13,0
+144,Namibia,2020-06-14,0
+145,Namibia,2020-06-15,0
+146,Namibia,2020-06-16,0
+147,Namibia,2020-06-17,0
+148,Namibia,2020-06-18,0
+149,Namibia,2020-06-19,0
+150,Namibia,2020-06-20,0
+0,Niger,2020-01-22,0
+1,Niger,2020-01-23,0
+2,Niger,2020-01-24,0
+3,Niger,2020-01-25,0
+4,Niger,2020-01-26,0
+5,Niger,2020-01-27,0
+6,Niger,2020-01-28,0
+7,Niger,2020-01-29,0
+8,Niger,2020-01-30,0
+9,Niger,2020-01-31,0
+10,Niger,2020-02-01,0
+11,Niger,2020-02-02,0
+12,Niger,2020-02-03,0
+13,Niger,2020-02-04,0
+14,Niger,2020-02-05,0
+15,Niger,2020-02-06,0
+16,Niger,2020-02-07,0
+17,Niger,2020-02-08,0
+18,Niger,2020-02-09,0
+19,Niger,2020-02-10,0
+20,Niger,2020-02-11,0
+21,Niger,2020-02-12,0
+22,Niger,2020-02-13,0
+23,Niger,2020-02-14,0
+24,Niger,2020-02-15,0
+25,Niger,2020-02-16,0
+26,Niger,2020-02-17,0
+27,Niger,2020-02-18,0
+28,Niger,2020-02-19,0
+29,Niger,2020-02-20,0
+30,Niger,2020-02-21,0
+31,Niger,2020-02-22,0
+32,Niger,2020-02-23,0
+33,Niger,2020-02-24,0
+34,Niger,2020-02-25,0
+35,Niger,2020-02-26,0
+36,Niger,2020-02-27,0
+37,Niger,2020-02-28,0
+38,Niger,2020-02-29,0
+39,Niger,2020-03-01,0
+40,Niger,2020-03-02,0
+41,Niger,2020-03-03,0
+42,Niger,2020-03-04,0
+43,Niger,2020-03-05,0
+44,Niger,2020-03-06,0
+45,Niger,2020-03-07,0
+46,Niger,2020-03-08,0
+47,Niger,2020-03-09,0
+48,Niger,2020-03-10,0
+49,Niger,2020-03-11,0
+50,Niger,2020-03-12,0
+51,Niger,2020-03-13,0
+52,Niger,2020-03-14,0
+53,Niger,2020-03-15,0
+54,Niger,2020-03-16,0
+55,Niger,2020-03-17,0
+56,Niger,2020-03-18,0
+57,Niger,2020-03-19,0
+58,Niger,2020-03-20,0
+59,Niger,2020-03-21,0
+60,Niger,2020-03-22,0
+61,Niger,2020-03-23,0
+62,Niger,2020-03-24,0
+63,Niger,2020-03-25,1
+64,Niger,2020-03-26,1
+65,Niger,2020-03-27,1
+66,Niger,2020-03-28,1
+67,Niger,2020-03-29,1
+68,Niger,2020-03-30,3
+69,Niger,2020-03-31,3
+70,Niger,2020-04-01,5
+71,Niger,2020-04-02,5
+72,Niger,2020-04-03,5
+73,Niger,2020-04-04,8
+74,Niger,2020-04-05,10
+75,Niger,2020-04-06,10
+76,Niger,2020-04-07,11
+77,Niger,2020-04-08,11
+78,Niger,2020-04-09,11
+79,Niger,2020-04-10,11
+80,Niger,2020-04-11,11
+81,Niger,2020-04-12,12
+82,Niger,2020-04-13,12
+83,Niger,2020-04-14,14
+84,Niger,2020-04-15,14
+85,Niger,2020-04-16,14
+86,Niger,2020-04-17,18
+87,Niger,2020-04-18,19
+88,Niger,2020-04-19,20
+89,Niger,2020-04-20,20
+90,Niger,2020-04-21,20
+91,Niger,2020-04-22,22
+92,Niger,2020-04-23,24
+93,Niger,2020-04-24,24
+94,Niger,2020-04-25,27
+95,Niger,2020-04-26,29
+96,Niger,2020-04-27,29
+97,Niger,2020-04-28,31
+98,Niger,2020-04-29,32
+99,Niger,2020-04-30,32
+100,Niger,2020-05-01,33
+101,Niger,2020-05-02,35
+102,Niger,2020-05-03,36
+103,Niger,2020-05-04,37
+104,Niger,2020-05-05,38
+105,Niger,2020-05-06,38
+106,Niger,2020-05-07,42
+107,Niger,2020-05-08,44
+108,Niger,2020-05-09,45
+109,Niger,2020-05-10,46
+110,Niger,2020-05-11,46
+111,Niger,2020-05-12,47
+112,Niger,2020-05-13,49
+113,Niger,2020-05-14,50
+114,Niger,2020-05-15,51
+115,Niger,2020-05-16,51
+116,Niger,2020-05-17,54
+117,Niger,2020-05-18,55
+118,Niger,2020-05-19,55
+119,Niger,2020-05-20,58
+120,Niger,2020-05-21,60
+121,Niger,2020-05-22,60
+122,Niger,2020-05-23,61
+123,Niger,2020-05-24,61
+124,Niger,2020-05-25,62
+125,Niger,2020-05-26,63
+126,Niger,2020-05-27,63
+127,Niger,2020-05-28,64
+128,Niger,2020-05-29,64
+129,Niger,2020-05-30,64
+130,Niger,2020-05-31,64
+131,Niger,2020-06-01,65
+132,Niger,2020-06-02,65
+133,Niger,2020-06-03,65
+134,Niger,2020-06-04,65
+135,Niger,2020-06-05,65
+136,Niger,2020-06-06,65
+137,Niger,2020-06-07,65
+138,Niger,2020-06-08,65
+139,Niger,2020-06-09,65
+140,Niger,2020-06-10,65
+141,Niger,2020-06-11,65
+142,Niger,2020-06-12,65
+143,Niger,2020-06-13,66
+144,Niger,2020-06-14,66
+145,Niger,2020-06-15,66
+146,Niger,2020-06-16,66
+147,Niger,2020-06-17,67
+148,Niger,2020-06-18,67
+149,Niger,2020-06-19,67
+150,Niger,2020-06-20,67
+0,Nigeria,2020-01-22,0
+1,Nigeria,2020-01-23,0
+2,Nigeria,2020-01-24,0
+3,Nigeria,2020-01-25,0
+4,Nigeria,2020-01-26,0
+5,Nigeria,2020-01-27,0
+6,Nigeria,2020-01-28,0
+7,Nigeria,2020-01-29,0
+8,Nigeria,2020-01-30,0
+9,Nigeria,2020-01-31,0
+10,Nigeria,2020-02-01,0
+11,Nigeria,2020-02-02,0
+12,Nigeria,2020-02-03,0
+13,Nigeria,2020-02-04,0
+14,Nigeria,2020-02-05,0
+15,Nigeria,2020-02-06,0
+16,Nigeria,2020-02-07,0
+17,Nigeria,2020-02-08,0
+18,Nigeria,2020-02-09,0
+19,Nigeria,2020-02-10,0
+20,Nigeria,2020-02-11,0
+21,Nigeria,2020-02-12,0
+22,Nigeria,2020-02-13,0
+23,Nigeria,2020-02-14,0
+24,Nigeria,2020-02-15,0
+25,Nigeria,2020-02-16,0
+26,Nigeria,2020-02-17,0
+27,Nigeria,2020-02-18,0
+28,Nigeria,2020-02-19,0
+29,Nigeria,2020-02-20,0
+30,Nigeria,2020-02-21,0
+31,Nigeria,2020-02-22,0
+32,Nigeria,2020-02-23,0
+33,Nigeria,2020-02-24,0
+34,Nigeria,2020-02-25,0
+35,Nigeria,2020-02-26,0
+36,Nigeria,2020-02-27,0
+37,Nigeria,2020-02-28,0
+38,Nigeria,2020-02-29,0
+39,Nigeria,2020-03-01,0
+40,Nigeria,2020-03-02,0
+41,Nigeria,2020-03-03,0
+42,Nigeria,2020-03-04,0
+43,Nigeria,2020-03-05,0
+44,Nigeria,2020-03-06,0
+45,Nigeria,2020-03-07,0
+46,Nigeria,2020-03-08,0
+47,Nigeria,2020-03-09,0
+48,Nigeria,2020-03-10,0
+49,Nigeria,2020-03-11,0
+50,Nigeria,2020-03-12,0
+51,Nigeria,2020-03-13,0
+52,Nigeria,2020-03-14,0
+53,Nigeria,2020-03-15,0
+54,Nigeria,2020-03-16,0
+55,Nigeria,2020-03-17,0
+56,Nigeria,2020-03-18,0
+57,Nigeria,2020-03-19,0
+58,Nigeria,2020-03-20,0
+59,Nigeria,2020-03-21,0
+60,Nigeria,2020-03-22,0
+61,Nigeria,2020-03-23,1
+62,Nigeria,2020-03-24,1
+63,Nigeria,2020-03-25,1
+64,Nigeria,2020-03-26,1
+65,Nigeria,2020-03-27,1
+66,Nigeria,2020-03-28,1
+67,Nigeria,2020-03-29,1
+68,Nigeria,2020-03-30,2
+69,Nigeria,2020-03-31,2
+70,Nigeria,2020-04-01,2
+71,Nigeria,2020-04-02,2
+72,Nigeria,2020-04-03,4
+73,Nigeria,2020-04-04,4
+74,Nigeria,2020-04-05,5
+75,Nigeria,2020-04-06,5
+76,Nigeria,2020-04-07,6
+77,Nigeria,2020-04-08,6
+78,Nigeria,2020-04-09,7
+79,Nigeria,2020-04-10,7
+80,Nigeria,2020-04-11,10
+81,Nigeria,2020-04-12,10
+82,Nigeria,2020-04-13,10
+83,Nigeria,2020-04-14,11
+84,Nigeria,2020-04-15,12
+85,Nigeria,2020-04-16,13
+86,Nigeria,2020-04-17,17
+87,Nigeria,2020-04-18,19
+88,Nigeria,2020-04-19,21
+89,Nigeria,2020-04-20,22
+90,Nigeria,2020-04-21,22
+91,Nigeria,2020-04-22,28
+92,Nigeria,2020-04-23,31
+93,Nigeria,2020-04-24,32
+94,Nigeria,2020-04-25,35
+95,Nigeria,2020-04-26,40
+96,Nigeria,2020-04-27,40
+97,Nigeria,2020-04-28,44
+98,Nigeria,2020-04-29,51
+99,Nigeria,2020-04-30,58
+100,Nigeria,2020-05-01,68
+101,Nigeria,2020-05-02,85
+102,Nigeria,2020-05-03,87
+103,Nigeria,2020-05-04,93
+104,Nigeria,2020-05-05,98
+105,Nigeria,2020-05-06,103
+106,Nigeria,2020-05-07,107
+107,Nigeria,2020-05-08,117
+108,Nigeria,2020-05-09,128
+109,Nigeria,2020-05-10,143
+110,Nigeria,2020-05-11,150
+111,Nigeria,2020-05-12,158
+112,Nigeria,2020-05-13,164
+113,Nigeria,2020-05-14,167
+114,Nigeria,2020-05-15,171
+115,Nigeria,2020-05-16,176
+116,Nigeria,2020-05-17,182
+117,Nigeria,2020-05-18,191
+118,Nigeria,2020-05-19,192
+119,Nigeria,2020-05-20,200
+120,Nigeria,2020-05-21,211
+121,Nigeria,2020-05-22,221
+122,Nigeria,2020-05-23,221
+123,Nigeria,2020-05-24,226
+124,Nigeria,2020-05-25,233
+125,Nigeria,2020-05-26,249
+126,Nigeria,2020-05-27,254
+127,Nigeria,2020-05-28,259
+128,Nigeria,2020-05-29,261
+129,Nigeria,2020-05-30,273
+130,Nigeria,2020-05-31,287
+131,Nigeria,2020-06-01,299
+132,Nigeria,2020-06-02,314
+133,Nigeria,2020-06-03,315
+134,Nigeria,2020-06-04,323
+135,Nigeria,2020-06-05,333
+136,Nigeria,2020-06-06,342
+137,Nigeria,2020-06-07,354
+138,Nigeria,2020-06-08,361
+139,Nigeria,2020-06-09,365
+140,Nigeria,2020-06-10,382
+141,Nigeria,2020-06-11,387
+142,Nigeria,2020-06-12,399
+143,Nigeria,2020-06-13,407
+144,Nigeria,2020-06-14,420
+145,Nigeria,2020-06-15,424
+146,Nigeria,2020-06-16,455
+147,Nigeria,2020-06-17,469
+148,Nigeria,2020-06-18,475
+149,Nigeria,2020-06-19,487
+150,Nigeria,2020-06-20,506
+0,Seychelles,2020-01-22,0
+1,Seychelles,2020-01-23,0
+2,Seychelles,2020-01-24,0
+3,Seychelles,2020-01-25,0
+4,Seychelles,2020-01-26,0
+5,Seychelles,2020-01-27,0
+6,Seychelles,2020-01-28,0
+7,Seychelles,2020-01-29,0
+8,Seychelles,2020-01-30,0
+9,Seychelles,2020-01-31,0
+10,Seychelles,2020-02-01,0
+11,Seychelles,2020-02-02,0
+12,Seychelles,2020-02-03,0
+13,Seychelles,2020-02-04,0
+14,Seychelles,2020-02-05,0
+15,Seychelles,2020-02-06,0
+16,Seychelles,2020-02-07,0
+17,Seychelles,2020-02-08,0
+18,Seychelles,2020-02-09,0
+19,Seychelles,2020-02-10,0
+20,Seychelles,2020-02-11,0
+21,Seychelles,2020-02-12,0
+22,Seychelles,2020-02-13,0
+23,Seychelles,2020-02-14,0
+24,Seychelles,2020-02-15,0
+25,Seychelles,2020-02-16,0
+26,Seychelles,2020-02-17,0
+27,Seychelles,2020-02-18,0
+28,Seychelles,2020-02-19,0
+29,Seychelles,2020-02-20,0
+30,Seychelles,2020-02-21,0
+31,Seychelles,2020-02-22,0
+32,Seychelles,2020-02-23,0
+33,Seychelles,2020-02-24,0
+34,Seychelles,2020-02-25,0
+35,Seychelles,2020-02-26,0
+36,Seychelles,2020-02-27,0
+37,Seychelles,2020-02-28,0
+38,Seychelles,2020-02-29,0
+39,Seychelles,2020-03-01,0
+40,Seychelles,2020-03-02,0
+41,Seychelles,2020-03-03,0
+42,Seychelles,2020-03-04,0
+43,Seychelles,2020-03-05,0
+44,Seychelles,2020-03-06,0
+45,Seychelles,2020-03-07,0
+46,Seychelles,2020-03-08,0
+47,Seychelles,2020-03-09,0
+48,Seychelles,2020-03-10,0
+49,Seychelles,2020-03-11,0
+50,Seychelles,2020-03-12,0
+51,Seychelles,2020-03-13,0
+52,Seychelles,2020-03-14,0
+53,Seychelles,2020-03-15,0
+54,Seychelles,2020-03-16,0
+55,Seychelles,2020-03-17,0
+56,Seychelles,2020-03-18,0
+57,Seychelles,2020-03-19,0
+58,Seychelles,2020-03-20,0
+59,Seychelles,2020-03-21,0
+60,Seychelles,2020-03-22,0
+61,Seychelles,2020-03-23,0
+62,Seychelles,2020-03-24,0
+63,Seychelles,2020-03-25,0
+64,Seychelles,2020-03-26,0
+65,Seychelles,2020-03-27,0
+66,Seychelles,2020-03-28,0
+67,Seychelles,2020-03-29,0
+68,Seychelles,2020-03-30,0
+69,Seychelles,2020-03-31,0
+70,Seychelles,2020-04-01,0
+71,Seychelles,2020-04-02,0
+72,Seychelles,2020-04-03,0
+73,Seychelles,2020-04-04,0
+74,Seychelles,2020-04-05,0
+75,Seychelles,2020-04-06,0
+76,Seychelles,2020-04-07,0
+77,Seychelles,2020-04-08,0
+78,Seychelles,2020-04-09,0
+79,Seychelles,2020-04-10,0
+80,Seychelles,2020-04-11,0
+81,Seychelles,2020-04-12,0
+82,Seychelles,2020-04-13,0
+83,Seychelles,2020-04-14,0
+84,Seychelles,2020-04-15,0
+85,Seychelles,2020-04-16,0
+86,Seychelles,2020-04-17,0
+87,Seychelles,2020-04-18,0
+88,Seychelles,2020-04-19,0
+89,Seychelles,2020-04-20,0
+90,Seychelles,2020-04-21,0
+91,Seychelles,2020-04-22,0
+92,Seychelles,2020-04-23,0
+93,Seychelles,2020-04-24,0
+94,Seychelles,2020-04-25,0
+95,Seychelles,2020-04-26,0
+96,Seychelles,2020-04-27,0
+97,Seychelles,2020-04-28,0
+98,Seychelles,2020-04-29,0
+99,Seychelles,2020-04-30,0
+100,Seychelles,2020-05-01,0
+101,Seychelles,2020-05-02,0
+102,Seychelles,2020-05-03,0
+103,Seychelles,2020-05-04,0
+104,Seychelles,2020-05-05,0
+105,Seychelles,2020-05-06,0
+106,Seychelles,2020-05-07,0
+107,Seychelles,2020-05-08,0
+108,Seychelles,2020-05-09,0
+109,Seychelles,2020-05-10,0
+110,Seychelles,2020-05-11,0
+111,Seychelles,2020-05-12,0
+112,Seychelles,2020-05-13,0
+113,Seychelles,2020-05-14,0
+114,Seychelles,2020-05-15,0
+115,Seychelles,2020-05-16,0
+116,Seychelles,2020-05-17,0
+117,Seychelles,2020-05-18,0
+118,Seychelles,2020-05-19,0
+119,Seychelles,2020-05-20,0
+120,Seychelles,2020-05-21,0
+121,Seychelles,2020-05-22,0
+122,Seychelles,2020-05-23,0
+123,Seychelles,2020-05-24,0
+124,Seychelles,2020-05-25,0
+125,Seychelles,2020-05-26,0
+126,Seychelles,2020-05-27,0
+127,Seychelles,2020-05-28,0
+128,Seychelles,2020-05-29,0
+129,Seychelles,2020-05-30,0
+130,Seychelles,2020-05-31,0
+131,Seychelles,2020-06-01,0
+132,Seychelles,2020-06-02,0
+133,Seychelles,2020-06-03,0
+134,Seychelles,2020-06-04,0
+135,Seychelles,2020-06-05,0
+136,Seychelles,2020-06-06,0
+137,Seychelles,2020-06-07,0
+138,Seychelles,2020-06-08,0
+139,Seychelles,2020-06-09,0
+140,Seychelles,2020-06-10,0
+141,Seychelles,2020-06-11,0
+142,Seychelles,2020-06-12,0
+143,Seychelles,2020-06-13,0
+144,Seychelles,2020-06-14,0
+145,Seychelles,2020-06-15,0
+146,Seychelles,2020-06-16,0
+147,Seychelles,2020-06-17,0
+148,Seychelles,2020-06-18,0
+149,Seychelles,2020-06-19,0
+150,Seychelles,2020-06-20,0
+0,Tanzania,2020-01-22,0
+1,Tanzania,2020-01-23,0
+2,Tanzania,2020-01-24,0
+3,Tanzania,2020-01-25,0
+4,Tanzania,2020-01-26,0
+5,Tanzania,2020-01-27,0
+6,Tanzania,2020-01-28,0
+7,Tanzania,2020-01-29,0
+8,Tanzania,2020-01-30,0
+9,Tanzania,2020-01-31,0
+10,Tanzania,2020-02-01,0
+11,Tanzania,2020-02-02,0
+12,Tanzania,2020-02-03,0
+13,Tanzania,2020-02-04,0
+14,Tanzania,2020-02-05,0
+15,Tanzania,2020-02-06,0
+16,Tanzania,2020-02-07,0
+17,Tanzania,2020-02-08,0
+18,Tanzania,2020-02-09,0
+19,Tanzania,2020-02-10,0
+20,Tanzania,2020-02-11,0
+21,Tanzania,2020-02-12,0
+22,Tanzania,2020-02-13,0
+23,Tanzania,2020-02-14,0
+24,Tanzania,2020-02-15,0
+25,Tanzania,2020-02-16,0
+26,Tanzania,2020-02-17,0
+27,Tanzania,2020-02-18,0
+28,Tanzania,2020-02-19,0
+29,Tanzania,2020-02-20,0
+30,Tanzania,2020-02-21,0
+31,Tanzania,2020-02-22,0
+32,Tanzania,2020-02-23,0
+33,Tanzania,2020-02-24,0
+34,Tanzania,2020-02-25,0
+35,Tanzania,2020-02-26,0
+36,Tanzania,2020-02-27,0
+37,Tanzania,2020-02-28,0
+38,Tanzania,2020-02-29,0
+39,Tanzania,2020-03-01,0
+40,Tanzania,2020-03-02,0
+41,Tanzania,2020-03-03,0
+42,Tanzania,2020-03-04,0
+43,Tanzania,2020-03-05,0
+44,Tanzania,2020-03-06,0
+45,Tanzania,2020-03-07,0
+46,Tanzania,2020-03-08,0
+47,Tanzania,2020-03-09,0
+48,Tanzania,2020-03-10,0
+49,Tanzania,2020-03-11,0
+50,Tanzania,2020-03-12,0
+51,Tanzania,2020-03-13,0
+52,Tanzania,2020-03-14,0
+53,Tanzania,2020-03-15,0
+54,Tanzania,2020-03-16,0
+55,Tanzania,2020-03-17,0
+56,Tanzania,2020-03-18,0
+57,Tanzania,2020-03-19,0
+58,Tanzania,2020-03-20,0
+59,Tanzania,2020-03-21,0
+60,Tanzania,2020-03-22,0
+61,Tanzania,2020-03-23,0
+62,Tanzania,2020-03-24,0
+63,Tanzania,2020-03-25,0
+64,Tanzania,2020-03-26,0
+65,Tanzania,2020-03-27,0
+66,Tanzania,2020-03-28,0
+67,Tanzania,2020-03-29,0
+68,Tanzania,2020-03-30,0
+69,Tanzania,2020-03-31,1
+70,Tanzania,2020-04-01,1
+71,Tanzania,2020-04-02,1
+72,Tanzania,2020-04-03,1
+73,Tanzania,2020-04-04,1
+74,Tanzania,2020-04-05,1
+75,Tanzania,2020-04-06,1
+76,Tanzania,2020-04-07,1
+77,Tanzania,2020-04-08,1
+78,Tanzania,2020-04-09,1
+79,Tanzania,2020-04-10,3
+80,Tanzania,2020-04-11,3
+81,Tanzania,2020-04-12,3
+82,Tanzania,2020-04-13,3
+83,Tanzania,2020-04-14,3
+84,Tanzania,2020-04-15,4
+85,Tanzania,2020-04-16,4
+86,Tanzania,2020-04-17,5
+87,Tanzania,2020-04-18,5
+88,Tanzania,2020-04-19,7
+89,Tanzania,2020-04-20,10
+90,Tanzania,2020-04-21,10
+91,Tanzania,2020-04-22,10
+92,Tanzania,2020-04-23,10
+93,Tanzania,2020-04-24,10
+94,Tanzania,2020-04-25,10
+95,Tanzania,2020-04-26,10
+96,Tanzania,2020-04-27,10
+97,Tanzania,2020-04-28,10
+98,Tanzania,2020-04-29,16
+99,Tanzania,2020-04-30,16
+100,Tanzania,2020-05-01,16
+101,Tanzania,2020-05-02,16
+102,Tanzania,2020-05-03,16
+103,Tanzania,2020-05-04,16
+104,Tanzania,2020-05-05,16
+105,Tanzania,2020-05-06,16
+106,Tanzania,2020-05-07,16
+107,Tanzania,2020-05-08,21
+108,Tanzania,2020-05-09,21
+109,Tanzania,2020-05-10,21
+110,Tanzania,2020-05-11,21
+111,Tanzania,2020-05-12,21
+112,Tanzania,2020-05-13,21
+113,Tanzania,2020-05-14,21
+114,Tanzania,2020-05-15,21
+115,Tanzania,2020-05-16,21
+116,Tanzania,2020-05-17,21
+117,Tanzania,2020-05-18,21
+118,Tanzania,2020-05-19,21
+119,Tanzania,2020-05-20,21
+120,Tanzania,2020-05-21,21
+121,Tanzania,2020-05-22,21
+122,Tanzania,2020-05-23,21
+123,Tanzania,2020-05-24,21
+124,Tanzania,2020-05-25,21
+125,Tanzania,2020-05-26,21
+126,Tanzania,2020-05-27,21
+127,Tanzania,2020-05-28,21
+128,Tanzania,2020-05-29,21
+129,Tanzania,2020-05-30,21
+130,Tanzania,2020-05-31,21
+131,Tanzania,2020-06-01,21
+132,Tanzania,2020-06-02,21
+133,Tanzania,2020-06-03,21
+134,Tanzania,2020-06-04,21
+135,Tanzania,2020-06-05,21
+136,Tanzania,2020-06-06,21
+137,Tanzania,2020-06-07,21
+138,Tanzania,2020-06-08,21
+139,Tanzania,2020-06-09,21
+140,Tanzania,2020-06-10,21
+141,Tanzania,2020-06-11,21
+142,Tanzania,2020-06-12,21
+143,Tanzania,2020-06-13,21
+144,Tanzania,2020-06-14,21
+145,Tanzania,2020-06-15,21
+146,Tanzania,2020-06-16,21
+147,Tanzania,2020-06-17,21
+148,Tanzania,2020-06-18,21
+149,Tanzania,2020-06-19,21
+150,Tanzania,2020-06-20,21
+0,Togo,2020-01-22,0
+1,Togo,2020-01-23,0
+2,Togo,2020-01-24,0
+3,Togo,2020-01-25,0
+4,Togo,2020-01-26,0
+5,Togo,2020-01-27,0
+6,Togo,2020-01-28,0
+7,Togo,2020-01-29,0
+8,Togo,2020-01-30,0
+9,Togo,2020-01-31,0
+10,Togo,2020-02-01,0
+11,Togo,2020-02-02,0
+12,Togo,2020-02-03,0
+13,Togo,2020-02-04,0
+14,Togo,2020-02-05,0
+15,Togo,2020-02-06,0
+16,Togo,2020-02-07,0
+17,Togo,2020-02-08,0
+18,Togo,2020-02-09,0
+19,Togo,2020-02-10,0
+20,Togo,2020-02-11,0
+21,Togo,2020-02-12,0
+22,Togo,2020-02-13,0
+23,Togo,2020-02-14,0
+24,Togo,2020-02-15,0
+25,Togo,2020-02-16,0
+26,Togo,2020-02-17,0
+27,Togo,2020-02-18,0
+28,Togo,2020-02-19,0
+29,Togo,2020-02-20,0
+30,Togo,2020-02-21,0
+31,Togo,2020-02-22,0
+32,Togo,2020-02-23,0
+33,Togo,2020-02-24,0
+34,Togo,2020-02-25,0
+35,Togo,2020-02-26,0
+36,Togo,2020-02-27,0
+37,Togo,2020-02-28,0
+38,Togo,2020-02-29,0
+39,Togo,2020-03-01,0
+40,Togo,2020-03-02,0
+41,Togo,2020-03-03,0
+42,Togo,2020-03-04,0
+43,Togo,2020-03-05,0
+44,Togo,2020-03-06,0
+45,Togo,2020-03-07,0
+46,Togo,2020-03-08,0
+47,Togo,2020-03-09,0
+48,Togo,2020-03-10,0
+49,Togo,2020-03-11,0
+50,Togo,2020-03-12,0
+51,Togo,2020-03-13,0
+52,Togo,2020-03-14,0
+53,Togo,2020-03-15,0
+54,Togo,2020-03-16,0
+55,Togo,2020-03-17,0
+56,Togo,2020-03-18,0
+57,Togo,2020-03-19,0
+58,Togo,2020-03-20,0
+59,Togo,2020-03-21,0
+60,Togo,2020-03-22,0
+61,Togo,2020-03-23,0
+62,Togo,2020-03-24,0
+63,Togo,2020-03-25,0
+64,Togo,2020-03-26,0
+65,Togo,2020-03-27,1
+66,Togo,2020-03-28,1
+67,Togo,2020-03-29,1
+68,Togo,2020-03-30,1
+69,Togo,2020-03-31,1
+70,Togo,2020-04-01,2
+71,Togo,2020-04-02,2
+72,Togo,2020-04-03,3
+73,Togo,2020-04-04,3
+74,Togo,2020-04-05,3
+75,Togo,2020-04-06,3
+76,Togo,2020-04-07,3
+77,Togo,2020-04-08,3
+78,Togo,2020-04-09,3
+79,Togo,2020-04-10,3
+80,Togo,2020-04-11,3
+81,Togo,2020-04-12,3
+82,Togo,2020-04-13,3
+83,Togo,2020-04-14,3
+84,Togo,2020-04-15,3
+85,Togo,2020-04-16,5
+86,Togo,2020-04-17,5
+87,Togo,2020-04-18,5
+88,Togo,2020-04-19,5
+89,Togo,2020-04-20,6
+90,Togo,2020-04-21,6
+91,Togo,2020-04-22,6
+92,Togo,2020-04-23,6
+93,Togo,2020-04-24,6
+94,Togo,2020-04-25,6
+95,Togo,2020-04-26,6
+96,Togo,2020-04-27,6
+97,Togo,2020-04-28,6
+98,Togo,2020-04-29,7
+99,Togo,2020-04-30,9
+100,Togo,2020-05-01,9
+101,Togo,2020-05-02,9
+102,Togo,2020-05-03,9
+103,Togo,2020-05-04,9
+104,Togo,2020-05-05,9
+105,Togo,2020-05-06,9
+106,Togo,2020-05-07,9
+107,Togo,2020-05-08,10
+108,Togo,2020-05-09,10
+109,Togo,2020-05-10,11
+110,Togo,2020-05-11,11
+111,Togo,2020-05-12,11
+112,Togo,2020-05-13,11
+113,Togo,2020-05-14,11
+114,Togo,2020-05-15,11
+115,Togo,2020-05-16,11
+116,Togo,2020-05-17,11
+117,Togo,2020-05-18,12
+118,Togo,2020-05-19,12
+119,Togo,2020-05-20,12
+120,Togo,2020-05-21,12
+121,Togo,2020-05-22,12
+122,Togo,2020-05-23,12
+123,Togo,2020-05-24,12
+124,Togo,2020-05-25,13
+125,Togo,2020-05-26,13
+126,Togo,2020-05-27,13
+127,Togo,2020-05-28,13
+128,Togo,2020-05-29,13
+129,Togo,2020-05-30,13
+130,Togo,2020-05-31,13
+131,Togo,2020-06-01,13
+132,Togo,2020-06-02,13
+133,Togo,2020-06-03,13
+134,Togo,2020-06-04,13
+135,Togo,2020-06-05,13
+136,Togo,2020-06-06,13
+137,Togo,2020-06-07,13
+138,Togo,2020-06-08,13
+139,Togo,2020-06-09,13
+140,Togo,2020-06-10,13
+141,Togo,2020-06-11,13
+142,Togo,2020-06-12,13
+143,Togo,2020-06-13,13
+144,Togo,2020-06-14,13
+145,Togo,2020-06-15,13
+146,Togo,2020-06-16,13
+147,Togo,2020-06-17,13
+148,Togo,2020-06-18,13
+149,Togo,2020-06-19,13
+150,Togo,2020-06-20,13
+0,Sierra Leone,2020-01-22,0
+1,Sierra Leone,2020-01-23,0
+2,Sierra Leone,2020-01-24,0
+3,Sierra Leone,2020-01-25,0
+4,Sierra Leone,2020-01-26,0
+5,Sierra Leone,2020-01-27,0
+6,Sierra Leone,2020-01-28,0
+7,Sierra Leone,2020-01-29,0
+8,Sierra Leone,2020-01-30,0
+9,Sierra Leone,2020-01-31,0
+10,Sierra Leone,2020-02-01,0
+11,Sierra Leone,2020-02-02,0
+12,Sierra Leone,2020-02-03,0
+13,Sierra Leone,2020-02-04,0
+14,Sierra Leone,2020-02-05,0
+15,Sierra Leone,2020-02-06,0
+16,Sierra Leone,2020-02-07,0
+17,Sierra Leone,2020-02-08,0
+18,Sierra Leone,2020-02-09,0
+19,Sierra Leone,2020-02-10,0
+20,Sierra Leone,2020-02-11,0
+21,Sierra Leone,2020-02-12,0
+22,Sierra Leone,2020-02-13,0
+23,Sierra Leone,2020-02-14,0
+24,Sierra Leone,2020-02-15,0
+25,Sierra Leone,2020-02-16,0
+26,Sierra Leone,2020-02-17,0
+27,Sierra Leone,2020-02-18,0
+28,Sierra Leone,2020-02-19,0
+29,Sierra Leone,2020-02-20,0
+30,Sierra Leone,2020-02-21,0
+31,Sierra Leone,2020-02-22,0
+32,Sierra Leone,2020-02-23,0
+33,Sierra Leone,2020-02-24,0
+34,Sierra Leone,2020-02-25,0
+35,Sierra Leone,2020-02-26,0
+36,Sierra Leone,2020-02-27,0
+37,Sierra Leone,2020-02-28,0
+38,Sierra Leone,2020-02-29,0
+39,Sierra Leone,2020-03-01,0
+40,Sierra Leone,2020-03-02,0
+41,Sierra Leone,2020-03-03,0
+42,Sierra Leone,2020-03-04,0
+43,Sierra Leone,2020-03-05,0
+44,Sierra Leone,2020-03-06,0
+45,Sierra Leone,2020-03-07,0
+46,Sierra Leone,2020-03-08,0
+47,Sierra Leone,2020-03-09,0
+48,Sierra Leone,2020-03-10,0
+49,Sierra Leone,2020-03-11,0
+50,Sierra Leone,2020-03-12,0
+51,Sierra Leone,2020-03-13,0
+52,Sierra Leone,2020-03-14,0
+53,Sierra Leone,2020-03-15,0
+54,Sierra Leone,2020-03-16,0
+55,Sierra Leone,2020-03-17,0
+56,Sierra Leone,2020-03-18,0
+57,Sierra Leone,2020-03-19,0
+58,Sierra Leone,2020-03-20,0
+59,Sierra Leone,2020-03-21,0
+60,Sierra Leone,2020-03-22,0
+61,Sierra Leone,2020-03-23,0
+62,Sierra Leone,2020-03-24,0
+63,Sierra Leone,2020-03-25,0
+64,Sierra Leone,2020-03-26,0
+65,Sierra Leone,2020-03-27,0
+66,Sierra Leone,2020-03-28,0
+67,Sierra Leone,2020-03-29,0
+68,Sierra Leone,2020-03-30,0
+69,Sierra Leone,2020-03-31,0
+70,Sierra Leone,2020-04-01,0
+71,Sierra Leone,2020-04-02,0
+72,Sierra Leone,2020-04-03,0
+73,Sierra Leone,2020-04-04,0
+74,Sierra Leone,2020-04-05,0
+75,Sierra Leone,2020-04-06,0
+76,Sierra Leone,2020-04-07,0
+77,Sierra Leone,2020-04-08,0
+78,Sierra Leone,2020-04-09,0
+79,Sierra Leone,2020-04-10,0
+80,Sierra Leone,2020-04-11,0
+81,Sierra Leone,2020-04-12,0
+82,Sierra Leone,2020-04-13,0
+83,Sierra Leone,2020-04-14,0
+84,Sierra Leone,2020-04-15,0
+85,Sierra Leone,2020-04-16,0
+86,Sierra Leone,2020-04-17,0
+87,Sierra Leone,2020-04-18,0
+88,Sierra Leone,2020-04-19,0
+89,Sierra Leone,2020-04-20,0
+90,Sierra Leone,2020-04-21,0
+91,Sierra Leone,2020-04-22,0
+92,Sierra Leone,2020-04-23,1
+93,Sierra Leone,2020-04-24,2
+94,Sierra Leone,2020-04-25,2
+95,Sierra Leone,2020-04-26,4
+96,Sierra Leone,2020-04-27,4
+97,Sierra Leone,2020-04-28,4
+98,Sierra Leone,2020-04-29,4
+99,Sierra Leone,2020-04-30,7
+100,Sierra Leone,2020-05-01,7
+101,Sierra Leone,2020-05-02,8
+102,Sierra Leone,2020-05-03,8
+103,Sierra Leone,2020-05-04,9
+104,Sierra Leone,2020-05-05,11
+105,Sierra Leone,2020-05-06,14
+106,Sierra Leone,2020-05-07,16
+107,Sierra Leone,2020-05-08,17
+108,Sierra Leone,2020-05-09,18
+109,Sierra Leone,2020-05-10,18
+110,Sierra Leone,2020-05-11,19
+111,Sierra Leone,2020-05-12,19
+112,Sierra Leone,2020-05-13,26
+113,Sierra Leone,2020-05-14,26
+114,Sierra Leone,2020-05-15,27
+115,Sierra Leone,2020-05-16,29
+116,Sierra Leone,2020-05-17,32
+117,Sierra Leone,2020-05-18,33
+118,Sierra Leone,2020-05-19,33
+119,Sierra Leone,2020-05-20,34
+120,Sierra Leone,2020-05-21,35
+121,Sierra Leone,2020-05-22,38
+122,Sierra Leone,2020-05-23,39
+123,Sierra Leone,2020-05-24,40
+124,Sierra Leone,2020-05-25,42
+125,Sierra Leone,2020-05-26,44
+126,Sierra Leone,2020-05-27,45
+127,Sierra Leone,2020-05-28,45
+128,Sierra Leone,2020-05-29,45
+129,Sierra Leone,2020-05-30,46
+130,Sierra Leone,2020-05-31,46
+131,Sierra Leone,2020-06-01,46
+132,Sierra Leone,2020-06-02,46
+133,Sierra Leone,2020-06-03,47
+134,Sierra Leone,2020-06-04,47
+135,Sierra Leone,2020-06-05,47
+136,Sierra Leone,2020-06-06,48
+137,Sierra Leone,2020-06-07,48
+138,Sierra Leone,2020-06-08,49
+139,Sierra Leone,2020-06-09,50
+140,Sierra Leone,2020-06-10,50
+141,Sierra Leone,2020-06-11,50
+142,Sierra Leone,2020-06-12,51
+143,Sierra Leone,2020-06-13,51
+144,Sierra Leone,2020-06-14,51
+145,Sierra Leone,2020-06-15,51
+146,Sierra Leone,2020-06-16,51
+147,Sierra Leone,2020-06-17,51
+148,Sierra Leone,2020-06-18,51
+149,Sierra Leone,2020-06-19,53
+150,Sierra Leone,2020-06-20,53
+0,Malawi,2020-01-22,0
+1,Malawi,2020-01-23,0
+2,Malawi,2020-01-24,0
+3,Malawi,2020-01-25,0
+4,Malawi,2020-01-26,0
+5,Malawi,2020-01-27,0
+6,Malawi,2020-01-28,0
+7,Malawi,2020-01-29,0
+8,Malawi,2020-01-30,0
+9,Malawi,2020-01-31,0
+10,Malawi,2020-02-01,0
+11,Malawi,2020-02-02,0
+12,Malawi,2020-02-03,0
+13,Malawi,2020-02-04,0
+14,Malawi,2020-02-05,0
+15,Malawi,2020-02-06,0
+16,Malawi,2020-02-07,0
+17,Malawi,2020-02-08,0
+18,Malawi,2020-02-09,0
+19,Malawi,2020-02-10,0
+20,Malawi,2020-02-11,0
+21,Malawi,2020-02-12,0
+22,Malawi,2020-02-13,0
+23,Malawi,2020-02-14,0
+24,Malawi,2020-02-15,0
+25,Malawi,2020-02-16,0
+26,Malawi,2020-02-17,0
+27,Malawi,2020-02-18,0
+28,Malawi,2020-02-19,0
+29,Malawi,2020-02-20,0
+30,Malawi,2020-02-21,0
+31,Malawi,2020-02-22,0
+32,Malawi,2020-02-23,0
+33,Malawi,2020-02-24,0
+34,Malawi,2020-02-25,0
+35,Malawi,2020-02-26,0
+36,Malawi,2020-02-27,0
+37,Malawi,2020-02-28,0
+38,Malawi,2020-02-29,0
+39,Malawi,2020-03-01,0
+40,Malawi,2020-03-02,0
+41,Malawi,2020-03-03,0
+42,Malawi,2020-03-04,0
+43,Malawi,2020-03-05,0
+44,Malawi,2020-03-06,0
+45,Malawi,2020-03-07,0
+46,Malawi,2020-03-08,0
+47,Malawi,2020-03-09,0
+48,Malawi,2020-03-10,0
+49,Malawi,2020-03-11,0
+50,Malawi,2020-03-12,0
+51,Malawi,2020-03-13,0
+52,Malawi,2020-03-14,0
+53,Malawi,2020-03-15,0
+54,Malawi,2020-03-16,0
+55,Malawi,2020-03-17,0
+56,Malawi,2020-03-18,0
+57,Malawi,2020-03-19,0
+58,Malawi,2020-03-20,0
+59,Malawi,2020-03-21,0
+60,Malawi,2020-03-22,0
+61,Malawi,2020-03-23,0
+62,Malawi,2020-03-24,0
+63,Malawi,2020-03-25,0
+64,Malawi,2020-03-26,0
+65,Malawi,2020-03-27,0
+66,Malawi,2020-03-28,0
+67,Malawi,2020-03-29,0
+68,Malawi,2020-03-30,0
+69,Malawi,2020-03-31,0
+70,Malawi,2020-04-01,0
+71,Malawi,2020-04-02,0
+72,Malawi,2020-04-03,0
+73,Malawi,2020-04-04,0
+74,Malawi,2020-04-05,0
+75,Malawi,2020-04-06,0
+76,Malawi,2020-04-07,1
+77,Malawi,2020-04-08,1
+78,Malawi,2020-04-09,1
+79,Malawi,2020-04-10,1
+80,Malawi,2020-04-11,2
+81,Malawi,2020-04-12,2
+82,Malawi,2020-04-13,2
+83,Malawi,2020-04-14,2
+84,Malawi,2020-04-15,2
+85,Malawi,2020-04-16,2
+86,Malawi,2020-04-17,2
+87,Malawi,2020-04-18,2
+88,Malawi,2020-04-19,2
+89,Malawi,2020-04-20,2
+90,Malawi,2020-04-21,2
+91,Malawi,2020-04-22,3
+92,Malawi,2020-04-23,3
+93,Malawi,2020-04-24,3
+94,Malawi,2020-04-25,3
+95,Malawi,2020-04-26,3
+96,Malawi,2020-04-27,3
+97,Malawi,2020-04-28,3
+98,Malawi,2020-04-29,3
+99,Malawi,2020-04-30,3
+100,Malawi,2020-05-01,3
+101,Malawi,2020-05-02,3
+102,Malawi,2020-05-03,3
+103,Malawi,2020-05-04,3
+104,Malawi,2020-05-05,3
+105,Malawi,2020-05-06,3
+106,Malawi,2020-05-07,3
+107,Malawi,2020-05-08,3
+108,Malawi,2020-05-09,3
+109,Malawi,2020-05-10,3
+110,Malawi,2020-05-11,3
+111,Malawi,2020-05-12,3
+112,Malawi,2020-05-13,3
+113,Malawi,2020-05-14,3
+114,Malawi,2020-05-15,3
+115,Malawi,2020-05-16,3
+116,Malawi,2020-05-17,3
+117,Malawi,2020-05-18,3
+118,Malawi,2020-05-19,3
+119,Malawi,2020-05-20,3
+120,Malawi,2020-05-21,3
+121,Malawi,2020-05-22,3
+122,Malawi,2020-05-23,3
+123,Malawi,2020-05-24,4
+124,Malawi,2020-05-25,4
+125,Malawi,2020-05-26,4
+126,Malawi,2020-05-27,4
+127,Malawi,2020-05-28,4
+128,Malawi,2020-05-29,4
+129,Malawi,2020-05-30,4
+130,Malawi,2020-05-31,4
+131,Malawi,2020-06-01,4
+132,Malawi,2020-06-02,4
+133,Malawi,2020-06-03,4
+134,Malawi,2020-06-04,4
+135,Malawi,2020-06-05,4
+136,Malawi,2020-06-06,4
+137,Malawi,2020-06-07,4
+138,Malawi,2020-06-08,4
+139,Malawi,2020-06-09,4
+140,Malawi,2020-06-10,4
+141,Malawi,2020-06-11,4
+142,Malawi,2020-06-12,4
+143,Malawi,2020-06-13,5
+144,Malawi,2020-06-14,6
+145,Malawi,2020-06-15,6
+146,Malawi,2020-06-16,6
+147,Malawi,2020-06-17,6
+148,Malawi,2020-06-18,8
+149,Malawi,2020-06-19,8
+150,Malawi,2020-06-20,8
+0,South Sudan,2020-01-22,0
+1,South Sudan,2020-01-23,0
+2,South Sudan,2020-01-24,0
+3,South Sudan,2020-01-25,0
+4,South Sudan,2020-01-26,0
+5,South Sudan,2020-01-27,0
+6,South Sudan,2020-01-28,0
+7,South Sudan,2020-01-29,0
+8,South Sudan,2020-01-30,0
+9,South Sudan,2020-01-31,0
+10,South Sudan,2020-02-01,0
+11,South Sudan,2020-02-02,0
+12,South Sudan,2020-02-03,0
+13,South Sudan,2020-02-04,0
+14,South Sudan,2020-02-05,0
+15,South Sudan,2020-02-06,0
+16,South Sudan,2020-02-07,0
+17,South Sudan,2020-02-08,0
+18,South Sudan,2020-02-09,0
+19,South Sudan,2020-02-10,0
+20,South Sudan,2020-02-11,0
+21,South Sudan,2020-02-12,0
+22,South Sudan,2020-02-13,0
+23,South Sudan,2020-02-14,0
+24,South Sudan,2020-02-15,0
+25,South Sudan,2020-02-16,0
+26,South Sudan,2020-02-17,0
+27,South Sudan,2020-02-18,0
+28,South Sudan,2020-02-19,0
+29,South Sudan,2020-02-20,0
+30,South Sudan,2020-02-21,0
+31,South Sudan,2020-02-22,0
+32,South Sudan,2020-02-23,0
+33,South Sudan,2020-02-24,0
+34,South Sudan,2020-02-25,0
+35,South Sudan,2020-02-26,0
+36,South Sudan,2020-02-27,0
+37,South Sudan,2020-02-28,0
+38,South Sudan,2020-02-29,0
+39,South Sudan,2020-03-01,0
+40,South Sudan,2020-03-02,0
+41,South Sudan,2020-03-03,0
+42,South Sudan,2020-03-04,0
+43,South Sudan,2020-03-05,0
+44,South Sudan,2020-03-06,0
+45,South Sudan,2020-03-07,0
+46,South Sudan,2020-03-08,0
+47,South Sudan,2020-03-09,0
+48,South Sudan,2020-03-10,0
+49,South Sudan,2020-03-11,0
+50,South Sudan,2020-03-12,0
+51,South Sudan,2020-03-13,0
+52,South Sudan,2020-03-14,0
+53,South Sudan,2020-03-15,0
+54,South Sudan,2020-03-16,0
+55,South Sudan,2020-03-17,0
+56,South Sudan,2020-03-18,0
+57,South Sudan,2020-03-19,0
+58,South Sudan,2020-03-20,0
+59,South Sudan,2020-03-21,0
+60,South Sudan,2020-03-22,0
+61,South Sudan,2020-03-23,0
+62,South Sudan,2020-03-24,0
+63,South Sudan,2020-03-25,0
+64,South Sudan,2020-03-26,0
+65,South Sudan,2020-03-27,0
+66,South Sudan,2020-03-28,0
+67,South Sudan,2020-03-29,0
+68,South Sudan,2020-03-30,0
+69,South Sudan,2020-03-31,0
+70,South Sudan,2020-04-01,0
+71,South Sudan,2020-04-02,0
+72,South Sudan,2020-04-03,0
+73,South Sudan,2020-04-04,0
+74,South Sudan,2020-04-05,0
+75,South Sudan,2020-04-06,0
+76,South Sudan,2020-04-07,0
+77,South Sudan,2020-04-08,0
+78,South Sudan,2020-04-09,0
+79,South Sudan,2020-04-10,0
+80,South Sudan,2020-04-11,0
+81,South Sudan,2020-04-12,0
+82,South Sudan,2020-04-13,0
+83,South Sudan,2020-04-14,0
+84,South Sudan,2020-04-15,0
+85,South Sudan,2020-04-16,0
+86,South Sudan,2020-04-17,0
+87,South Sudan,2020-04-18,0
+88,South Sudan,2020-04-19,0
+89,South Sudan,2020-04-20,0
+90,South Sudan,2020-04-21,0
+91,South Sudan,2020-04-22,0
+92,South Sudan,2020-04-23,0
+93,South Sudan,2020-04-24,0
+94,South Sudan,2020-04-25,0
+95,South Sudan,2020-04-26,0
+96,South Sudan,2020-04-27,0
+97,South Sudan,2020-04-28,0
+98,South Sudan,2020-04-29,0
+99,South Sudan,2020-04-30,0
+100,South Sudan,2020-05-01,0
+101,South Sudan,2020-05-02,0
+102,South Sudan,2020-05-03,0
+103,South Sudan,2020-05-04,0
+104,South Sudan,2020-05-05,0
+105,South Sudan,2020-05-06,0
+106,South Sudan,2020-05-07,0
+107,South Sudan,2020-05-08,0
+108,South Sudan,2020-05-09,0
+109,South Sudan,2020-05-10,0
+110,South Sudan,2020-05-11,0
+111,South Sudan,2020-05-12,0
+112,South Sudan,2020-05-13,0
+113,South Sudan,2020-05-14,0
+114,South Sudan,2020-05-15,4
+115,South Sudan,2020-05-16,4
+116,South Sudan,2020-05-17,4
+117,South Sudan,2020-05-18,4
+118,South Sudan,2020-05-19,4
+119,South Sudan,2020-05-20,4
+120,South Sudan,2020-05-21,4
+121,South Sudan,2020-05-22,6
+122,South Sudan,2020-05-23,8
+123,South Sudan,2020-05-24,8
+124,South Sudan,2020-05-25,8
+125,South Sudan,2020-05-26,8
+126,South Sudan,2020-05-27,10
+127,South Sudan,2020-05-28,10
+128,South Sudan,2020-05-29,10
+129,South Sudan,2020-05-30,10
+130,South Sudan,2020-05-31,10
+131,South Sudan,2020-06-01,10
+132,South Sudan,2020-06-02,10
+133,South Sudan,2020-06-03,10
+134,South Sudan,2020-06-04,10
+135,South Sudan,2020-06-05,10
+136,South Sudan,2020-06-06,10
+137,South Sudan,2020-06-07,14
+138,South Sudan,2020-06-08,19
+139,South Sudan,2020-06-09,19
+140,South Sudan,2020-06-10,19
+141,South Sudan,2020-06-11,24
+142,South Sudan,2020-06-12,24
+143,South Sudan,2020-06-13,27
+144,South Sudan,2020-06-14,27
+145,South Sudan,2020-06-15,27
+146,South Sudan,2020-06-16,30
+147,South Sudan,2020-06-17,31
+148,South Sudan,2020-06-18,32
+149,South Sudan,2020-06-19,34
+150,South Sudan,2020-06-20,34
+0,Tunisia,2020-01-22,0
+1,Tunisia,2020-01-23,0
+2,Tunisia,2020-01-24,0
+3,Tunisia,2020-01-25,0
+4,Tunisia,2020-01-26,0
+5,Tunisia,2020-01-27,0
+6,Tunisia,2020-01-28,0
+7,Tunisia,2020-01-29,0
+8,Tunisia,2020-01-30,0
+9,Tunisia,2020-01-31,0
+10,Tunisia,2020-02-01,0
+11,Tunisia,2020-02-02,0
+12,Tunisia,2020-02-03,0
+13,Tunisia,2020-02-04,0
+14,Tunisia,2020-02-05,0
+15,Tunisia,2020-02-06,0
+16,Tunisia,2020-02-07,0
+17,Tunisia,2020-02-08,0
+18,Tunisia,2020-02-09,0
+19,Tunisia,2020-02-10,0
+20,Tunisia,2020-02-11,0
+21,Tunisia,2020-02-12,0
+22,Tunisia,2020-02-13,0
+23,Tunisia,2020-02-14,0
+24,Tunisia,2020-02-15,0
+25,Tunisia,2020-02-16,0
+26,Tunisia,2020-02-17,0
+27,Tunisia,2020-02-18,0
+28,Tunisia,2020-02-19,0
+29,Tunisia,2020-02-20,0
+30,Tunisia,2020-02-21,0
+31,Tunisia,2020-02-22,0
+32,Tunisia,2020-02-23,0
+33,Tunisia,2020-02-24,0
+34,Tunisia,2020-02-25,0
+35,Tunisia,2020-02-26,0
+36,Tunisia,2020-02-27,0
+37,Tunisia,2020-02-28,0
+38,Tunisia,2020-02-29,0
+39,Tunisia,2020-03-01,0
+40,Tunisia,2020-03-02,0
+41,Tunisia,2020-03-03,0
+42,Tunisia,2020-03-04,0
+43,Tunisia,2020-03-05,0
+44,Tunisia,2020-03-06,0
+45,Tunisia,2020-03-07,0
+46,Tunisia,2020-03-08,0
+47,Tunisia,2020-03-09,0
+48,Tunisia,2020-03-10,0
+49,Tunisia,2020-03-11,0
+50,Tunisia,2020-03-12,0
+51,Tunisia,2020-03-13,0
+52,Tunisia,2020-03-14,0
+53,Tunisia,2020-03-15,0
+54,Tunisia,2020-03-16,0
+55,Tunisia,2020-03-17,0
+56,Tunisia,2020-03-18,0
+57,Tunisia,2020-03-19,1
+58,Tunisia,2020-03-20,1
+59,Tunisia,2020-03-21,1
+60,Tunisia,2020-03-22,3
+61,Tunisia,2020-03-23,3
+62,Tunisia,2020-03-24,4
+63,Tunisia,2020-03-25,5
+64,Tunisia,2020-03-26,6
+65,Tunisia,2020-03-27,6
+66,Tunisia,2020-03-28,8
+67,Tunisia,2020-03-29,8
+68,Tunisia,2020-03-30,8
+69,Tunisia,2020-03-31,10
+70,Tunisia,2020-04-01,12
+71,Tunisia,2020-04-02,14
+72,Tunisia,2020-04-03,18
+73,Tunisia,2020-04-04,18
+74,Tunisia,2020-04-05,22
+75,Tunisia,2020-04-06,22
+76,Tunisia,2020-04-07,23
+77,Tunisia,2020-04-08,24
+78,Tunisia,2020-04-09,25
+79,Tunisia,2020-04-10,25
+80,Tunisia,2020-04-11,28
+81,Tunisia,2020-04-12,31
+82,Tunisia,2020-04-13,34
+83,Tunisia,2020-04-14,34
+84,Tunisia,2020-04-15,35
+85,Tunisia,2020-04-16,37
+86,Tunisia,2020-04-17,37
+87,Tunisia,2020-04-18,37
+88,Tunisia,2020-04-19,38
+89,Tunisia,2020-04-20,38
+90,Tunisia,2020-04-21,38
+91,Tunisia,2020-04-22,38
+92,Tunisia,2020-04-23,38
+93,Tunisia,2020-04-24,38
+94,Tunisia,2020-04-25,38
+95,Tunisia,2020-04-26,38
+96,Tunisia,2020-04-27,39
+97,Tunisia,2020-04-28,40
+98,Tunisia,2020-04-29,40
+99,Tunisia,2020-04-30,41
+100,Tunisia,2020-05-01,41
+101,Tunisia,2020-05-02,42
+102,Tunisia,2020-05-03,42
+103,Tunisia,2020-05-04,43
+104,Tunisia,2020-05-05,43
+105,Tunisia,2020-05-06,43
+106,Tunisia,2020-05-07,44
+107,Tunisia,2020-05-08,45
+108,Tunisia,2020-05-09,45
+109,Tunisia,2020-05-10,45
+110,Tunisia,2020-05-11,45
+111,Tunisia,2020-05-12,45
+112,Tunisia,2020-05-13,45
+113,Tunisia,2020-05-14,45
+114,Tunisia,2020-05-15,45
+115,Tunisia,2020-05-16,45
+116,Tunisia,2020-05-17,45
+117,Tunisia,2020-05-18,46
+118,Tunisia,2020-05-19,47
+119,Tunisia,2020-05-20,47
+120,Tunisia,2020-05-21,47
+121,Tunisia,2020-05-22,47
+122,Tunisia,2020-05-23,48
+123,Tunisia,2020-05-24,48
+124,Tunisia,2020-05-25,48
+125,Tunisia,2020-05-26,48
+126,Tunisia,2020-05-27,48
+127,Tunisia,2020-05-28,48
+128,Tunisia,2020-05-29,48
+129,Tunisia,2020-05-30,48
+130,Tunisia,2020-05-31,48
+131,Tunisia,2020-06-01,48
+132,Tunisia,2020-06-02,48
+133,Tunisia,2020-06-03,49
+134,Tunisia,2020-06-04,49
+135,Tunisia,2020-06-05,49
+136,Tunisia,2020-06-06,49
+137,Tunisia,2020-06-07,49
+138,Tunisia,2020-06-08,49
+139,Tunisia,2020-06-09,49
+140,Tunisia,2020-06-10,49
+141,Tunisia,2020-06-11,49
+142,Tunisia,2020-06-12,49
+143,Tunisia,2020-06-13,49
+144,Tunisia,2020-06-14,49
+145,Tunisia,2020-06-15,49
+146,Tunisia,2020-06-16,49
+147,Tunisia,2020-06-17,50
+148,Tunisia,2020-06-18,50
+149,Tunisia,2020-06-19,50
+150,Tunisia,2020-06-20,50
+0,Uganda,2020-01-22,0
+1,Uganda,2020-01-23,0
+2,Uganda,2020-01-24,0
+3,Uganda,2020-01-25,0
+4,Uganda,2020-01-26,0
+5,Uganda,2020-01-27,0
+6,Uganda,2020-01-28,0
+7,Uganda,2020-01-29,0
+8,Uganda,2020-01-30,0
+9,Uganda,2020-01-31,0
+10,Uganda,2020-02-01,0
+11,Uganda,2020-02-02,0
+12,Uganda,2020-02-03,0
+13,Uganda,2020-02-04,0
+14,Uganda,2020-02-05,0
+15,Uganda,2020-02-06,0
+16,Uganda,2020-02-07,0
+17,Uganda,2020-02-08,0
+18,Uganda,2020-02-09,0
+19,Uganda,2020-02-10,0
+20,Uganda,2020-02-11,0
+21,Uganda,2020-02-12,0
+22,Uganda,2020-02-13,0
+23,Uganda,2020-02-14,0
+24,Uganda,2020-02-15,0
+25,Uganda,2020-02-16,0
+26,Uganda,2020-02-17,0
+27,Uganda,2020-02-18,0
+28,Uganda,2020-02-19,0
+29,Uganda,2020-02-20,0
+30,Uganda,2020-02-21,0
+31,Uganda,2020-02-22,0
+32,Uganda,2020-02-23,0
+33,Uganda,2020-02-24,0
+34,Uganda,2020-02-25,0
+35,Uganda,2020-02-26,0
+36,Uganda,2020-02-27,0
+37,Uganda,2020-02-28,0
+38,Uganda,2020-02-29,0
+39,Uganda,2020-03-01,0
+40,Uganda,2020-03-02,0
+41,Uganda,2020-03-03,0
+42,Uganda,2020-03-04,0
+43,Uganda,2020-03-05,0
+44,Uganda,2020-03-06,0
+45,Uganda,2020-03-07,0
+46,Uganda,2020-03-08,0
+47,Uganda,2020-03-09,0
+48,Uganda,2020-03-10,0
+49,Uganda,2020-03-11,0
+50,Uganda,2020-03-12,0
+51,Uganda,2020-03-13,0
+52,Uganda,2020-03-14,0
+53,Uganda,2020-03-15,0
+54,Uganda,2020-03-16,0
+55,Uganda,2020-03-17,0
+56,Uganda,2020-03-18,0
+57,Uganda,2020-03-19,0
+58,Uganda,2020-03-20,0
+59,Uganda,2020-03-21,0
+60,Uganda,2020-03-22,0
+61,Uganda,2020-03-23,0
+62,Uganda,2020-03-24,0
+63,Uganda,2020-03-25,0
+64,Uganda,2020-03-26,0
+65,Uganda,2020-03-27,0
+66,Uganda,2020-03-28,0
+67,Uganda,2020-03-29,0
+68,Uganda,2020-03-30,0
+69,Uganda,2020-03-31,0
+70,Uganda,2020-04-01,0
+71,Uganda,2020-04-02,0
+72,Uganda,2020-04-03,0
+73,Uganda,2020-04-04,0
+74,Uganda,2020-04-05,0
+75,Uganda,2020-04-06,0
+76,Uganda,2020-04-07,0
+77,Uganda,2020-04-08,0
+78,Uganda,2020-04-09,0
+79,Uganda,2020-04-10,0
+80,Uganda,2020-04-11,0
+81,Uganda,2020-04-12,0
+82,Uganda,2020-04-13,0
+83,Uganda,2020-04-14,0
+84,Uganda,2020-04-15,0
+85,Uganda,2020-04-16,0
+86,Uganda,2020-04-17,0
+87,Uganda,2020-04-18,0
+88,Uganda,2020-04-19,0
+89,Uganda,2020-04-20,0
+90,Uganda,2020-04-21,0
+91,Uganda,2020-04-22,0
+92,Uganda,2020-04-23,0
+93,Uganda,2020-04-24,0
+94,Uganda,2020-04-25,0
+95,Uganda,2020-04-26,0
+96,Uganda,2020-04-27,0
+97,Uganda,2020-04-28,0
+98,Uganda,2020-04-29,0
+99,Uganda,2020-04-30,0
+100,Uganda,2020-05-01,0
+101,Uganda,2020-05-02,0
+102,Uganda,2020-05-03,0
+103,Uganda,2020-05-04,0
+104,Uganda,2020-05-05,0
+105,Uganda,2020-05-06,0
+106,Uganda,2020-05-07,0
+107,Uganda,2020-05-08,0
+108,Uganda,2020-05-09,0
+109,Uganda,2020-05-10,0
+110,Uganda,2020-05-11,0
+111,Uganda,2020-05-12,0
+112,Uganda,2020-05-13,0
+113,Uganda,2020-05-14,0
+114,Uganda,2020-05-15,0
+115,Uganda,2020-05-16,0
+116,Uganda,2020-05-17,0
+117,Uganda,2020-05-18,0
+118,Uganda,2020-05-19,0
+119,Uganda,2020-05-20,0
+120,Uganda,2020-05-21,0
+121,Uganda,2020-05-22,0
+122,Uganda,2020-05-23,0
+123,Uganda,2020-05-24,0
+124,Uganda,2020-05-25,0
+125,Uganda,2020-05-26,0
+126,Uganda,2020-05-27,0
+127,Uganda,2020-05-28,0
+128,Uganda,2020-05-29,0
+129,Uganda,2020-05-30,0
+130,Uganda,2020-05-31,0
+131,Uganda,2020-06-01,0
+132,Uganda,2020-06-02,0
+133,Uganda,2020-06-03,0
+134,Uganda,2020-06-04,0
+135,Uganda,2020-06-05,0
+136,Uganda,2020-06-06,0
+137,Uganda,2020-06-07,0
+138,Uganda,2020-06-08,0
+139,Uganda,2020-06-09,0
+140,Uganda,2020-06-10,0
+141,Uganda,2020-06-11,0
+142,Uganda,2020-06-12,0
+143,Uganda,2020-06-13,0
+144,Uganda,2020-06-14,0
+145,Uganda,2020-06-15,0
+146,Uganda,2020-06-16,0
+147,Uganda,2020-06-17,0
+148,Uganda,2020-06-18,0
+149,Uganda,2020-06-19,0
+150,Uganda,2020-06-20,0
+0,Senegal,2020-01-22,0
+1,Senegal,2020-01-23,0
+2,Senegal,2020-01-24,0
+3,Senegal,2020-01-25,0
+4,Senegal,2020-01-26,0
+5,Senegal,2020-01-27,0
+6,Senegal,2020-01-28,0
+7,Senegal,2020-01-29,0
+8,Senegal,2020-01-30,0
+9,Senegal,2020-01-31,0
+10,Senegal,2020-02-01,0
+11,Senegal,2020-02-02,0
+12,Senegal,2020-02-03,0
+13,Senegal,2020-02-04,0
+14,Senegal,2020-02-05,0
+15,Senegal,2020-02-06,0
+16,Senegal,2020-02-07,0
+17,Senegal,2020-02-08,0
+18,Senegal,2020-02-09,0
+19,Senegal,2020-02-10,0
+20,Senegal,2020-02-11,0
+21,Senegal,2020-02-12,0
+22,Senegal,2020-02-13,0
+23,Senegal,2020-02-14,0
+24,Senegal,2020-02-15,0
+25,Senegal,2020-02-16,0
+26,Senegal,2020-02-17,0
+27,Senegal,2020-02-18,0
+28,Senegal,2020-02-19,0
+29,Senegal,2020-02-20,0
+30,Senegal,2020-02-21,0
+31,Senegal,2020-02-22,0
+32,Senegal,2020-02-23,0
+33,Senegal,2020-02-24,0
+34,Senegal,2020-02-25,0
+35,Senegal,2020-02-26,0
+36,Senegal,2020-02-27,0
+37,Senegal,2020-02-28,0
+38,Senegal,2020-02-29,0
+39,Senegal,2020-03-01,0
+40,Senegal,2020-03-02,0
+41,Senegal,2020-03-03,0
+42,Senegal,2020-03-04,0
+43,Senegal,2020-03-05,0
+44,Senegal,2020-03-06,0
+45,Senegal,2020-03-07,0
+46,Senegal,2020-03-08,0
+47,Senegal,2020-03-09,0
+48,Senegal,2020-03-10,0
+49,Senegal,2020-03-11,0
+50,Senegal,2020-03-12,0
+51,Senegal,2020-03-13,0
+52,Senegal,2020-03-14,0
+53,Senegal,2020-03-15,0
+54,Senegal,2020-03-16,0
+55,Senegal,2020-03-17,0
+56,Senegal,2020-03-18,0
+57,Senegal,2020-03-19,0
+58,Senegal,2020-03-20,0
+59,Senegal,2020-03-21,0
+60,Senegal,2020-03-22,0
+61,Senegal,2020-03-23,0
+62,Senegal,2020-03-24,0
+63,Senegal,2020-03-25,0
+64,Senegal,2020-03-26,0
+65,Senegal,2020-03-27,0
+66,Senegal,2020-03-28,0
+67,Senegal,2020-03-29,0
+68,Senegal,2020-03-30,0
+69,Senegal,2020-03-31,0
+70,Senegal,2020-04-01,1
+71,Senegal,2020-04-02,1
+72,Senegal,2020-04-03,1
+73,Senegal,2020-04-04,2
+74,Senegal,2020-04-05,2
+75,Senegal,2020-04-06,2
+76,Senegal,2020-04-07,2
+77,Senegal,2020-04-08,2
+78,Senegal,2020-04-09,2
+79,Senegal,2020-04-10,2
+80,Senegal,2020-04-11,2
+81,Senegal,2020-04-12,2
+82,Senegal,2020-04-13,2
+83,Senegal,2020-04-14,2
+84,Senegal,2020-04-15,2
+85,Senegal,2020-04-16,2
+86,Senegal,2020-04-17,2
+87,Senegal,2020-04-18,3
+88,Senegal,2020-04-19,3
+89,Senegal,2020-04-20,5
+90,Senegal,2020-04-21,5
+91,Senegal,2020-04-22,6
+92,Senegal,2020-04-23,6
+93,Senegal,2020-04-24,7
+94,Senegal,2020-04-25,7
+95,Senegal,2020-04-26,9
+96,Senegal,2020-04-27,9
+97,Senegal,2020-04-28,9
+98,Senegal,2020-04-29,9
+99,Senegal,2020-04-30,9
+100,Senegal,2020-05-01,9
+101,Senegal,2020-05-02,9
+102,Senegal,2020-05-03,9
+103,Senegal,2020-05-04,10
+104,Senegal,2020-05-05,11
+105,Senegal,2020-05-06,12
+106,Senegal,2020-05-07,13
+107,Senegal,2020-05-08,13
+108,Senegal,2020-05-09,17
+109,Senegal,2020-05-10,19
+110,Senegal,2020-05-11,19
+111,Senegal,2020-05-12,19
+112,Senegal,2020-05-13,21
+113,Senegal,2020-05-14,23
+114,Senegal,2020-05-15,25
+115,Senegal,2020-05-16,25
+116,Senegal,2020-05-17,25
+117,Senegal,2020-05-18,26
+118,Senegal,2020-05-19,30
+119,Senegal,2020-05-20,30
+120,Senegal,2020-05-21,33
+121,Senegal,2020-05-22,33
+122,Senegal,2020-05-23,34
+123,Senegal,2020-05-24,35
+124,Senegal,2020-05-25,35
+125,Senegal,2020-05-26,36
+126,Senegal,2020-05-27,38
+127,Senegal,2020-05-28,39
+128,Senegal,2020-05-29,41
+129,Senegal,2020-05-30,42
+130,Senegal,2020-05-31,42
+131,Senegal,2020-06-01,42
+132,Senegal,2020-06-02,43
+133,Senegal,2020-06-03,45
+134,Senegal,2020-06-04,45
+135,Senegal,2020-06-05,45
+136,Senegal,2020-06-06,47
+137,Senegal,2020-06-07,49
+138,Senegal,2020-06-08,49
+139,Senegal,2020-06-09,52
+140,Senegal,2020-06-10,52
+141,Senegal,2020-06-11,55
+142,Senegal,2020-06-12,56
+143,Senegal,2020-06-13,60
+144,Senegal,2020-06-14,60
+145,Senegal,2020-06-15,64
+146,Senegal,2020-06-16,70
+147,Senegal,2020-06-17,73
+148,Senegal,2020-06-18,76
+149,Senegal,2020-06-19,79
+150,Senegal,2020-06-20,82
+0,South Africa,2020-01-22,0
+1,South Africa,2020-01-23,0
+2,South Africa,2020-01-24,0
+3,South Africa,2020-01-25,0
+4,South Africa,2020-01-26,0
+5,South Africa,2020-01-27,0
+6,South Africa,2020-01-28,0
+7,South Africa,2020-01-29,0
+8,South Africa,2020-01-30,0
+9,South Africa,2020-01-31,0
+10,South Africa,2020-02-01,0
+11,South Africa,2020-02-02,0
+12,South Africa,2020-02-03,0
+13,South Africa,2020-02-04,0
+14,South Africa,2020-02-05,0
+15,South Africa,2020-02-06,0
+16,South Africa,2020-02-07,0
+17,South Africa,2020-02-08,0
+18,South Africa,2020-02-09,0
+19,South Africa,2020-02-10,0
+20,South Africa,2020-02-11,0
+21,South Africa,2020-02-12,0
+22,South Africa,2020-02-13,0
+23,South Africa,2020-02-14,0
+24,South Africa,2020-02-15,0
+25,South Africa,2020-02-16,0
+26,South Africa,2020-02-17,0
+27,South Africa,2020-02-18,0
+28,South Africa,2020-02-19,0
+29,South Africa,2020-02-20,0
+30,South Africa,2020-02-21,0
+31,South Africa,2020-02-22,0
+32,South Africa,2020-02-23,0
+33,South Africa,2020-02-24,0
+34,South Africa,2020-02-25,0
+35,South Africa,2020-02-26,0
+36,South Africa,2020-02-27,0
+37,South Africa,2020-02-28,0
+38,South Africa,2020-02-29,0
+39,South Africa,2020-03-01,0
+40,South Africa,2020-03-02,0
+41,South Africa,2020-03-03,0
+42,South Africa,2020-03-04,0
+43,South Africa,2020-03-05,0
+44,South Africa,2020-03-06,0
+45,South Africa,2020-03-07,0
+46,South Africa,2020-03-08,0
+47,South Africa,2020-03-09,0
+48,South Africa,2020-03-10,0
+49,South Africa,2020-03-11,0
+50,South Africa,2020-03-12,0
+51,South Africa,2020-03-13,0
+52,South Africa,2020-03-14,0
+53,South Africa,2020-03-15,0
+54,South Africa,2020-03-16,0
+55,South Africa,2020-03-17,0
+56,South Africa,2020-03-18,0
+57,South Africa,2020-03-19,0
+58,South Africa,2020-03-20,0
+59,South Africa,2020-03-21,0
+60,South Africa,2020-03-22,0
+61,South Africa,2020-03-23,0
+62,South Africa,2020-03-24,0
+63,South Africa,2020-03-25,0
+64,South Africa,2020-03-26,0
+65,South Africa,2020-03-27,1
+66,South Africa,2020-03-28,1
+67,South Africa,2020-03-29,2
+68,South Africa,2020-03-30,3
+69,South Africa,2020-03-31,5
+70,South Africa,2020-04-01,5
+71,South Africa,2020-04-02,5
+72,South Africa,2020-04-03,9
+73,South Africa,2020-04-04,9
+74,South Africa,2020-04-05,11
+75,South Africa,2020-04-06,12
+76,South Africa,2020-04-07,13
+77,South Africa,2020-04-08,18
+78,South Africa,2020-04-09,18
+79,South Africa,2020-04-10,24
+80,South Africa,2020-04-11,25
+81,South Africa,2020-04-12,25
+82,South Africa,2020-04-13,27
+83,South Africa,2020-04-14,27
+84,South Africa,2020-04-15,34
+85,South Africa,2020-04-16,48
+86,South Africa,2020-04-17,50
+87,South Africa,2020-04-18,52
+88,South Africa,2020-04-19,54
+89,South Africa,2020-04-20,58
+90,South Africa,2020-04-21,58
+91,South Africa,2020-04-22,65
+92,South Africa,2020-04-23,75
+93,South Africa,2020-04-24,79
+94,South Africa,2020-04-25,86
+95,South Africa,2020-04-26,87
+96,South Africa,2020-04-27,90
+97,South Africa,2020-04-28,93
+98,South Africa,2020-04-29,103
+99,South Africa,2020-04-30,103
+100,South Africa,2020-05-01,116
+101,South Africa,2020-05-02,123
+102,South Africa,2020-05-03,131
+103,South Africa,2020-05-04,138
+104,South Africa,2020-05-05,148
+105,South Africa,2020-05-06,153
+106,South Africa,2020-05-07,161
+107,South Africa,2020-05-08,178
+108,South Africa,2020-05-09,186
+109,South Africa,2020-05-10,194
+110,South Africa,2020-05-11,206
+111,South Africa,2020-05-12,206
+112,South Africa,2020-05-13,219
+113,South Africa,2020-05-14,238
+114,South Africa,2020-05-15,247
+115,South Africa,2020-05-16,261
+116,South Africa,2020-05-17,264
+117,South Africa,2020-05-18,286
+118,South Africa,2020-05-19,312
+119,South Africa,2020-05-20,339
+120,South Africa,2020-05-21,369
+121,South Africa,2020-05-22,397
+122,South Africa,2020-05-23,407
+123,South Africa,2020-05-24,429
+124,South Africa,2020-05-25,481
+125,South Africa,2020-05-26,524
+126,South Africa,2020-05-27,552
+127,South Africa,2020-05-28,577
+128,South Africa,2020-05-29,611
+129,South Africa,2020-05-30,643
+130,South Africa,2020-05-31,683
+131,South Africa,2020-06-01,705
+132,South Africa,2020-06-02,755
+133,South Africa,2020-06-03,792
+134,South Africa,2020-06-04,848
+135,South Africa,2020-06-05,908
+136,South Africa,2020-06-06,952
+137,South Africa,2020-06-07,998
+138,South Africa,2020-06-08,1080
+139,South Africa,2020-06-09,1162
+140,South Africa,2020-06-10,1210
+141,South Africa,2020-06-11,1284
+142,South Africa,2020-06-12,1354
+143,South Africa,2020-06-13,1423
+144,South Africa,2020-06-14,1480
+145,South Africa,2020-06-15,1568
+146,South Africa,2020-06-16,1625
+147,South Africa,2020-06-17,1674
+148,South Africa,2020-06-18,1737
+149,South Africa,2020-06-19,1831
+150,South Africa,2020-06-20,1877
+0,Sudan,2020-01-22,0
+1,Sudan,2020-01-23,0
+2,Sudan,2020-01-24,0
+3,Sudan,2020-01-25,0
+4,Sudan,2020-01-26,0
+5,Sudan,2020-01-27,0
+6,Sudan,2020-01-28,0
+7,Sudan,2020-01-29,0
+8,Sudan,2020-01-30,0
+9,Sudan,2020-01-31,0
+10,Sudan,2020-02-01,0
+11,Sudan,2020-02-02,0
+12,Sudan,2020-02-03,0
+13,Sudan,2020-02-04,0
+14,Sudan,2020-02-05,0
+15,Sudan,2020-02-06,0
+16,Sudan,2020-02-07,0
+17,Sudan,2020-02-08,0
+18,Sudan,2020-02-09,0
+19,Sudan,2020-02-10,0
+20,Sudan,2020-02-11,0
+21,Sudan,2020-02-12,0
+22,Sudan,2020-02-13,0
+23,Sudan,2020-02-14,0
+24,Sudan,2020-02-15,0
+25,Sudan,2020-02-16,0
+26,Sudan,2020-02-17,0
+27,Sudan,2020-02-18,0
+28,Sudan,2020-02-19,0
+29,Sudan,2020-02-20,0
+30,Sudan,2020-02-21,0
+31,Sudan,2020-02-22,0
+32,Sudan,2020-02-23,0
+33,Sudan,2020-02-24,0
+34,Sudan,2020-02-25,0
+35,Sudan,2020-02-26,0
+36,Sudan,2020-02-27,0
+37,Sudan,2020-02-28,0
+38,Sudan,2020-02-29,0
+39,Sudan,2020-03-01,0
+40,Sudan,2020-03-02,0
+41,Sudan,2020-03-03,0
+42,Sudan,2020-03-04,0
+43,Sudan,2020-03-05,0
+44,Sudan,2020-03-06,0
+45,Sudan,2020-03-07,0
+46,Sudan,2020-03-08,0
+47,Sudan,2020-03-09,0
+48,Sudan,2020-03-10,0
+49,Sudan,2020-03-11,0
+50,Sudan,2020-03-12,0
+51,Sudan,2020-03-13,1
+52,Sudan,2020-03-14,1
+53,Sudan,2020-03-15,1
+54,Sudan,2020-03-16,1
+55,Sudan,2020-03-17,1
+56,Sudan,2020-03-18,1
+57,Sudan,2020-03-19,1
+58,Sudan,2020-03-20,1
+59,Sudan,2020-03-21,1
+60,Sudan,2020-03-22,1
+61,Sudan,2020-03-23,1
+62,Sudan,2020-03-24,1
+63,Sudan,2020-03-25,1
+64,Sudan,2020-03-26,1
+65,Sudan,2020-03-27,1
+66,Sudan,2020-03-28,1
+67,Sudan,2020-03-29,1
+68,Sudan,2020-03-30,2
+69,Sudan,2020-03-31,2
+70,Sudan,2020-04-01,2
+71,Sudan,2020-04-02,2
+72,Sudan,2020-04-03,2
+73,Sudan,2020-04-04,2
+74,Sudan,2020-04-05,2
+75,Sudan,2020-04-06,2
+76,Sudan,2020-04-07,2
+77,Sudan,2020-04-08,2
+78,Sudan,2020-04-09,2
+79,Sudan,2020-04-10,2
+80,Sudan,2020-04-11,2
+81,Sudan,2020-04-12,2
+82,Sudan,2020-04-13,4
+83,Sudan,2020-04-14,5
+84,Sudan,2020-04-15,5
+85,Sudan,2020-04-16,5
+86,Sudan,2020-04-17,6
+87,Sudan,2020-04-18,10
+88,Sudan,2020-04-19,10
+89,Sudan,2020-04-20,12
+90,Sudan,2020-04-21,12
+91,Sudan,2020-04-22,13
+92,Sudan,2020-04-23,16
+93,Sudan,2020-04-24,16
+94,Sudan,2020-04-25,17
+95,Sudan,2020-04-26,21
+96,Sudan,2020-04-27,22
+97,Sudan,2020-04-28,25
+98,Sudan,2020-04-29,28
+99,Sudan,2020-04-30,31
+100,Sudan,2020-05-01,36
+101,Sudan,2020-05-02,41
+102,Sudan,2020-05-03,41
+103,Sudan,2020-05-04,41
+104,Sudan,2020-05-05,45
+105,Sudan,2020-05-06,49
+106,Sudan,2020-05-07,52
+107,Sudan,2020-05-08,59
+108,Sudan,2020-05-09,64
+109,Sudan,2020-05-10,70
+110,Sudan,2020-05-11,74
+111,Sudan,2020-05-12,80
+112,Sudan,2020-05-13,90
+113,Sudan,2020-05-14,90
+114,Sudan,2020-05-15,91
+115,Sudan,2020-05-16,97
+116,Sudan,2020-05-17,97
+117,Sudan,2020-05-18,105
+118,Sudan,2020-05-19,111
+119,Sudan,2020-05-20,111
+120,Sudan,2020-05-21,121
+121,Sudan,2020-05-22,137
+122,Sudan,2020-05-23,146
+123,Sudan,2020-05-24,165
+124,Sudan,2020-05-25,170
+125,Sudan,2020-05-26,170
+126,Sudan,2020-05-27,195
+127,Sudan,2020-05-28,195
+128,Sudan,2020-05-29,233
+129,Sudan,2020-05-30,262
+130,Sudan,2020-05-31,286
+131,Sudan,2020-06-01,298
+132,Sudan,2020-06-02,307
+133,Sudan,2020-06-03,314
+134,Sudan,2020-06-04,333
+135,Sudan,2020-06-05,347
+136,Sudan,2020-06-06,359
+137,Sudan,2020-06-07,359
+138,Sudan,2020-06-08,372
+139,Sudan,2020-06-09,389
+140,Sudan,2020-06-10,401
+141,Sudan,2020-06-11,413
+142,Sudan,2020-06-12,433
+143,Sudan,2020-06-13,447
+144,Sudan,2020-06-14,459
+145,Sudan,2020-06-15,468
+146,Sudan,2020-06-16,477
+147,Sudan,2020-06-17,487
+148,Sudan,2020-06-18,487
+149,Sudan,2020-06-19,506
+150,Sudan,2020-06-20,521
+0,Western Sahara,2020-01-22,0
+1,Western Sahara,2020-01-23,0
+2,Western Sahara,2020-01-24,0
+3,Western Sahara,2020-01-25,0
+4,Western Sahara,2020-01-26,0
+5,Western Sahara,2020-01-27,0
+6,Western Sahara,2020-01-28,0
+7,Western Sahara,2020-01-29,0
+8,Western Sahara,2020-01-30,0
+9,Western Sahara,2020-01-31,0
+10,Western Sahara,2020-02-01,0
+11,Western Sahara,2020-02-02,0
+12,Western Sahara,2020-02-03,0
+13,Western Sahara,2020-02-04,0
+14,Western Sahara,2020-02-05,0
+15,Western Sahara,2020-02-06,0
+16,Western Sahara,2020-02-07,0
+17,Western Sahara,2020-02-08,0
+18,Western Sahara,2020-02-09,0
+19,Western Sahara,2020-02-10,0
+20,Western Sahara,2020-02-11,0
+21,Western Sahara,2020-02-12,0
+22,Western Sahara,2020-02-13,0
+23,Western Sahara,2020-02-14,0
+24,Western Sahara,2020-02-15,0
+25,Western Sahara,2020-02-16,0
+26,Western Sahara,2020-02-17,0
+27,Western Sahara,2020-02-18,0
+28,Western Sahara,2020-02-19,0
+29,Western Sahara,2020-02-20,0
+30,Western Sahara,2020-02-21,0
+31,Western Sahara,2020-02-22,0
+32,Western Sahara,2020-02-23,0
+33,Western Sahara,2020-02-24,0
+34,Western Sahara,2020-02-25,0
+35,Western Sahara,2020-02-26,0
+36,Western Sahara,2020-02-27,0
+37,Western Sahara,2020-02-28,0
+38,Western Sahara,2020-02-29,0
+39,Western Sahara,2020-03-01,0
+40,Western Sahara,2020-03-02,0
+41,Western Sahara,2020-03-03,0
+42,Western Sahara,2020-03-04,0
+43,Western Sahara,2020-03-05,0
+44,Western Sahara,2020-03-06,0
+45,Western Sahara,2020-03-07,0
+46,Western Sahara,2020-03-08,0
+47,Western Sahara,2020-03-09,0
+48,Western Sahara,2020-03-10,0
+49,Western Sahara,2020-03-11,0
+50,Western Sahara,2020-03-12,0
+51,Western Sahara,2020-03-13,0
+52,Western Sahara,2020-03-14,0
+53,Western Sahara,2020-03-15,0
+54,Western Sahara,2020-03-16,0
+55,Western Sahara,2020-03-17,0
+56,Western Sahara,2020-03-18,0
+57,Western Sahara,2020-03-19,0
+58,Western Sahara,2020-03-20,0
+59,Western Sahara,2020-03-21,0
+60,Western Sahara,2020-03-22,0
+61,Western Sahara,2020-03-23,0
+62,Western Sahara,2020-03-24,0
+63,Western Sahara,2020-03-25,0
+64,Western Sahara,2020-03-26,0
+65,Western Sahara,2020-03-27,0
+66,Western Sahara,2020-03-28,0
+67,Western Sahara,2020-03-29,0
+68,Western Sahara,2020-03-30,0
+69,Western Sahara,2020-03-31,0
+70,Western Sahara,2020-04-01,0
+71,Western Sahara,2020-04-02,0
+72,Western Sahara,2020-04-03,0
+73,Western Sahara,2020-04-04,0
+74,Western Sahara,2020-04-05,0
+75,Western Sahara,2020-04-06,0
+76,Western Sahara,2020-04-07,0
+77,Western Sahara,2020-04-08,0
+78,Western Sahara,2020-04-09,0
+79,Western Sahara,2020-04-10,0
+80,Western Sahara,2020-04-11,0
+81,Western Sahara,2020-04-12,0
+82,Western Sahara,2020-04-13,0
+83,Western Sahara,2020-04-14,0
+84,Western Sahara,2020-04-15,0
+85,Western Sahara,2020-04-16,0
+86,Western Sahara,2020-04-17,0
+87,Western Sahara,2020-04-18,0
+88,Western Sahara,2020-04-19,0
+89,Western Sahara,2020-04-20,0
+90,Western Sahara,2020-04-21,0
+91,Western Sahara,2020-04-22,0
+92,Western Sahara,2020-04-23,0
+93,Western Sahara,2020-04-24,0
+94,Western Sahara,2020-04-25,0
+95,Western Sahara,2020-04-26,0
+96,Western Sahara,2020-04-27,0
+97,Western Sahara,2020-04-28,0
+98,Western Sahara,2020-04-29,0
+99,Western Sahara,2020-04-30,0
+100,Western Sahara,2020-05-01,0
+101,Western Sahara,2020-05-02,0
+102,Western Sahara,2020-05-03,0
+103,Western Sahara,2020-05-04,0
+104,Western Sahara,2020-05-05,0
+105,Western Sahara,2020-05-06,0
+106,Western Sahara,2020-05-07,0
+107,Western Sahara,2020-05-08,0
+108,Western Sahara,2020-05-09,0
+109,Western Sahara,2020-05-10,0
+110,Western Sahara,2020-05-11,0
+111,Western Sahara,2020-05-12,0
+112,Western Sahara,2020-05-13,0
+113,Western Sahara,2020-05-14,0
+114,Western Sahara,2020-05-15,0
+115,Western Sahara,2020-05-16,0
+116,Western Sahara,2020-05-17,0
+117,Western Sahara,2020-05-18,0
+118,Western Sahara,2020-05-19,0
+119,Western Sahara,2020-05-20,0
+120,Western Sahara,2020-05-21,0
+121,Western Sahara,2020-05-22,0
+122,Western Sahara,2020-05-23,0
+123,Western Sahara,2020-05-24,0
+124,Western Sahara,2020-05-25,0
+125,Western Sahara,2020-05-26,1
+126,Western Sahara,2020-05-27,1
+127,Western Sahara,2020-05-28,1
+128,Western Sahara,2020-05-29,1
+129,Western Sahara,2020-05-30,1
+130,Western Sahara,2020-05-31,1
+131,Western Sahara,2020-06-01,1
+132,Western Sahara,2020-06-02,1
+133,Western Sahara,2020-06-03,1
+134,Western Sahara,2020-06-04,1
+135,Western Sahara,2020-06-05,1
+136,Western Sahara,2020-06-06,1
+137,Western Sahara,2020-06-07,1
+138,Western Sahara,2020-06-08,1
+139,Western Sahara,2020-06-09,1
+140,Western Sahara,2020-06-10,1
+141,Western Sahara,2020-06-11,1
+142,Western Sahara,2020-06-12,1
+143,Western Sahara,2020-06-13,1
+144,Western Sahara,2020-06-14,1
+145,Western Sahara,2020-06-15,1
+146,Western Sahara,2020-06-16,1
+147,Western Sahara,2020-06-17,1
+148,Western Sahara,2020-06-18,1
+149,Western Sahara,2020-06-19,1
+150,Western Sahara,2020-06-20,1
+0,Zambia,2020-01-22,0
+1,Zambia,2020-01-23,0
+2,Zambia,2020-01-24,0
+3,Zambia,2020-01-25,0
+4,Zambia,2020-01-26,0
+5,Zambia,2020-01-27,0
+6,Zambia,2020-01-28,0
+7,Zambia,2020-01-29,0
+8,Zambia,2020-01-30,0
+9,Zambia,2020-01-31,0
+10,Zambia,2020-02-01,0
+11,Zambia,2020-02-02,0
+12,Zambia,2020-02-03,0
+13,Zambia,2020-02-04,0
+14,Zambia,2020-02-05,0
+15,Zambia,2020-02-06,0
+16,Zambia,2020-02-07,0
+17,Zambia,2020-02-08,0
+18,Zambia,2020-02-09,0
+19,Zambia,2020-02-10,0
+20,Zambia,2020-02-11,0
+21,Zambia,2020-02-12,0
+22,Zambia,2020-02-13,0
+23,Zambia,2020-02-14,0
+24,Zambia,2020-02-15,0
+25,Zambia,2020-02-16,0
+26,Zambia,2020-02-17,0
+27,Zambia,2020-02-18,0
+28,Zambia,2020-02-19,0
+29,Zambia,2020-02-20,0
+30,Zambia,2020-02-21,0
+31,Zambia,2020-02-22,0
+32,Zambia,2020-02-23,0
+33,Zambia,2020-02-24,0
+34,Zambia,2020-02-25,0
+35,Zambia,2020-02-26,0
+36,Zambia,2020-02-27,0
+37,Zambia,2020-02-28,0
+38,Zambia,2020-02-29,0
+39,Zambia,2020-03-01,0
+40,Zambia,2020-03-02,0
+41,Zambia,2020-03-03,0
+42,Zambia,2020-03-04,0
+43,Zambia,2020-03-05,0
+44,Zambia,2020-03-06,0
+45,Zambia,2020-03-07,0
+46,Zambia,2020-03-08,0
+47,Zambia,2020-03-09,0
+48,Zambia,2020-03-10,0
+49,Zambia,2020-03-11,0
+50,Zambia,2020-03-12,0
+51,Zambia,2020-03-13,0
+52,Zambia,2020-03-14,0
+53,Zambia,2020-03-15,0
+54,Zambia,2020-03-16,0
+55,Zambia,2020-03-17,0
+56,Zambia,2020-03-18,0
+57,Zambia,2020-03-19,0
+58,Zambia,2020-03-20,0
+59,Zambia,2020-03-21,0
+60,Zambia,2020-03-22,0
+61,Zambia,2020-03-23,0
+62,Zambia,2020-03-24,0
+63,Zambia,2020-03-25,0
+64,Zambia,2020-03-26,0
+65,Zambia,2020-03-27,0
+66,Zambia,2020-03-28,0
+67,Zambia,2020-03-29,0
+68,Zambia,2020-03-30,0
+69,Zambia,2020-03-31,0
+70,Zambia,2020-04-01,0
+71,Zambia,2020-04-02,1
+72,Zambia,2020-04-03,1
+73,Zambia,2020-04-04,1
+74,Zambia,2020-04-05,1
+75,Zambia,2020-04-06,1
+76,Zambia,2020-04-07,1
+77,Zambia,2020-04-08,1
+78,Zambia,2020-04-09,1
+79,Zambia,2020-04-10,2
+80,Zambia,2020-04-11,2
+81,Zambia,2020-04-12,2
+82,Zambia,2020-04-13,2
+83,Zambia,2020-04-14,2
+84,Zambia,2020-04-15,2
+85,Zambia,2020-04-16,2
+86,Zambia,2020-04-17,2
+87,Zambia,2020-04-18,2
+88,Zambia,2020-04-19,3
+89,Zambia,2020-04-20,3
+90,Zambia,2020-04-21,3
+91,Zambia,2020-04-22,3
+92,Zambia,2020-04-23,3
+93,Zambia,2020-04-24,3
+94,Zambia,2020-04-25,3
+95,Zambia,2020-04-26,3
+96,Zambia,2020-04-27,3
+97,Zambia,2020-04-28,3
+98,Zambia,2020-04-29,3
+99,Zambia,2020-04-30,3
+100,Zambia,2020-05-01,3
+101,Zambia,2020-05-02,3
+102,Zambia,2020-05-03,3
+103,Zambia,2020-05-04,3
+104,Zambia,2020-05-05,3
+105,Zambia,2020-05-06,4
+106,Zambia,2020-05-07,4
+107,Zambia,2020-05-08,4
+108,Zambia,2020-05-09,7
+109,Zambia,2020-05-10,7
+110,Zambia,2020-05-11,7
+111,Zambia,2020-05-12,7
+112,Zambia,2020-05-13,7
+113,Zambia,2020-05-14,7
+114,Zambia,2020-05-15,7
+115,Zambia,2020-05-16,7
+116,Zambia,2020-05-17,7
+117,Zambia,2020-05-18,7
+118,Zambia,2020-05-19,7
+119,Zambia,2020-05-20,7
+120,Zambia,2020-05-21,7
+121,Zambia,2020-05-22,7
+122,Zambia,2020-05-23,7
+123,Zambia,2020-05-24,7
+124,Zambia,2020-05-25,7
+125,Zambia,2020-05-26,7
+126,Zambia,2020-05-27,7
+127,Zambia,2020-05-28,7
+128,Zambia,2020-05-29,7
+129,Zambia,2020-05-30,7
+130,Zambia,2020-05-31,7
+131,Zambia,2020-06-01,7
+132,Zambia,2020-06-02,7
+133,Zambia,2020-06-03,7
+134,Zambia,2020-06-04,7
+135,Zambia,2020-06-05,7
+136,Zambia,2020-06-06,7
+137,Zambia,2020-06-07,7
+138,Zambia,2020-06-08,10
+139,Zambia,2020-06-09,10
+140,Zambia,2020-06-10,10
+141,Zambia,2020-06-11,10
+142,Zambia,2020-06-12,10
+143,Zambia,2020-06-13,10
+144,Zambia,2020-06-14,11
+145,Zambia,2020-06-15,11
+146,Zambia,2020-06-16,11
+147,Zambia,2020-06-17,11
+148,Zambia,2020-06-18,11
+149,Zambia,2020-06-19,11
+150,Zambia,2020-06-20,11
+0,Zimbabwe,2020-01-22,0
+1,Zimbabwe,2020-01-23,0
+2,Zimbabwe,2020-01-24,0
+3,Zimbabwe,2020-01-25,0
+4,Zimbabwe,2020-01-26,0
+5,Zimbabwe,2020-01-27,0
+6,Zimbabwe,2020-01-28,0
+7,Zimbabwe,2020-01-29,0
+8,Zimbabwe,2020-01-30,0
+9,Zimbabwe,2020-01-31,0
+10,Zimbabwe,2020-02-01,0
+11,Zimbabwe,2020-02-02,0
+12,Zimbabwe,2020-02-03,0
+13,Zimbabwe,2020-02-04,0
+14,Zimbabwe,2020-02-05,0
+15,Zimbabwe,2020-02-06,0
+16,Zimbabwe,2020-02-07,0
+17,Zimbabwe,2020-02-08,0
+18,Zimbabwe,2020-02-09,0
+19,Zimbabwe,2020-02-10,0
+20,Zimbabwe,2020-02-11,0
+21,Zimbabwe,2020-02-12,0
+22,Zimbabwe,2020-02-13,0
+23,Zimbabwe,2020-02-14,0
+24,Zimbabwe,2020-02-15,0
+25,Zimbabwe,2020-02-16,0
+26,Zimbabwe,2020-02-17,0
+27,Zimbabwe,2020-02-18,0
+28,Zimbabwe,2020-02-19,0
+29,Zimbabwe,2020-02-20,0
+30,Zimbabwe,2020-02-21,0
+31,Zimbabwe,2020-02-22,0
+32,Zimbabwe,2020-02-23,0
+33,Zimbabwe,2020-02-24,0
+34,Zimbabwe,2020-02-25,0
+35,Zimbabwe,2020-02-26,0
+36,Zimbabwe,2020-02-27,0
+37,Zimbabwe,2020-02-28,0
+38,Zimbabwe,2020-02-29,0
+39,Zimbabwe,2020-03-01,0
+40,Zimbabwe,2020-03-02,0
+41,Zimbabwe,2020-03-03,0
+42,Zimbabwe,2020-03-04,0
+43,Zimbabwe,2020-03-05,0
+44,Zimbabwe,2020-03-06,0
+45,Zimbabwe,2020-03-07,0
+46,Zimbabwe,2020-03-08,0
+47,Zimbabwe,2020-03-09,0
+48,Zimbabwe,2020-03-10,0
+49,Zimbabwe,2020-03-11,0
+50,Zimbabwe,2020-03-12,0
+51,Zimbabwe,2020-03-13,0
+52,Zimbabwe,2020-03-14,0
+53,Zimbabwe,2020-03-15,0
+54,Zimbabwe,2020-03-16,0
+55,Zimbabwe,2020-03-17,0
+56,Zimbabwe,2020-03-18,0
+57,Zimbabwe,2020-03-19,0
+58,Zimbabwe,2020-03-20,0
+59,Zimbabwe,2020-03-21,0
+60,Zimbabwe,2020-03-22,0
+61,Zimbabwe,2020-03-23,1
+62,Zimbabwe,2020-03-24,1
+63,Zimbabwe,2020-03-25,1
+64,Zimbabwe,2020-03-26,1
+65,Zimbabwe,2020-03-27,1
+66,Zimbabwe,2020-03-28,1
+67,Zimbabwe,2020-03-29,1
+68,Zimbabwe,2020-03-30,1
+69,Zimbabwe,2020-03-31,1
+70,Zimbabwe,2020-04-01,1
+71,Zimbabwe,2020-04-02,1
+72,Zimbabwe,2020-04-03,1
+73,Zimbabwe,2020-04-04,1
+74,Zimbabwe,2020-04-05,1
+75,Zimbabwe,2020-04-06,1
+76,Zimbabwe,2020-04-07,2
+77,Zimbabwe,2020-04-08,3
+78,Zimbabwe,2020-04-09,3
+79,Zimbabwe,2020-04-10,3
+80,Zimbabwe,2020-04-11,3
+81,Zimbabwe,2020-04-12,3
+82,Zimbabwe,2020-04-13,3
+83,Zimbabwe,2020-04-14,3
+84,Zimbabwe,2020-04-15,3
+85,Zimbabwe,2020-04-16,3
+86,Zimbabwe,2020-04-17,3
+87,Zimbabwe,2020-04-18,3
+88,Zimbabwe,2020-04-19,3
+89,Zimbabwe,2020-04-20,3
+90,Zimbabwe,2020-04-21,3
+91,Zimbabwe,2020-04-22,4
+92,Zimbabwe,2020-04-23,4
+93,Zimbabwe,2020-04-24,4
+94,Zimbabwe,2020-04-25,4
+95,Zimbabwe,2020-04-26,4
+96,Zimbabwe,2020-04-27,4
+97,Zimbabwe,2020-04-28,4
+98,Zimbabwe,2020-04-29,4
+99,Zimbabwe,2020-04-30,4
+100,Zimbabwe,2020-05-01,4
+101,Zimbabwe,2020-05-02,4
+102,Zimbabwe,2020-05-03,4
+103,Zimbabwe,2020-05-04,4
+104,Zimbabwe,2020-05-05,4
+105,Zimbabwe,2020-05-06,4
+106,Zimbabwe,2020-05-07,4
+107,Zimbabwe,2020-05-08,4
+108,Zimbabwe,2020-05-09,4
+109,Zimbabwe,2020-05-10,4
+110,Zimbabwe,2020-05-11,4
+111,Zimbabwe,2020-05-12,4
+112,Zimbabwe,2020-05-13,4
+113,Zimbabwe,2020-05-14,4
+114,Zimbabwe,2020-05-15,4
+115,Zimbabwe,2020-05-16,4
+116,Zimbabwe,2020-05-17,4
+117,Zimbabwe,2020-05-18,4
+118,Zimbabwe,2020-05-19,4
+119,Zimbabwe,2020-05-20,4
+120,Zimbabwe,2020-05-21,4
+121,Zimbabwe,2020-05-22,4
+122,Zimbabwe,2020-05-23,4
+123,Zimbabwe,2020-05-24,4
+124,Zimbabwe,2020-05-25,4
+125,Zimbabwe,2020-05-26,4
+126,Zimbabwe,2020-05-27,4
+127,Zimbabwe,2020-05-28,4
+128,Zimbabwe,2020-05-29,4
+129,Zimbabwe,2020-05-30,4
+130,Zimbabwe,2020-05-31,4
+131,Zimbabwe,2020-06-01,4
+132,Zimbabwe,2020-06-02,4
+133,Zimbabwe,2020-06-03,4
+134,Zimbabwe,2020-06-04,4
+135,Zimbabwe,2020-06-05,4
+136,Zimbabwe,2020-06-06,4
+137,Zimbabwe,2020-06-07,4
+138,Zimbabwe,2020-06-08,4
+139,Zimbabwe,2020-06-09,4
+140,Zimbabwe,2020-06-10,4
+141,Zimbabwe,2020-06-11,4
+142,Zimbabwe,2020-06-12,4
+143,Zimbabwe,2020-06-13,4
+144,Zimbabwe,2020-06-14,4
+145,Zimbabwe,2020-06-15,4
+146,Zimbabwe,2020-06-16,4
+147,Zimbabwe,2020-06-17,4
+148,Zimbabwe,2020-06-18,4
+149,Zimbabwe,2020-06-19,4
+150,Zimbabwe,2020-06-20,4
